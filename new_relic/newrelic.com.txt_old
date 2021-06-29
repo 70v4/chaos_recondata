@@ -3,6 +3,7 @@
 131.service.newrelic.com
 140.service.newrelic.com
 157m.service.newrelic.com
+1pass-scim-bridge.newrelic.com
 2fchartdata.service.newrelic.com
 2fhypertext.service.newrelic.com
 account.newrelic.com
@@ -306,9 +307,12 @@ entity-search.service.newrelic.com
 eqix-ch1.newrelic.com
 eqix-ema-dc.newrelic.com
 eu.newrelic.com
+eu.newrelic.com-tls10.eu.newrelic.com
+eu.newrelic.com-tls12.eu.newrelic.com
 fr.newrelic.com
 get.newrelic.com
 got.newrelic.com
+grpc.newrelic.com
 heroku.newrelic.com
 hudson.newrelic.com
 hypertext.service.newrelic.com
@@ -402,6 +406,7 @@ legacy-service.newrelic.com
 legacy-status.newrelic.com
 lewsblog.newrelic.com
 localhost.newrelic.com
+log-api.eu.newrelic.com
 log-api.newrelic.com
 login-origin.newrelic.com
 login.newrelic.com
@@ -433,7 +438,9 @@ mobile-symbol-upload.newrelic.com
 nerd-graph.service.newrelic.com
 next-azure-ext.newrelic.com
 next-support.newrelic.com
+nr1-edge-test.one.newrelic.com
 nrpn.newrelic.com
+oldblog.newrelic.com
 one.eu.newrelic.com
 one.newrelic.com
 opt-in.service.newrelic.com
@@ -554,7 +561,9 @@ test.newrelic.com
 test5.newrelic.com
 testlink.newrelic.com
 tips.newrelic.com
+tls10.eu.newrelic.com
 tls10.newrelic.com
+tls12.eu.newrelic.com
 tls12.newrelic.com
 tls12.staging-log-api.newrelic.com
 trace-this.newrelic.com

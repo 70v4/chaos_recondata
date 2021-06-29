@@ -8,6 +8,8 @@ nearx.paytm.in
 oauth-aws.paytm.in
 oauth-sandbox.paytm.in
 paytm-payments-smtp1.paytm.in
+pg-nonprodcert.paytm.in
+pg-prodcert.paytm.in
 qr-cloud.paytm.in
 recharge.e.paytm.in
 secure.paytm.in

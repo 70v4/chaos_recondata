@@ -762,6 +762,7 @@ dailydeals.mtn.co.za
 dbdnscache3.mtn.co.za
 dep.mtn.co.za
 dev.mtn.co.za
+dev.onlinecms.mtn.co.za
 developer.mtn.co.za
 developers.mtn.co.za
 dmz.mtn.co.za
@@ -810,6 +811,7 @@ games.dailydeals.mtn.co.za
 gauntlet.mtn.co.za
 gauntlet2.mtn.co.za
 get.dailydeals.mtn.co.za
+git.onlinecms.mtn.co.za
 gprs01.nl.mtn.co.za
 gprs01.tb.mtn.co.za
 gprs02.nl.mtn.co.za
@@ -827,6 +829,10 @@ jhbws1.ims.mtn.co.za
 jhlpor1.mtn.co.za
 jhlpro1.mtn.co.za
 jobs.mtn.co.za
+lab1.onlinecms.mtn.co.za
+lab2.onlinecms.mtn.co.za
+lab3.onlinecms.mtn.co.za
+lab4.onlinecms.mtn.co.za
 labxsp.mtn.co.za
 livemeeting.mtn.co.za
 localhost.mtn.co.za
@@ -870,6 +876,7 @@ myapps.mtn.co.za
 mycontract.mtn.co.za
 mydevice.mtn.co.za
 mymtnza.mtn.co.za
+newsstand.mtn.co.za
 next.mtn.co.za
 nl-access.mtn.co.za
 nl-webcon.mtn.co.za
@@ -897,6 +904,7 @@ outlook.mtn.co.za
 p2.dmz.mtn.co.za
 partners.mtn.co.za
 passwordchange.mtn.co.za
+pay.mtn.co.za
 play.mtn.co.za
 portalsso.mtn.co.za
 portco.mtn.co.za
@@ -962,11 +970,14 @@ staging.api.dep.mtn.co.za
 staging.dep.mtn.co.za
 staging.doi.dep.mtn.co.za
 staging.ui-api.dep.mtn.co.za
+standardbank.mtn.co.za
+stg.onlinecms.mtn.co.za
 storebuild.mtn.co.za
 surveys.mtn.co.za
 tadhack.mtn.co.za
 tcp.mtn.co.za
 test-musicplus.mtn.co.za
+testbed.play.mtn.co.za
 tplpor1.ims.mtn.co.za
 tplpro1.ims.mtn.co.za
 tpo-s.mtn.co.za
@@ -993,6 +1004,7 @@ ws.mtn.co.za
 www.gsmpro.mtn.co.za
 www.mtn.co.za
 www.mtncloud.mtn.co.za
+www.onlinecms.mtn.co.za
 www.shortz.mtn.co.za
 xsp.ebu.mtn.co.za
 xsp.mtn.co.za

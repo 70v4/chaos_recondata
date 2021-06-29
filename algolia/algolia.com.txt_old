@@ -13,6 +13,7 @@ analytics.algolia.com
 analytics.de.algolia.com
 analytics.us.algolia.com
 apieu1.algolia.com
+atwood-editor.algolia.com
 auditlog-de.algolia.com
 auditlog-staging.algolia.com
 auditlog.algolia.com
@@ -82,6 +83,7 @@ estimate.algolia.com
 explore.algolia.com
 facebooksearch.algolia.com
 faq.algolia.com
+foundation-ops-dashboard-testing.algolia.com
 foundation-ops-dashboard.algolia.com
 gdpr.algolia.com
 github.algolia.com
@@ -129,6 +131,8 @@ magento-demo.algolia.com
 magento-proxy.algolia.com
 magento-test.algolia.com
 magento.algolia.com
+magento2-demo-k8s.algolia.com
+magento2-demo.algolia.com
 magento2-dev.algolia.com
 magento2.algolia.com
 magentoconnect.algolia.com
@@ -151,6 +155,8 @@ onsite.algolia.com
 osm.algolia.com
 partners-university.algolia.com
 partners.algolia.com
+personalization.eu.algolia.com
+personalization.us.algolia.com
 pitch.algolia.com
 places-dev.algolia.com
 places-kibana.algolia.com
@@ -162,6 +168,8 @@ prestashop.algolia.com
 preview.algolia.com
 previous.algolia.com
 public-demos-v2.algolia.com
+query-categorization.de.algolia.com
+query-categorization.us.algolia.com
 query-suggestions.algolia.com
 query-suggestions.eu.algolia.com
 query-suggestions.fi.algolia.com
@@ -170,6 +178,8 @@ raiden.algolia.com
 re-ranking.de.algolia.com
 re-ranking.us.algolia.com
 reactjs.algolia.com
+recommend.de.algolia.com
+recommend.us.algolia.com
 recommendation-admin.algolia.com
 recommendation.algolia.com
 recommendation.eu.algolia.com

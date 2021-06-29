@@ -55,6 +55,7 @@ cloudtoken-update.atlassian.com
 clover.atlassian.com
 cn.atlassian.com
 codegeist.atlassian.com
+common-admin-cdn.atlassian.com
 community-dev1.dev.atlassian.com
 community-dev2.dev.atlassian.com
 community-dev3.dev.atlassian.com
@@ -62,6 +63,7 @@ community-dev4.dev.atlassian.com
 community.atlassian.com
 community.developer.atlassian.com
 community.stg.atlassian.com
+compass.status.atlassian.com
 comproty.stg.atlassian.com
 confluence-chats-integr.services.atlassian.com
 confluence-cloud-bamboo.internal.atlassian.com
@@ -156,6 +158,7 @@ id-stg1.atlassian.com
 id.atlassian.com
 id.stg.internal.atlassian.com
 identity-bamboo.internal.atlassian.com
+idnow-iqservice.office-stg.atlassian.com
 imp-pub-ntt.prod.inf.atlassian.com
 instenv.internal.atlassian.com
 internal.atlassian.com
@@ -179,10 +182,12 @@ jira-service-management.status.atlassian.com
 jira-software-bamboo.internal.atlassian.com
 jira-software.status.atlassian.com
 jira-training.atlassian.com
+jira-work-management.status.atlassian.com
 jira.atlassian.com
 jira.bamboo.atlassian.com
 jira.prd.cst.atlassian.com
 jp.hipchat-intl.atlassian.com
+jpn424-l1-sbc01.office.atlassian.com
 jsd-nutmeg.services.atlassian.com
 jsd-widget.atlassian.com
 jump1.syd-gs.atlassian.com
@@ -309,6 +314,7 @@ servicedesk-cloud-bamboo.internal.atlassian.com
 services.atlassian.com
 sf-cucmsub01.office.atlassian.com
 sf-srv-ad01.office.atlassian.com
+shop.atlassian.com
 sketch.atlassian.com
 slack.atlassian.com
 smtp-useast1a.atlassian.com

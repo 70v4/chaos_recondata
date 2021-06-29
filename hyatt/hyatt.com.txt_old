@@ -219,6 +219,10 @@ careers.hyatt.com
 carmelo.hyatt.com
 casablanca.hyatt.com
 casablanca.regency.hyatt.com
+cascade-int.hyatt.com
+cascade-stg.hyatt.com
+cascade-uat.hyatt.com
+cascade.hyatt.com
 cdvault.hyatt.com
 centric.hyatt.com
 centrtdm.hyatt.com
@@ -275,6 +279,7 @@ cleveland.hyatt.com
 cleveland.regency.hyatt.com
 clevelandlyndhurst.place.hyatt.com
 clnxp03.rss.hyatt.com
+cloudpath.sd.hyatt.com
 cm.hyatt.com
 cn.ra.hyatt.com
 cnfuse.hyatt.com
@@ -368,6 +373,7 @@ detroitlivonia.place.hyatt.com
 detroitutica.place.hyatt.com
 deutschland.hyatt.com
 dev.hyatt.com
+dev.private.hyatt.com
 devhcm9.hyatt.com
 devhcm92.hyatt.com
 devsftp.hyatt.com
@@ -711,6 +717,7 @@ lascolinas.house.hyatt.com
 lascolinas.place.hyatt.com
 lascolinas.summerfieldsuites.hyatt.com
 lasvegas.place.hyatt.com
+leaderboard.woh.hyatt.com
 learnit.hyatt.com
 legacygp.prod.hyatt.com
 leventistanbul.centric.hyatt.com
@@ -821,6 +828,7 @@ miamiairport.house.hyatt.com
 miamiairport.summerfieldsuites.hyatt.com
 miamiairportwest.place.hyatt.com
 miamiregency.hyatt.com
+micollab.aruba.hyatt.com
 micollab.hyatt.com
 milan.park.hyatt.com
 milford.place.hyatt.com
@@ -1032,6 +1040,7 @@ prioportal-services.hyatt.com
 prioportal.hyatt.com
 prioportal.ra.hyatt.com
 privacy.hyatt.com
+private.hyatt.com
 prod-idm.hyatt.com
 prod-oam.hyatt.com
 prod.hyatt.com
@@ -1056,6 +1065,7 @@ pune.hyatthotels.hyatt.com
 pune.regency.hyatt.com
 qa-hyatt-gp-ivr-ws.hyatt.com
 qa-hyatt-ws.hyatt.com
+qa.private.hyatt.com
 qa.reservation.hyatt.com
 qa1.hyatt.com
 qa2.hyatt.com
@@ -1107,6 +1117,7 @@ rosehall.zilara.hyatt.com
 rosehall.ziva.hyatt.com
 rosemont.hyatt.com
 rss.hyatt.com
+ruckussz.sd.hyatt.com
 sacramento.hyatt.com
 sacramento.regency.hyatt.com
 sacramentoranchocordova.place.hyatt.com
@@ -1116,6 +1127,8 @@ saipan.hyatt.com
 saipan.regency.hyatt.com
 sales.hyatt.com
 salesportal.hyatt.com
+salesportal.qa1.hyatt.com
+salesportal.uat1.hyatt.com
 salesportaltraining.hyatt.com
 salesportaluat.hyatt.com
 salesqa.hyatt.com
@@ -1131,6 +1144,7 @@ sanantonionorthwest.place.hyatt.com
 sanantonioregency.hyatt.com
 sanantonioriverwalk.place.hyatt.com
 sanctuarycove.regency.hyatt.com
+sandboxsalesportal.uat2.hyatt.com
 sandiego.andaz.hyatt.com
 sandiegocarlsbad.place.hyatt.com
 sandiegomaltiposandiego.andaz.hyatt.com
@@ -1215,6 +1229,7 @@ singapore.andaz.hyatt.com
 singapore.grand.hyatt.com
 singapore.hyatt.com
 sixrestolounge.reservation.hyatt.com
+sm-smsdip-v.hyatt.com
 so8.hyatt.com
 soaa.hyatt.com
 soab.hyatt.com
@@ -1246,6 +1261,7 @@ stanhopepark.hyatt.com
 statecollege.place.hyatt.com
 stg-txtconcierge.hyatt.com
 stg.hyatt.com
+stg.private.hyatt.com
 stkitts.park.hyatt.com
 stlouis.hyatt.com
 stlouisarch.hyatt.com
@@ -1332,6 +1348,7 @@ txtconcierge.uat1.hyatt.com
 tysonscornercenter.regency.hyatt.com
 uat-idm.hyatt.com
 uat-oam.hyatt.com
+uat.private.hyatt.com
 uat1.hyatt.com
 uat2.hyatt.com
 uat3.hyatt.com
@@ -1614,6 +1631,7 @@ www.clearwaterbeach.regency.hyatt.com
 www.cleveland.hyatt.com
 www.cleveland.regency.hyatt.com
 www.clevelandlyndhurst.place.hyatt.com
+www.cloudpath.sd.hyatt.com
 www.coconutpoint.hyatt.com
 www.coconutpoint.place.hyatt.com
 www.coconutpoint.regency.hyatt.com
@@ -2122,6 +2140,7 @@ www.rosehall.zilara.hyatt.com
 www.rosehall.ziva.hyatt.com
 www.rosemont.hyatt.com
 www.royalpalms.hyatt.com
+www.ruckussz.sd.hyatt.com
 www.sacramento.hyatt.com
 www.sacramentoranchocordova.place.hyatt.com
 www.sacramentoroseville.place.hyatt.com
@@ -2207,6 +2226,7 @@ www.siestakeybeach.hyatt.com
 www.siliconvalleyfremont.place.hyatt.com
 www.singapore.andaz.hyatt.com
 www.singapore.grand.hyatt.com
+www.sm-smsdip-v.hyatt.com
 www.sochi.regency.hyatt.com
 www.sorrentomesa.summerfieldsuites.hyatt.com
 www.southbeachmiami.centric.hyatt.com

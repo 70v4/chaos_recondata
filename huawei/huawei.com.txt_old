@@ -2198,8 +2198,17 @@ adt-sg.huawei.com
 adt-uk.huawei.com
 adt-us.huawei.com
 adt.huawei.com
+ag-beta.auto.huawei.com
+ag-gamma.auto.huawei.com
+ag.auto.huawei.com
+agc-beta.auto.huawei.com
+agc-gamma.auto.huawei.com
+agc.auto.huawei.com
 agenda-beta.events.huawei.com
 agenda.events.huawei.com
+agms-beta.auto.huawei.com
+agms-gamma.auto.huawei.com
+agms.auto.huawei.com
 ailab-apac.huawei.com
 air.huawei.com
 aisee.gde.huawei.com
@@ -2283,6 +2292,7 @@ arklab.huawei.com
 as-proxy.rnd.huawei.com
 ascend.huawei.com
 ascend.support-it.huawei.com
+ascendhub.huawei.com
 asia.fusionsolar-t.huawei.com
 assistant.cloud.huawei.com
 atn-ia.sd.huawei.com
@@ -2481,11 +2491,14 @@ ccpc-de.consumer.huawei.com
 ccpc-drill.cbgit.huawei.com
 ccpc-icsl.test.huawei.com
 ccpc-icsl1.test.huawei.com
+ccpc-icsl2.test.huawei.com
 ccpc-sg.consumer.huawei.com
 ccpc.test.huawei.com
 ccpce-cn.consumer.huawei.com
 ccpce-de.consumer.huawei.com
 ccpce-drill.cbgit.huawei.com
+ccpce-icsl.test.huawei.com
+ccpce-icsl2.test.huawei.com
 ccpce-sg.consumer.huawei.com
 ccpce-sit.cbgit.huawei.com
 ccpce-uat.cbgit.huawei.com
@@ -2710,6 +2723,7 @@ democloud.huawei.com
 depcloud.gts.huawei.com
 desc.byod-web.huawei.com
 designcloud.uiplus.huawei.com
+designer.netstar.huawei.com
 dev.huawei.com
 dev.sspcloud.huawei.com
 devcenter-test.huawei.com
@@ -2725,6 +2739,7 @@ deveco-xy.huawei.com
 deveco.huawei.com
 deveco.rnd.huawei.com
 devecostudio.huawei.com
+devecotesting.huawei.com
 developer.huawei.com
 developers.huawei.com
 device-ctyun.huawei.com
@@ -2889,6 +2904,7 @@ emui.huawei.com
 en.e-learning.huawei.com
 enterprise-spm.huawei.com
 enterprise.huawei.com
+enterpriseru.eservice.huawei.com
 epms.huawei.com
 esdk.huawei.com
 esdk1.huawei.com
@@ -2907,6 +2923,7 @@ etrans12.huawei.com
 etrans13.huawei.com
 etrans14.huawei.com
 etrans15.huawei.com
+etrans16.huawei.com
 etrans2.huawei.com
 etrans3.huawei.com
 etrans4.huawei.com
@@ -2915,6 +2932,7 @@ etrans6.huawei.com
 etrans7.huawei.com
 etrans8.huawei.com
 etrans9.huawei.com
+etransuk.huawei.com
 etravel.huawei.com
 eu-1.nebula-collector.huawei.com
 eu.eservice.huawei.com
@@ -3046,6 +3064,7 @@ hcc2015.huawei.com
 hcs.huawei.com
 hdc2015.huawei.com
 hdmap.huawei.com
+hicomputing.huawei.com
 hilink.rnd.huawei.com
 hilinkapi.rnd.huawei.com
 hirms.cloud.huawei.com
@@ -3067,6 +3086,9 @@ hoss-sg.consumer.huawei.com
 hoss.consumer.huawei.com
 houp-north.huawei.com
 houp.huawei.com
+houp.rnd.huawei.com
+houpbeta.rnd.huawei.com
+houpfvt.rnd.huawei.com
 hr-welcometo.huawei.com
 ht-cn.bs-icsl.huawei.com
 ht-eu.bs-icsl.huawei.com
@@ -3177,6 +3199,7 @@ iaccess-wuhanct.huawei.com
 iaccess-y-can.huawei.com
 iaccess-y-sjc.huawei.com
 iad-agraccess-ven.huawei.com
+iam-login.auth.ulanqab.huawei.com
 ic-openlabs.huawei.com
 icare-a.huawei.com
 icare-beta.huawei.com
@@ -3184,6 +3207,7 @@ icare-train2.huawei.com
 icare.huawei.com
 icareer.huawei.com
 icloudservice-cn.huawei.com
+icsl.shixizhi.huawei.com
 id.huawei.com
 id1.cloud.huawei.com
 id7.cloud.huawei.com
@@ -3276,6 +3300,7 @@ ipatn-sa.huawei.com
 ipatn-uk.huawei.com
 ipatn-us.huawei.com
 ipatn.huawei.com
+ipclub.huawei.com
 iped.huawei.com
 ipr-external.huawei.com
 iradro.gsc.huawei.com
@@ -3350,6 +3375,7 @@ jp5.fusionsolar.huawei.com
 jumper.huawei.com
 kdp.idp.huawei.com
 kr5.fusionsolar.huawei.com
+kunpeng.huawei.com
 la.openlife.huawei.com
 la5.fusionsolar.huawei.com
 lab.vcc-ie.huawei.com
@@ -3449,6 +3475,7 @@ mexsc.byod-web.huawei.com
 mf-poc.am.huawei.com
 mgmt-adcloud-test.sd.huawei.com
 mgmt.adcloud.sd.huawei.com
+mkt.huawei.com
 mktcloud-scrt.c.huawei.com
 mktcloud.c.huawei.com
 mo-drcn.cloud.huawei.com
@@ -3675,6 +3702,8 @@ remote-service-tv-sg.rnd.huawei.com
 remote-service-watch.rnd.huawei.com
 remote-service-web.rnd.huawei.com
 remote-service.rnd.huawei.com
+remote-service02-test-tv.rnd.huawei.com
+remote-service02-tv.rnd.huawei.com
 remote-serviced.rnd.huawei.com
 remote-servicee.rnd.huawei.com
 remote-servicem.rnd.huawei.com
@@ -3712,6 +3741,7 @@ rnd-mspes1.huawei.com
 rnd-ocean-eu.huawei.com
 rnd-ocean-sp.huawei.com
 rnd-ontester.huawei.com
+rnd-supportv8.huawei.com
 rnd.huawei.com
 roma-support.test.huawei.com
 router-dmz.huawei.com
@@ -3753,6 +3783,7 @@ secure.huawei.com
 securelogin.huawei.com
 security.huawei.com
 securityctrl.huawei.com
+seeds.huawei.com
 server.huawei.com
 serviceexpress.huawei.com
 servicegw-sz.huawei.com
@@ -3790,9 +3821,14 @@ smartcatalog-dl.huawei.com
 smartcatalog.huawei.com
 smartcom.huawei.com
 smartdesign.huawei.com
+smarthome.cbg.huawei.com
 smartkit-toolbox-flag.huawei.com
 smartkit-toolbox.huawei.com
 smartkit-toolbox2.huawei.com
+smartpassengerflow-ae.huawei.com
+smartpassengerflow-chn.huawei.com
+smartpassengerflow-sg.huawei.com
+smartperf.devecotesting.huawei.com
 smartqc-gm.huawei.com
 smartqc-id.huawei.com
 smartqc-nchina.huawei.com
@@ -3937,9 +3973,11 @@ uk.community.huawei.com
 uk.mail02.huawei.com
 uk1.byod-web.huawei.com
 uksc.byod-web.huawei.com
+uktacmgmt.huawei.com
 ulanqab.huawei.com
 ump-sandbox01.huawei.com
 uncover.anhui.roy.cloudspace.huawei.com
+unetvision.huawei.com
 uni-byod.huawei.com
 uni-intouch.huawei.com
 uni-wa-noc.huawei.com
@@ -4036,6 +4074,7 @@ webdocs-de.huawei.com
 webdocs-nj.huawei.com
 webdocs-sz.huawei.com
 webdocs-web-ad.huawei.com
+webdocs-web.huawei.com
 webdocs.huawei.com
 webinar.huawei.com
 weblink-test.huawei.com
@@ -4056,6 +4095,7 @@ wemeeting.welink.huawei.com
 wemeetinguat.welink.huawei.com
 weu.naas.huawei.com
 weudev.naas.huawei.com
+weuins.naas.huawei.com
 whct.byod-web.huawei.com
 wi.huawei.com
 wiseplay.cloud.huawei.com

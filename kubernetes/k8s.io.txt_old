@@ -103,11 +103,15 @@ relnotes.k8s.io
 reviewable.k8s.io
 secrets-store-csi-driver.sigs.k8s.io
 sigs.k8s.io
+sippy.k8s.io
 slack-staging.k8s.io
 slack.k8s.io
 spartakus.k8s.io
 submit-queue.k8s.io
 testgrid.k8s.io
+thockin-test1.k8s.io
+thockin-test2.k8s.io
+thockin-test3.k8s.io
 v1-7.docs.k8s.io
 velodrome.k8s.io
 vsphere-csi-driver.sigs.k8s.io

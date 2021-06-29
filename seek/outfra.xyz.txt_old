@@ -21,7 +21,10 @@ ai-admin-api-v2.autoinc.dev.outfra.xyz
 ai-admin-api-v2.autoinc.prod.outfra.xyz
 aips-cq.dev.outfra.xyz
 aips-cq.prod.outfra.xyz
+aips-personalisation.dev.outfra.xyz
+aips-personalisation.prod.outfra.xyz
 aips-recs.dev.outfra.xyz
+aips-recs.prod.outfra.xyz
 anothername.pavedroad.int.outfra.xyz
 antivirusprecommentologo-gate-nz.pavedroad.prod.outfra.xyz
 antivirusublic19.indirect-apply.prod.outfra.xyz
@@ -56,6 +59,7 @@ ap-southeast-2.aips-predictioninsight.dev.outfra.xyz
 ap-southeast-2.css.dev.outfra.xyz
 ap-southeast-2.dds.prod.outfra.xyz
 ap-southeast-2.dds.stag.outfra.xyz
+ap-southeast-2.defender-anz.dev.outfra.xyz
 ap-southeast-2.job-apply-anz.dev.outfra.xyz
 ap-southeast-2.job-apply-anz.prod.outfra.xyz
 ap-southeast-2.jobposting.dev.outfra.xyz
@@ -924,10 +928,13 @@ callback.payments.dev.outfra.xyz
 callback.payments.prod.outfra.xyz
 canary.mobile.prod.outfra.xyz
 candidate-fit.dev.outfra.xyz
+candidate.dev.outfra.xyz
 candidate.noti.dev.outfra.xyz
 candidate.prod.outfra.xyz
 candidatemanagement.dev.outfra.xyz
 candidatemanagement.prod.outfra.xyz
+career-advice-xp.prod.outfra.xyz
+career-advice-xp.stag.outfra.xyz
 cat.guaranteedhire.dev.outfra.xyz
 cat.guaranteedhire.prod.outfra.xyz
 catr.guaranteedhire.dev.outfra.xyz
@@ -952,6 +959,7 @@ cm-recommendation-api.candidatemanagement.prod.outfra.xyz
 cm-recommendation-service.candidatemanagement.dev.outfra.xyz
 cm-template.candidatemanagement.dev.outfra.xyz
 cm-template.candidatemanagement.prod.outfra.xyz
+codex.prod.outfra.xyz
 company-profiles-cdn-dark.cr.prod.outfra.xyz
 company-profiles-cdn.cr.dev.outfra.xyz
 company-profiles-cdn.cr.prod.outfra.xyz
@@ -1046,6 +1054,8 @@ corpincubator.dev.outfra.xyz
 cr.dev.outfra.xyz
 cr.prod.outfra.xyz
 dc-link-prod.pavedroad.dev.outfra.xyz
+deadpool.talentsearch.dev.outfra.xyz
+deadpool.talentsearch.prod.outfra.xyz
 deepmatch.prod.outfra.xyz
 deleteenvservice.pavedroad.int.outfra.xyz
 deleteenvservice123.pavedroad.int.outfra.xyz
@@ -1513,6 +1523,7 @@ foobaz.eng.dev.outfra.xyz
 frontend-services.dev.outfra.xyz
 frontend-services.prod.outfra.xyz
 ga.dev.outfra.xyz
+gantry-development.sandbox.test.outfra.xyz
 gantry-echo.ap-southeast-1.gantry.dev.outfra.xyz
 gantry-echo.ap-southeast-1.gantry.prod.outfra.xyz
 gantry-echo.ap-southeast-2.gantry.dev.outfra.xyz
@@ -1535,6 +1546,7 @@ gb21-env.ap-southeast-2.practices.prod.outfra.xyz
 gb21-sleeksk-env.ap-southeast-2.practices.prod.outfra.xyz
 gimme-houston.cloud.seek-prod.prod.outfra.xyz
 grad-bootcamp-sample.practices.prod.outfra.xyz
+graphql-ingress.indirect-apply.dev.outfra.xyz
 graphql.corpincubator.dev.outfra.xyz
 graphql.payments.dev.outfra.xyz
 graphql.payments.prod.outfra.xyz
@@ -1554,6 +1566,8 @@ hello-ebb.discover.dev.outfra.xyz
 hello.gantryclassroom.dev.outfra.xyz
 hirer-budgets.dev.outfra.xyz
 hirer-budgets.prod.outfra.xyz
+hirer-contracts.dev.outfra.xyz
+hirer-contracts.prod.outfra.xyz
 hirer-products.dev.outfra.xyz
 hirer-products.prod.outfra.xyz
 hirer.dev.outfra.xyz
@@ -2184,6 +2198,8 @@ logsenvfdb1ab020310.pavedroad.int.outfra.xyz
 m.sapporovaccine.seek-tasks.sandbox.test.outfra.xyz
 mailhog.noti.dev.outfra.xyz
 manage.onlineauth.dev.outfra.xyz
+managed.advertiser.dev.outfra.xyz
+managed.advertiser.prod.outfra.xyz
 managed.frontend-services.dev.outfra.xyz
 managed.frontend-services.prod.outfra.xyz
 managed.guaranteedhire.dev.outfra.xyz
@@ -2601,6 +2617,7 @@ saml-poc.onlineauth.dev.outfra.xyz
 sandbox-a.gantry.dev.outfra.xyz
 sandbox.cloudfronttest.gantry.dev.outfra.xyz
 sandbox.sg.grr.dev.outfra.xyz
+sandbox.test.outfra.xyz
 saved-searches.discover.dev.outfra.xyz
 saved-searches.discover.prod.outfra.xyz
 saved-searches2.discover.prod.outfra.xyz
@@ -2620,12 +2637,17 @@ sfmc.dev.outfra.xyz
 sg.aips-personalisation.dev.outfra.xyz
 sg.aips-personalisation.prod.outfra.xyz
 sg.ap-southeast-1.asia-identity.dev.outfra.xyz
+sg.discover.dev.outfra.xyz
+sg.discover.prod.outfra.xyz
 sg.frontend-services.dev.outfra.xyz
 sg.frontend-services.prod.outfra.xyz
 sg.grr.dev.outfra.xyz
 sg.grr.prod.outfra.xyz
 sg.payments.dev.outfra.xyz
+sg.payments.prod.outfra.xyz
 shapi.advertiser.prod.outfra.xyz
+showcase.dev.outfra.xyz
+showcase.prod.outfra.xyz
 sixxvirus.ap-southeast-1.apex.prod.outfra.xyz
 skl-outcome-staging.ga.dev.outfra.xyz
 skl-outcome.ga.prod.outfra.xyz
@@ -2678,6 +2700,7 @@ team9.ap-southeast-1.pavedroadlabs.test.outfra.xyz
 team9.gantryclassroom.dev.outfra.xyz
 team99.ap-southeast-2.pavedroadlabs.test.outfra.xyz
 teamnstest.ap-southeast-2.pavedroadlabs.test.outfra.xyz
+test-cert.autoinc.dev.outfra.xyz
 testdeploy.corpincubator.dev.outfra.xyz
 testy-test.plateng.prod.outfra.xyz
 thevaccinesuk.seek-tasks.sandbox.test.outfra.xyz

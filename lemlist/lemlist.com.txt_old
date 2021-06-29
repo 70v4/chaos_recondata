@@ -2,10 +2,13 @@ academy.lemlist.com
 admin.lemlist.com
 api.lemlist.com
 app.lemlist.com
+app.staging.lemlist.com
 app2.lemlist.com
+backup.lemlist.com
 blog.lemlist.com
 change.lemlist.com
 custom.lemlist.com
+custom.staging.lemlist.com
 custom2.lemlist.com
 developer.lemlist.com
 fr.lemlist.com
@@ -15,6 +18,7 @@ links.emails.lemlist.com
 pages.lemlist.com
 staging.lemlist.com
 status.lemlist.com
+temp.lemlist.com
 trail.lemlist.com
 vip.lemlist.com
 www.lemlist.com

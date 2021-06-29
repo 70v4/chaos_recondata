@@ -9,6 +9,7 @@ m.rubygems.org
 mail.rubygems.org
 monitoring.rubygems.org
 monitoring01.common.rubygems.org
+production-origin.rubygems.org
 production.cf.rubygems.org
 production.s3.rubygems.org
 shipit.rubygems.org

@@ -1,9 +1,13 @@
+2wayapi.testnet.rsk.co
+2waypeg.testnet.rsk.co
 482.rsk.co
 ambassadors.rsk.co
+artifacts.rsk.co
 backend.explorer.rsk.co
 backend.explorer.testnet.rsk.co
 backend.stats.rsk.co
 backend.stats.testnet.rsk.co
+balancer.rsk.co
 blog.rsk.co
 bounty-node.rsk.co
 bounty.rsk.co
@@ -49,6 +53,7 @@ public-node.testnet.rsk.co
 rbank.testnet.rsk.co
 rns.rsk.co
 secchannel.rsk.co
+self-service.rsk.co
 solutions.rsk.co
 staging.rsk.co
 stats.rsk.co

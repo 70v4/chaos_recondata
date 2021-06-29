@@ -73,6 +73,7 @@ gs.bmt.cognac.snapchat.com
 gs.catsr.cognac.snapchat.com
 gs.zrs.cognac.snapchat.com
 interact-api.snapchat.com
+internal.snappublisher.snapchat.com
 intg.snapchat.com
 iosbeta.snapchat.com
 jaguar-prod.snapchat.com
@@ -90,6 +91,7 @@ mail.support.snapchat.com
 mail2.support.snapchat.com
 map.snapchat.com
 maps.snapchat.com
+marketingapi.snapchat.com
 minis.snapchat.com
 mvm.snapchat.com
 my.snapchat.com
@@ -143,6 +145,7 @@ rsp.snapchat.com
 rtam-collector.snapchat.com
 s.snapchat.com
 sc-gw-dev.snapchat.com
+scan-partners.snapchat.com
 scan.snapchat.com
 se.snapchat.com
 search.snapchat.com
@@ -162,6 +165,7 @@ snappublisher.games.snapchat.com
 snappublisher.snapchat.com
 staging.app-analytics.snapchat.com
 staging.server-analytics.snapchat.com
+static-payments.snapchat.com
 store.snapchat.com
 story-insights.snapchat.com
 story.snapchat.com
@@ -181,6 +185,7 @@ tr-shadow2.snapchat.com
 tr.snapchat.com
 tr6.snapchat.com
 us-east-1.aws.staging.duplex.snapchat.com
+us-east-1.content-annotations-service.snapchat.com
 us-east-1.shows.snapchat.com
 us-east-1.story-studio.snapchat.com
 us-east1-aws.api.snapchat.com

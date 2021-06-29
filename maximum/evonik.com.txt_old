@@ -59,6 +59,7 @@ central-south-america.evonik.com
 chn-0053-sha-0254-ras.scm.evonik.com
 client-peppol.evonik.com
 cms-brandportal.evonik.com
+cms.evonik.com
 coatings.evonik.com
 codeofconduct.evonik.com
 colloidal-silica.evonik.com
@@ -72,6 +73,7 @@ contacts.api-dev.products.evonik.com
 contacts.api.products.evonik.com
 corporate.evonik.com
 cosmeticos.evonik.com
+cpm.evonik.com
 crosslinkers.evonik.com
 customercare.evonik.com
 cyanuric-chloride.evonik.com
@@ -81,12 +83,17 @@ de-edge1.meet.evonik.com
 de-edge2.meet.evonik.com
 de-edge3.meet.evonik.com
 de-edge4.meet.evonik.com
+de-vcs-e01.video.evonik.com
 degacryl.evonik.com
 dental-silica.evonik.com
 designed-polymers.evonik.com
+dev-cms.evonik.com
 dev-connect.direct.evonik.com
 dev-ewita.evonik.com
 dev-orchestration.evonik.com
+dev-preview-cms.evonik.com
+dev-products-int.evonik.com
+dev-products.evonik.com
 dev-scp.evonik.com
 dev.eai.evonik.com
 digital.evonik.com
@@ -219,6 +226,7 @@ incos.evonik.com
 industrial-applications.evonik.com
 ingest-dev.products.evonik.com
 ingest-qa.products.evonik.com
+innostudio.evonik.com
 int-connect.direct.evonik.com
 int-launchpad.evonik.com
 int-scp.evonik.com
@@ -259,6 +267,7 @@ medical.evonik.com
 meet.evonik.com
 meetingplanner.evonik.com
 metamino-hub.evonik.com
+metamino.evonik.com
 methyl-methacrylate-monomers.evonik.com
 mietwagen-marl.evonik.com
 miniportal.evonik.com
@@ -291,6 +300,7 @@ oil-additives.evonik.com
 oil-gas-geotech.evonik.com
 oil-gas-news.evonik.com
 oncare.evonik.com
+opentextpoc.evonik.com
 oralcare.evonik.com
 orchestration.evonik.com
 osiris.evonik.com
@@ -301,6 +311,7 @@ par-vpn-gw.evonik.com
 partner-sec.evonik.com
 partner.evonik.com
 peracetic-acid.evonik.com
+periodic-table.evonik.com
 personal-care.evonik.com
 pexconf01.pexip.evonik.com
 pexip-teamsconn-emea.evonik.com
@@ -308,14 +319,17 @@ pexip.evonik.com
 plastics-database.evonik.com
 plastics.evonik.com
 portals.evonik.com
+preview-cms.evonik.com
 procurement.evonik.com
 prod-cupset.evonik.com
 prod-mma.evonik.com
 prod.eai.evonik.com
 productfinder-catalysts.evonik.com
+products-int.evonik.com
 products-re.evonik.com
 products.evonik.com
 propellants.evonik.com
+pu-additives-shop.evonik.com
 purchasing.evonik.com
 qa-aci.evonik.com
 qa-ada3.evonik.com
@@ -376,6 +390,7 @@ sft.evonik.com
 sftp2.evonik.com
 sha-vpn-gw.evonik.com
 sha-vpngw.scm.evonik.com
+shop-functional-solutions.evonik.com
 signin.evonik.com
 silane-modified-polymers.evonik.com
 silica-safety.evonik.com
@@ -414,6 +429,7 @@ texmsentry.evonik.com
 thingworx.evonik.com
 tickets.evonik.com
 tip.evonik.com
+tmp-products.evonik.com
 tmsentry.evonik.com
 tmvsp.evonik.com
 together-as-one.evonik.com
@@ -435,6 +451,8 @@ web.join.evonik.com
 weconnect.evonik.com
 wf-marl-bsa.evonik.com
 wordlywishes.evonik.com
+work.evonik.com
+worldlywishes.evonik.com
 www.abfel.evonik.com
 www.account-service.evonik.com
 www.account.evonik.com
@@ -461,6 +479,8 @@ www.cms-brandportal.evonik.com
 www.connect2hp.evonik.com
 www.corporate.evonik.com
 www.cosmeticos.evonik.com
+www.cpm.evonik.com
+www.de-vcs-e01.video.evonik.com
 www.dev-scp.evonik.com
 www.direct.evonik.com
 www.distributors.evonik.com
@@ -469,6 +489,7 @@ www.ebs-feedback.evonik.com
 www.edisweb.evonik.com
 www.elsnew.evonik.com
 www.esp.evonik.com
+www.esp1.evonik.com
 www.events.evonik.com
 www.evis-test.evonik.com
 www.evis.evonik.com
@@ -477,7 +498,10 @@ www.explorepu.evonik.com
 www.fastpass.evonik.com
 www.fra-vpn-gw.evonik.com
 www.freigabeportal.evonik.com
+www.fs-qa.fs.evonik.com
 www.fs3-qa.fs.evonik.com
+www.fs3-token.fs.evonik.com
+www.fs3.fs.evonik.com
 www.geoisis.evonik.com
 www.global-shop.evonik.com
 www.help.evonik.com
@@ -500,9 +524,11 @@ www.idpdev.evonik.com
 www.idpqa.evonik.com
 www.ila-portal.evonik.com
 www.incos.evonik.com
+www.innostudio.evonik.com
 www.int-launchpad.evonik.com
 www.int-scp.evonik.com
 www.intobeauty.evonik.com
+www.jobs.evonik.com
 www.kontingenteportal.evonik.com
 www.launchpad.evonik.com
 www.login-staging.evonik.com
@@ -511,6 +537,7 @@ www.materialwirtschaft.evonik.com
 www.metamino-hub.evonik.com
 www.methyl-methacrylate-monomers.evonik.com
 www.miniportal.evonik.com
+www.mma.evonik.com
 www.mvsp.evonik.com
 www.naaf-staging-mob.evonik.com
 www.naaf-staging-sha.evonik.com
@@ -519,6 +546,7 @@ www.naaf-staging.evonik.com
 www.naaf.evonik.com
 www.naafdev.evonik.com
 www.naafqa.evonik.com
+www.opentextpoc.evonik.com
 www.oralcare.evonik.com
 www.osiris.evonik.com
 www.panvision-db-admin.evonik.com
@@ -530,6 +558,7 @@ www.prod.eai.evonik.com
 www.productfinder-catalysts.evonik.com
 www.productfinder.silica.evonik.com
 www.products-re.evonik.com
+www.pu-additives-shop.evonik.com
 www.purchasing.evonik.com
 www.qa-ada3.evonik.com
 www.qa-aminolab-registration.evonik.com
@@ -537,6 +566,7 @@ www.qa-explorepu.evonik.com
 www.qa-fra-vpn-gw.evonik.com
 www.qa-intobeauty.evonik.com
 www.qa-launchpad.evonik.com
+www.qa-mma.evonik.com
 www.qa-musterversand.evonik.com
 www.qa-oncare.evonik.com
 www.qa-oralcare.evonik.com
@@ -553,6 +583,7 @@ www.samltest.evonik.com
 www.scp.evonik.com
 www.sds.evonik.com
 www.service-portal.evonik.com
+www.shop-functional-solutions.evonik.com
 www.silica-shop.evonik.com
 www.sin-vpn-gw.evonik.com
 www.site-app.evonik.com
@@ -567,8 +598,11 @@ www.tickets.evonik.com
 www.tip.evonik.com
 www.tyo-vpn-gw.evonik.com
 www.visiomer-product-recommender.evonik.com
+www.vplan.evonik.com
 www.vplanweb.evonik.com
 www.weconnect.evonik.com
+www.work.evonik.com
+www.www13.evonik.com
 www08.evonik.com
 www13.evonik.com
 www27.evonik.com

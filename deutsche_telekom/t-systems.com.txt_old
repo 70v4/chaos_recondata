@@ -7,6 +7,7 @@ a.mx.esa.t-systems.com
 aaecvd-docker.sbs.t-systems.com
 about-us.t-systems.com
 adop-t.adm.t-systems.com
+adssc-docker.sbs.t-systems.com
 aida.t-systems.com
 alphax-docker.sbs.t-systems.com
 am-prod.t-systems.com
@@ -46,6 +47,7 @@ assessment-planner.t-systems.com
 assets-msp-ref.obs.eu-de.otc.t-systems.com
 atcs-docker.sbs.t-systems.com
 atlassip-docker.sbs.t-systems.com
+aurelia.t-systems.com
 aureliatestbb.t-systems.com
 auth-internal.ffm.t-systems.com
 auth-misp.t-systems.com
@@ -61,6 +63,7 @@ autodiscover.za01.t-systems.com
 automotive.t-systems.com
 avi-docker.sbs.t-systems.com
 awapi.t-systems.com
+awapidev.t-systems.com
 awapita.t-systems.com
 awcm.t-systems.com
 awcmdev.t-systems.com
@@ -81,6 +84,7 @@ awds2dev.t-systems.com
 awds3dev.t-systems.com
 awdsdev.t-systems.com
 awdsta.t-systems.com
+awemma.t-systems.com
 awens.t-systems.com
 awensdev.t-systems.com
 awensta.t-systems.com
@@ -119,9 +123,11 @@ awsegexota.t-systems.com
 awsegta.t-systems.com
 awsegta2.t-systems.com
 awsegta3.t-systems.com
+awtools.t-systems.com
 awtu.t-systems.com
 awtube.t-systems.com
 awtubeta.t-systems.com
+awtudev.t-systems.com
 awtuta.t-systems.com
 awuagbeta.t-systems.com
 awuagta.t-systems.com
@@ -150,6 +156,8 @@ bbb.smart-events.t-systems.com
 bc.webgw.t-systems.com
 bc01.webgw.t-systems.com
 bc02.webgw.t-systems.com
+bcms-docker.sbs.t-systems.com
+bctool-docker.sbs.t-systems.com
 bdebt-docker.sbs.t-systems.com
 bep-abn-is.t-systems.com
 bep-abn-is912.t-systems.com
@@ -159,6 +167,7 @@ bep-abn-mws912.t-systems.com
 bep-prd-is.t-systems.com
 bep-prd-is912.t-systems.com
 bep-prd-mws-wf.t-systems.com
+bep-prd-mws-wf912.t-systems.com
 bep-prd-mws.t-systems.com
 bep-prd-mws912.t-systems.com
 bestpracticeplus.t-systems.com
@@ -175,6 +184,7 @@ bi.t-systems.com
 bigdata-muc.t-systems.com
 bkvmmaster01.gdc-bln01.t-systems.com
 blog.t-systems.com
+bmailgw.gdc-bln01.t-systems.com
 bom-docker.sbs.t-systems.com
 bookit-ext.t-systems.com
 broker-services.t-systems.com
@@ -214,6 +224,7 @@ cloudbroker.t-systems.com
 collaboration.t-systems.com
 community-docker.sbs.t-systems.com
 comparecm-docker.sbs.t-systems.com
+compass.t-systems.com
 compdm-docker.sbs.t-systems.com
 competence.t-systems.com
 conference-2-cupclustertsm.mx-puebla.t-systems.com
@@ -268,6 +279,8 @@ csa.esa.t-systems.com
 csaforrcih.netpro.t-systems.com
 csf-secure.mx-puebla.t-systems.com
 csi.t-systems.com
+csidev.t-systems.com
+csisentry.t-systems.com
 cti-docker.sbs.t-systems.com
 ctx.dmz42.t-systems.com
 culturalnavigator.t-systems.com
@@ -284,6 +297,7 @@ d4de3esy0000305.gdc-bln01.t-systems.com
 daitelab-docker.sbs.t-systems.com
 daivb-docker.sbs.t-systems.com
 daivb3rd-docker.sbs.t-systems.com
+damailgw.gdc-dmst03.t-systems.com
 dccts-newsletter.t-systems.com
 dcnautomation.t-systems.com
 dcplnx23575534.t-systems.com
@@ -330,10 +344,12 @@ dfms43ci.ffm.t-systems.com
 dfmt1bci.ffm.t-systems.com
 dfmt43ci.ffm.t-systems.com
 dialog-docker.sbs.t-systems.com
+digils-docker.sbs.t-systems.com
 dip-docker.sbs.t-systems.com
 diskurs-docker.sbs.t-systems.com
 divers-docker.sbs.t-systems.com
 dl-mcspaas-implement.t-systems.com
+dms-uhd.t-systems.com
 dms4sap-dev3.gdc-eft01.t-systems.com
 dms4sap-dev4.gdc-eft01.t-systems.com
 dms4sap-et.gdc-eft01.t-systems.com
@@ -507,6 +523,7 @@ docker-yucon.t-systems.com
 docker.sbs.t-systems.com
 docs.otc.t-systems.com
 doitnow-training.t-systems.com
+doljey-docker.sbs.t-systems.com
 dominika.t-systems.com
 doorscm-docker.sbs.t-systems.com
 doorsngcm-docker.sbs.t-systems.com
@@ -528,15 +545,18 @@ dsdt05.netpro.t-systems.com
 dsm-auth.t-systems.com
 dsm-portal.t-systems.com
 dtae-docker.sbs.t-systems.com
+dtbscsi.t-systems.com
 e1-psc01.gdc-esn01.t-systems.com
 e1-vc01.gdc-esn01.t-systems.com
 e1tsier01.t-systems.com
+e2e-docker.sbs.t-systems.com
 e2etm-prod.t-systems.com
 e2etm-ref.t-systems.com
 e2etm-svn.t-systems.com
 e2etm.t-systems.com
 ea-cloud.t-systems.com
 ea-server.t-systems.com
+eam-docker.sbs.t-systems.com
 eavc.lab.ipt.t-systems.com
 eavc1.ipt.t-systems.com
 eavc2.ipt.t-systems.com
@@ -555,6 +575,7 @@ elic.t-systems.com
 enoviacm-docker.sbs.t-systems.com
 enovialcacm-docker.sbs.t-systems.com
 eobr-docker.sbs.t-systems.com
+epep-docker.sbs.t-systems.com
 epm.t-systems.com
 epmprojectsites.t-systems.com
 epmts.t-systems.com
@@ -570,8 +591,10 @@ eu-de.otc.t-systems.com
 eu-de.otctest.t-systems.com
 eu-nl.otc.t-systems.com
 evita.t-systems.com
+evm4sap.t-systems.com
 examb-docker.sbs.t-systems.com
 ext-radius.esa.t-systems.com
+external.t-systems.com
 extrodeo.t-systems.com
 extrodeotest.t-systems.com
 f.webgw.t-systems.com
@@ -634,6 +657,8 @@ gpcgw.gdc-dmst02.t-systems.com
 gpcns.dmz42.t-systems.com
 gpcns1.dmz42.t-systems.com
 gpcns2.dmz42.t-systems.com
+gpcsft.dmz42.t-systems.com
+gpcsfw.dmz42.t-systems.com
 gpcvcsa.dmz42.t-systems.com
 gpsm2.ipls.t-systems.com
 han-acs-tac1.t-systems.com
@@ -659,6 +684,13 @@ hit-cec-fl-045.ipt.t-systems.com
 hit-cec-fl-046.ipt.t-systems.com
 hit-cec-fl-047.ipt.t-systems.com
 hit-cec-fl-048.ipt.t-systems.com
+hit-cec-fl-049.ipt.t-systems.com
+hit-cec-fl-054.ipt.t-systems.com
+hit-cec-fl-055.ipt.t-systems.com
+hit-cec-fl-056.ipt.t-systems.com
+hit-cec-fl-057.ipt.t-systems.com
+hit-cec-fl-058.ipt.t-systems.com
+hit-cec-fl-059.ipt.t-systems.com
 hit-cec-fl-060.ipt.t-systems.com
 hit-cec-fl-061.ipt.t-systems.com
 hit-cec-fl-062.ipt.t-systems.com
@@ -683,6 +715,13 @@ hit-cec-fr-045.ipt.t-systems.com
 hit-cec-fr-046.ipt.t-systems.com
 hit-cec-fr-047.ipt.t-systems.com
 hit-cec-fr-048.ipt.t-systems.com
+hit-cec-fr-049.ipt.t-systems.com
+hit-cec-fr-054.ipt.t-systems.com
+hit-cec-fr-055.ipt.t-systems.com
+hit-cec-fr-056.ipt.t-systems.com
+hit-cec-fr-057.ipt.t-systems.com
+hit-cec-fr-058.ipt.t-systems.com
+hit-cec-fr-059.ipt.t-systems.com
 hit-cec-fr-060.ipt.t-systems.com
 hit-cec-fr-061.ipt.t-systems.com
 hit-cec-fr-062.ipt.t-systems.com
@@ -769,6 +808,7 @@ hpsm-sts-ucmdb.t-systems.com
 hpsm-sts.t-systems.com
 hybc.ipt.t-systems.com
 hybc.lab.ipt.t-systems.com
+hybc2messaging.ipt.t-systems.com
 hybc3messaging.ipt.t-systems.com
 hybccalendar.ipt.t-systems.com
 hybccalendar.lab.ipt.t-systems.com
@@ -777,6 +817,7 @@ hybcmessaging.lab.ipt.t-systems.com
 i21-docker.sbs.t-systems.com
 i2commons-docker.sbs.t-systems.com
 iac.t-systems.com
+iam.misp.t-systems.com
 iam.test42-misp.t-systems.com
 ibis-docker.sbs.t-systems.com
 ibl-docker.sbs.t-systems.com
@@ -809,17 +850,21 @@ intranet-nl.t-systems.com
 intranet.gdc-leinf01.t-systems.com
 intranet.t-systems.com
 inventory1.netpro.t-systems.com
+ipamgkvi-db.t-systems.com
+ipamgkvi.t-systems.com
 ipc-frasl-209.ipt.t-systems.com
 ipc-frasl-209.lab.ipt.t-systems.com
 ipc-frasl-219.ipt.t-systems.com
 ipc-frasl-221.ipt.t-systems.com
 ipc-frasl-224.ipt.t-systems.com
+ipc-frasl-239.ipt.t-systems.com
 ipc-frasr-210.ipt.t-systems.com
 ipc-frasr-210.lab.ipt.t-systems.com
 ipc-frasr-219.ipt.t-systems.com
 ipc-frasr-221.ipt.t-systems.com
 ipc-frasr-224.ipt.t-systems.com
 ipc-frasr-235.ipt.t-systems.com
+ipc-frasr-239.ipt.t-systems.com
 ipls-portal.nm.ipls.t-systems.com
 ipls-portal.ocn.ipls.t-systems.com
 ipls.t-systems.com
@@ -850,6 +895,8 @@ iss-insight.t-systems.com
 iss-tri-test.t-systems.com
 iss-tri-uat.t-systems.com
 iss-tri.t-systems.com
+iss-tri2-test.t-systems.com
+iss-tri2.t-systems.com
 isvselfservice.t-systems.com
 isvselfservicesso.t-systems.com
 it-campus.t-systems.com
@@ -885,6 +932,7 @@ jumpstarthana30.t-systems.com
 kite-docker.sbs.t-systems.com
 kms.ffm.t-systems.com
 kms.lab.ipt.t-systems.com
+konzinfo-docker.sbs.t-systems.com
 kps-docker.sbs.t-systems.com
 l1tsier01.t-systems.com
 lab-cec-fl-165.lab.ipt.t-systems.com
@@ -942,6 +990,7 @@ login.gdc-sbr01.t-systems.com
 login.gdc-ulm01.t-systems.com
 login.gdc-wolf01.t-systems.com
 login.gdc-zwick01.t-systems.com
+lstool-gkvi.t-systems.com
 lwww2.ipls.t-systems.com
 lwww2.nm.ipls.t-systems.com
 lyncdiscover.t-systems.com
@@ -967,6 +1016,7 @@ mail6.esa.t-systems.com
 mail7.esa.t-systems.com
 mail8.esa.t-systems.com
 mail9.esa.t-systems.com
+mailgw.t-systems.com
 maininno-docker.sbs.t-systems.com
 maintenance-akjhu-bmp.obs-website.eu-de.otc.t-systems.com
 manabu.ishikawa.t-systems.com
@@ -1035,6 +1085,7 @@ modmtrial.t-systems.com
 modmtsvk.t-systems.com
 modosdeexistil.t-systems.com
 monowall.gdc-chnz01.t-systems.com
+moodle.t-systems.com
 mp-02.t-systems.com
 mp-06.t-systems.com
 mpt-02.t-systems.com
@@ -1156,6 +1207,7 @@ myworkplace-ts.t-systems.com
 myworkplace.t-systems.com
 myworkplaceinternal-int.t-systems.com
 myworkplaceinternal-ite1.t-systems.com
+myworkplaceinternal.t-systems.com
 myworkplacent-tfs.t-systems.com
 myworkroom-extranet.t-systems.com
 mywp.t-systems.com
@@ -1272,6 +1324,7 @@ pa01.webgw.t-systems.com
 pa02.webgw.t-systems.com
 partner.t-systems.com
 pasm-partner.ffm.t-systems.com
+pat4sap.t-systems.com
 patrol.sap.t-systems.com
 pdap-docker.sbs.t-systems.com
 permissions.sap.t-systems.com
@@ -1292,14 +1345,25 @@ pmxexpdmz01.mx-puebla.t-systems.com
 pmxexpsf01.mx-puebla.t-systems.com
 polarion.gdc-leinf01.t-systems.com
 portal-cic.t-systems.com
+portal.ipls.t-systems.com
 portal.mas.t-systems.com
+portal.nm.ipls.t-systems.com
 portal.sap.t-systems.com
+portal1.ipls.t-systems.com
+portal1.nm.ipls.t-systems.com
+portal2.ipls.t-systems.com
+portal2.nm.ipls.t-systems.com
+portal3.ipls.t-systems.com
+portal3.nm.ipls.t-systems.com
+portal4.ipls.t-systems.com
+portal4.nm.ipls.t-systems.com
 postilli-docker.sbs.t-systems.com
 ppa-docker.sbs.t-systems.com
 ppr-test.ag.t-systems.com
 ppr.ag.t-systems.com
 pqa-docker.sbs.t-systems.com
 preview-ip.t-systems.com
+primus-docker.sbs.t-systems.com
 process-support.t-systems.com
 processcockpit-test.t-systems.com
 processcockpit.t-systems.com
@@ -1356,6 +1420,7 @@ q4de3asy242.gdc-dmst01.t-systems.com
 q4de3asy383.gdc-dmst01.t-systems.com
 q4de3asy635.gdc-dmst01.t-systems.com
 q4de3bsy160.gdc-dmst02.t-systems.com
+q4de3bsyffp.gdc-dmst02.t-systems.com
 q4de3bsylx5.gdc-dmst02.t-systems.com
 q4de3bsyns0.gdc-dmst02.t-systems.com
 q4de3bsyns1.gdc-dmst02.t-systems.com
@@ -1376,6 +1441,7 @@ q4de3csy303.gdc-chnz01.t-systems.com
 q4de3csy323.gdc-chnz01.t-systems.com
 q4de3csy324.gdc-chnz01.t-systems.com
 q4de3csy325.gdc-chnz01.t-systems.com
+q4de3csy327.gdc-chnz01.t-systems.com
 q4de3csy329.gdc-chnz01.t-systems.com
 q4de3csy332.gdc-chnz01.t-systems.com
 q4de3csy333.gdc-chnz01.t-systems.com
@@ -1383,6 +1449,7 @@ q4de3csy411.gdc-chnz01.t-systems.com
 q4de3csy470.gdc-chnz01.t-systems.com
 q4de3csye07.gdc-chnz01.t-systems.com
 q4de3dsy035.gdc-dmst03.t-systems.com
+q4de3dsy170.gdc-dmst03.t-systems.com
 q4de3dsy172.gdc-dmst03.t-systems.com
 q4de3esy084.gdc-bln01.t-systems.com
 q4de3esy118.gdc-bln01.t-systems.com
@@ -1392,6 +1459,8 @@ q4de3esy127.gdc-bln01.t-systems.com
 q4de3esy132.gdc-bln01.t-systems.com
 q4de3esy137.gdc-bln01.t-systems.com
 q4de3esy138.gdc-bln01.t-systems.com
+q4de3esy197.gdc-bln01.t-systems.com
+q4de3esy265.gdc-bln01.t-systems.com
 q4de3esy298.gdc-bln01.t-systems.com
 q4de3esy303.gdc-bln01.t-systems.com
 q4de3esy651.gdc-bln01.t-systems.com
@@ -1416,7 +1485,13 @@ q4de3esy930.gdc-bln01.t-systems.com
 q4de3esy931.gdc-bln01.t-systems.com
 q4de3esy932.gdc-bln01.t-systems.com
 q4de3esy940.gdc-bln01.t-systems.com
+q4de3esy941.gdc-bln01.t-systems.com
+q4de3esy942.gdc-bln01.t-systems.com
+q4de3esy943.gdc-bln01.t-systems.com
 q4de3esy950.gdc-bln01.t-systems.com
+q4de3esy951.gdc-bln01.t-systems.com
+q4de3esy952.gdc-bln01.t-systems.com
+q4de3esy953.gdc-bln01.t-systems.com
 q4de3fsy002.campus.gdc-bln02.t-systems.com
 q4de3fsy002.gdc-bln02.t-systems.com
 q4de3gsy076.gdc-leinf01.t-systems.com
@@ -1424,6 +1499,7 @@ q4de3gsy118.gdc-leinf01.t-systems.com
 q4de3gsy303.gdc-leinf01.t-systems.com
 q4de3gsy339.gdc-leinf01.t-systems.com
 q4de3gsy456.gdc-leinf01.t-systems.com
+q4de3gsy500.gdc-leinf01.t-systems.com
 q4de3gsy594.gdc-leinf01.t-systems.com
 q4de3gsy599.gdc-leinf01.t-systems.com
 q4de3gsy676.gdc-leinf01.t-systems.com
@@ -1464,6 +1540,7 @@ q4de3psy964.gdc-sbr01.t-systems.com
 q4de3qsy007.gdc-esn01.t-systems.com
 q4de3qsy099.gdc-esn01.t-systems.com
 q4de3qsy220.gdc-esn01.t-systems.com
+q4de3qsy668.gdc-esn01.t-systems.com
 q4de3qsy671.gdc-esn01.t-systems.com
 q4de3qsy672.gdc-esn01.t-systems.com
 q4de3qsy952.gdc-esn01.t-systems.com
@@ -1507,7 +1584,9 @@ q4dee1syw6q.ffm.t-systems.com
 q4dee1syw6r.ffm.t-systems.com
 q4dee1syw6s.ffm.t-systems.com
 q4dee1syw6w.ffm.t-systems.com
+q4dee1syw76.ffm.t-systems.com
 q4dee1syw77.ffm.t-systems.com
+q4dee1syw78.ffm.t-systems.com
 q4dee1syw81.ffm.t-systems.com
 q4dee1syw82.ffm.t-systems.com
 q4dee1sywaf.ffm.t-systems.com
@@ -1537,6 +1616,7 @@ references.t-systems.com
 referenzen-iat.zspi.t-systems.com
 referenzen.zspi.t-systems.com
 registry.misp.t-systems.com
+registry.test42-misp.t-systems.com
 regwest.t-systems.com
 repoclient.lst-docker.sbs.t-systems.com
 reporting.t-systems.com
@@ -1559,6 +1639,9 @@ rtccm-docker.sbs.t-systems.com
 rtm-docker.sbs.t-systems.com
 rvsevo-docker.sbs.t-systems.com
 rvsmvs-docker.sbs.t-systems.com
+s-vdi-admin-cs01-test.gdc-bln01.t-systems.com
+s-vdi-admin-cs02-test.gdc-bln01.t-systems.com
+s-vdi-test.gdc-bln01.t-systems.com
 s1-psc01.gdc-leinf01.t-systems.com
 s1-vc01.gdc-leinf01.t-systems.com
 s4zac3syex02.za01.t-systems.com
@@ -1582,6 +1665,7 @@ sapdoctl-docker.sbs.t-systems.com
 sat78-3-82-238-206-254.fbx.t-systems.com
 sbs-admin-docker.sbs.t-systems.com
 sbs-ams.t-systems.com
+sbs-demo-docker.sbs.t-systems.com
 sbs-docker-docker.sbs.t-systems.com
 sbs-docker.sbs.t-systems.com
 sbs-template-docker.sbs.t-systems.com
@@ -1641,6 +1725,8 @@ secwebhelp.t-systems.com
 secwebhelp2.t-systems.com
 servicenet.t-systems.com
 serviceportal.t-systems.com
+session-mgmt-test.dmz42.t-systems.com
+session-mgmt.dmz42.t-systems.com
 setools.t-systems.com
 seu10.gdc-bln03.t-systems.com
 seu10.gdc-dmst01.t-systems.com
@@ -1663,6 +1749,7 @@ seu41.gdc-leinf01.t-systems.com
 seu75.gdc-leinf01.t-systems.com
 seu91.gdc-leinf01.t-systems.com
 sf-obs.obs.eu-de.otc.t-systems.com
+sfos-docker.sbs.t-systems.com
 sga-external.t-systems.com
 sharepointat.t-systems.com
 shm.ipt.t-systems.com
@@ -1686,9 +1773,12 @@ sip.t-systems.com
 slog-docker.sbs.t-systems.com
 slr.sap.t-systems.com
 smart-events.t-systems.com
+smbb-int.t-systems.com
 smbb-trial.t-systems.com
 smbb.t-systems.com
 smbv2-docker.sbs.t-systems.com
+smc.ipt.t-systems.com
+smc2.ipt.t-systems.com
 smctawebs02.dmz-ffm.t-systems.com
 smtp-tui.esa.t-systems.com
 smtp2.t-systems.com
@@ -1824,6 +1914,7 @@ tseye-docker.sbs.t-systems.com
 tsibtob.t-systems.com
 tsidns.t-systems.com
 tsilablt01.t-systems.com
+tsinadsscip-docker.sbs.t-systems.com
 tsmail1.pl.tsi-eu.t-systems.com
 tsmail11.t-systems.com
 tsmail12.t-systems.com
@@ -1858,6 +1949,7 @@ uvs-docker.sbs.t-systems.com
 v4-docker.sbs.t-systems.com
 vau-docker.sbs.t-systems.com
 vaux-docker.sbs.t-systems.com
+vcenter.gdc-leinf01.t-systems.com
 vcloud-hou-cx.t-systems.com
 vcloud-hou-private.t-systems.com
 vcloud-hou-re.t-systems.com
@@ -1877,9 +1969,11 @@ vcloudcon-sin-private.t-systems.com
 vcloudcon.t-systems.com
 vds2-docker.sbs.t-systems.com
 vega-docker.sbs.t-systems.com
+vegalb.gdc-leinf01.t-systems.com
 vegalx1.gdc-leinf01.t-systems.com
 vegalx2.gdc-leinf01.t-systems.com
 vegalx4.gdc-leinf01.t-systems.com
+vegalx7.gdc-leinf01.t-systems.com
 vegasrv1.gdc-leinf01.t-systems.com
 vionnyproxy.esa.t-systems.com
 vlpp-docker.sbs.t-systems.com
@@ -1905,6 +1999,7 @@ webapp09.webgw.t-systems.com
 webapp10.webgw.t-systems.com
 webmaus.ipls.t-systems.com
 webmice.ipls.t-systems.com
+webrem.misp.t-systems.com
 websrm.t-systems.com
 websso-test.t-systems.com
 websso.t-systems.com
@@ -1939,6 +2034,7 @@ www.manticore.t-systems.com
 www.marketplace.t-systems.com
 www.mls-iat.itenos.t-systems.com
 www.mls.itenos.t-systems.com
+www.onlinesurvey.t-systems.com
 www.q4de3csye07.gdc-chnz01.t-systems.com
 www.rodeo.t-systems.com
 www.rot-abnahme.t-systems.com

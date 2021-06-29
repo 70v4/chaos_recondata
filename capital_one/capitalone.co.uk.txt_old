@@ -1,4 +1,5 @@
 activate.capitalone.co.uk
+admin-obsbox.capitalone.co.uk
 agent-initiated-message.capitalone.co.uk
 agt-inittd-msgs-pp.capitalone.co.uk
 api-comms-dev.capitalone.co.uk
@@ -19,6 +20,7 @@ applinks.capitalone.co.uk
 apply-data.capitalone.co.uk
 apply.capitalone.co.uk
 auth-ui-obsbox.capitalone.co.uk
+authorization-notification-service-pp.capitalone.co.uk
 beaker.capitalone.co.uk
 bowler.capitalone.co.uk
 click.notification.capitalone.co.uk
@@ -33,6 +35,7 @@ creditwise-data.capitalone.co.uk
 creditwise-pp.capitalone.co.uk
 creditwise.capitalone.co.uk
 developer-data.capitalone.co.uk
+developer-obsbox.capitalone.co.uk
 developer.capitalone.co.uk
 digital-communications-pp.capitalone.co.uk
 edeprod.capitalone.co.uk
@@ -71,6 +74,7 @@ mservice.capitalone.co.uk
 mthinkmoneycreditcard.capitalone.co.uk
 mvery.capitalone.co.uk
 mvxrewards.capitalone.co.uk
+myaccount-auth.capitalone.co.uk
 myaccount-data.capitalone.co.uk
 myaccount-s1.capitalone.co.uk
 myaccount-s2.capitalone.co.uk

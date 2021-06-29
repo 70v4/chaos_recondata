@@ -4,6 +4,9 @@ accertify.westernunion.com
 accertifylab.westernunion.com
 accertifyuat.westernunion.com
 ach.westernunion.com
+action.lisa.prod.westernunion.com
+action.lisa.uat.westernunion.com
+action.lisa.westernunion.com
 adjreasoncodedatabase-prod.westernunion.com
 adjreasoncodedatabase-proddr.westernunion.com
 adjreasoncodedatabase-uat.westernunion.com
@@ -21,8 +24,18 @@ alpinebankintlwires.fi.westernunion.com
 alterna.fi.westernunion.com
 an.westernunion.com
 apac-traffic1.support.westernunion.com
+api-nonprod.fourthline.partner.eu.cloud.westernunion.com
+api-nonprod.marqeta.partner.us.cloud.westernunion.com
+api-nonprod.marqeta.partner.us.nv.cloud.westernunion.com
+api-nonprod.marqeta.partner.us.oh.cloud.westernunion.com
+api-nonprod.saltedge.partner.eu.cloud.westernunion.com
+api-prod.fourthline.partner.eu.cloud.westernunion.com
+api-prod.saltedge.partner.eu.cloud.westernunion.com
 api-test.business.westernunion.com
 api.business.westernunion.com
+api.cmt.stp.us.dev.westernunion.com
+api.cmt.stp.us.prod.westernunion.com
+api.cmt.stp.us.qa.westernunion.com
 api.dataanalyticsprod.useast1.westernunion.com
 api.demo.business.westernunion.com
 api.dev.globalpay.westernunion.com
@@ -35,7 +48,12 @@ api.uat.globalpay.westernunion.com
 api.westernunion.com
 api.wupay-uat.westernunion.com
 api.wupay.westernunion.com
+apnprod.westernunion.com
+apnuat.westernunion.com
 app.business.westernunion.com
+app.lisa.prod.westernunion.com
+app.lisa.uat.westernunion.com
+app.lisa.westernunion.com
 app.mk.westernunion.com
 arc.westernunion.com
 auth-test.globalpay.westernunion.com
@@ -88,6 +106,9 @@ coinstar.westernunion.com
 colombia.westernunion.com
 commons.donation.westernunion.com
 convpay.westernunion.com
+core.lisa.prod.westernunion.com
+core.lisa.uat.westernunion.com
+core.lisa.westernunion.com
 coremt.westernunion.com
 corerrevprxy.westernunion.com
 corerrevuatprxy.westernunion.com
@@ -121,6 +142,9 @@ demo-api.globalpay.westernunion.com
 demo-auth.globalpay.westernunion.com
 demo-globalpay.westernunion.com
 demo-payee.globalpay.westernunion.com
+demo-test.globalpay.westernunion.com
+demo-test.payee.globalpay.westernunion.com
+demo-test.webservices.globalpay.westernunion.com
 demo-webservices.globalpay.westernunion.com
 demo.business.westernunion.com
 demo.globalpay.westernunion.com
@@ -142,9 +166,15 @@ developer.westernunion.com
 developeruat.westernunion.com
 devqatar.westernunion.com
 digital.westernunion.com
+dl.lisa.prod.westernunion.com
+dl.lisa.uat.westernunion.com
+dl.lisa.westernunion.com
 dmz.westernunion.com
 donation.westernunion.com
 dtmc.westernunion.com
+duckling.lisa.prod.westernunion.com
+duckling.lisa.uat.westernunion.com
+duckling.lisa.westernunion.com
 e.ns.emails.westernunion.com
 ebm.emails.westernunion.com
 edge-akamai.westernunion.com
@@ -215,6 +245,7 @@ globalbankservices.westernunion.com
 globalpay-test.westernunion.com
 globalpay.westernunion.com
 globalpayfi-admin.globalpay.westernunion.com
+gp.fi.westernunion.com
 gp2-ext.qa.westernunion.com
 gp2-ext.uat.westernunion.com
 gpacm--demo.fi.westernunion.com
@@ -409,6 +440,9 @@ kiosk-sandbox.westernunion.com
 kiosk.westernunion.com
 kuwait.westernunion.com
 lb.business.westernunion.com
+lisa.prod.westernunion.com
+lisa.uat.westernunion.com
+lisa.westernunion.com
 local.westernunion.com
 location.westernunion.com
 locations-test.westernunion.com
@@ -416,6 +450,7 @@ locations.westernunion.com
 locator.westernunion.com
 locatorapp-origin-dev.westernunion.com
 locatorapp-origin.westernunion.com
+login-us-sandbox.westernunion.com
 lookbook.westernunion.com
 m-geofi-demo.fi.westernunion.com
 m-geofi-uat.fi.westernunion.com
@@ -434,7 +469,12 @@ mail5.intl.westernunion.com
 mailings.westernunion.com
 mailintl.westernunion.com
 marketing.westernunion.com
+masspay-oauth.api.westernunion.com
 masspay.api.westernunion.com
+masspay.oauth.api.westernunion.com
+masspaysandbox-oauth.api.westernunion.com
+masspaysandbox.api.westernunion.com
+masspaysandbox.oauth.api.westernunion.com
 mdot.westernunion.com
 meeting-den.westernunion.com
 meeting-fra.westernunion.com
@@ -543,6 +583,7 @@ origin-wupay.api.westernunion.com
 origin-wuposlb-tablet.westernunion.com
 origin-wuposlb.westernunion.com
 origin-wuposlbc.westernunion.com
+origin-wuposlbcl-qa1.westernunion.com
 origin-wuposlbp.westernunion.com
 origin-wuposlbrom-tablet.westernunion.com
 origin-wuposlbrom.westernunion.com
@@ -560,6 +601,7 @@ origin.developer.westernunion.com
 origin.developeruat-chi.westernunion.com
 origin.developeruat-res.westernunion.com
 origin.developeruat.westernunion.com
+origin.digital-chs-uat.westernunion.com
 origin.mnt-chi.globalpay.westernunion.com
 origin.mnt-res.globalpay.westernunion.com
 origin.mnt.globalpay.westernunion.com
@@ -567,6 +609,8 @@ origin.partnergateway.dev.westernunion.com
 origin.partnergateway.qa.westernunion.com
 origin.partnergateway.uat.westernunion.com
 origin.partnergateway.westernunion.com
+origin.partners-pi.westernunion.com
+origin.partners.westernunion.com
 origin.payment-tracking.business.westernunion.com
 origin.payment-tracking.dev.westernunion.com
 origin.payment-tracking.qa.westernunion.com
@@ -624,6 +668,10 @@ partner-cloud-sandbox.westernunion.com
 partner-stl-api-dev.westernunion.com
 partner-stl-api.westernunion.com
 partner-stp-api-ohio.westernunion.com
+partnergateway.dev.westernunion.com
+partnergateway.qa.westernunion.com
+partnergateway.uat.westernunion.com
+partnergateway.westernunion.com
 partnerlearning-uat.westernunion.com
 partnerlearning.westernunion.com
 partnernet-prv.westernunion.com
@@ -640,8 +688,14 @@ partners.westernunion.com
 pay.westernunion.com
 payee-test.globalpay.westernunion.com
 payee.globalpay.westernunion.com
+payment-tracking-api.business.westernunion.com
+payment-tracking-api.dev.westernunion.com
+payment-tracking-api.qa.westernunion.com
+payment-tracking-api.uat.westernunion.com
+payment-tracking.business.westernunion.com
 payment-tracking.dev.westernunion.com
 payment-tracking.qa.westernunion.com
+payment-tracking.uat.westernunion.com
 paymentgateway.westernunion.com
 paymentgatewaynonprod.westernunion.com
 payments.kyb.westernunion.com
@@ -699,6 +753,7 @@ qa2.gpfi.globalpay.westernunion.com
 qacslsvcs.westernunion.com
 qacustsupport.westernunion.com
 rb-sc.fi.westernunion.com
+rdp.globalpay.westernunion.com
 receive.westernunion.com
 redirector-prv.westernunion.com
 redirector-prvc.westernunion.com
@@ -738,6 +793,7 @@ refund-seller-uat.business.westernunion.com
 refund-seller.business.westernunion.com
 refund-seller.qa.business.westernunion.com
 refund-seller.uat.business.westernunion.com
+refundsapi.qa.business.westernunion.com
 refundsapi.uat.business.westernunion.com
 remoteaccess.westernunion.com
 remoteaccessus.westernunion.com
@@ -796,6 +852,7 @@ system134.westernunion.com
 taiopos.westernunion.com
 test.infosec.westernunion.com
 test1234.westernunion.com
+testams.westernunion.com
 titusiii.westernunion.com
 tmsdls.westernunion.com
 tmsweb.westernunion.com
@@ -869,6 +926,9 @@ whitelabeltest.uat.gpfi.globalpay.westernunion.com
 wirescwbankgroup.fi.westernunion.com
 wireswfcubiz.fi.westernunion.com
 wirexchange-fx.fi.westernunion.com
+wit.lisa.prod.westernunion.com
+wit.lisa.uat.westernunion.com
+wit.lisa.westernunion.com
 worldbankfx.fi.westernunion.com
 wuagentportal.westernunion.com
 wuagentportalprod.westernunion.com
@@ -888,6 +948,10 @@ wubs.coreauthserver.api.perf.westernunion.com
 wubs.coreauthserver.api.prod.westernunion.com
 wubs.coreauthserver.api.qa.westernunion.com
 wubs.coreauthserver.api.uat.westernunion.com
+wubs.detailtracking.api.perf.westernunion.com
+wubs.detailtracking.api.qa.westernunion.com
+wubs.detailtracking.api.uat.westernunion.com
+wubs.detailtracking.api.westernunion.com
 wubs.traderdata.api.dev.westernunion.com
 wubs.traderdata.api.perf.westernunion.com
 wubs.traderdata.api.prod.westernunion.com
@@ -1039,6 +1103,7 @@ wuposfiat.westernunion.com
 wuposlb-tablet.westernunion.com
 wuposlb.westernunion.com
 wuposlbc.westernunion.com
+wuposlbclqa1.westernunion.com
 wuposlbrom-tablet.westernunion.com
 wuposlbrom.westernunion.com
 wuposlbuat-tablet.westernunion.com
@@ -1079,6 +1144,7 @@ wurs.westernunion.com
 wuservice.westernunion.com
 wusfg.westernunion.com
 wusfguat.westernunion.com
+wushop.westernunion.com
 wuwvc0dbgdp01.westernunion.com
 wuwvc0dbgdp02.westernunion.com
 wuwvc1dbgdp01.westernunion.com
@@ -1141,6 +1207,7 @@ www.secureauth.westernunion.com
 www.senegal.westernunion.com
 www.trackpayments.westernunion.com
 www.tunisia.westernunion.com
+www.tz.westernunion.com
 www.uae.westernunion.com
 www.uatgocash-uk.westernunion.com
 www.uathostedabmt.westernunion.com

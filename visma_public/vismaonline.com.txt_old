@@ -12,6 +12,7 @@ advisorapi.vismaonline.com
 ai.vismaonline.com
 api.identity.internaltest.vismaonline.com
 api.identity.stage.vismaonline.com
+api.identity.vismaonline.com
 api.internaltest.vismaonline.com
 api.sms.internaltest.vismaonline.com
 api.sms.stage.vismaonline.com
@@ -137,6 +138,7 @@ sms.stage.vismaonline.com
 sms.vismaonline.com
 spotfactoring.internaltest.vismaonline.com
 spotfactoring.stage.vismaonline.com
+spotfactoring.vismaonline.com
 stage.vismaonline.com
 static.test.vismaonline.com
 static.vismaonline.com

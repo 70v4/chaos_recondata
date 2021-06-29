@@ -24,6 +24,7 @@ influx.prod.redoxengine.com
 jenkins.10x.redoxengine.com
 jenkins.prod.redoxengine.com
 k8lab.redoxengine.com
+kb.redoxengine.com
 kibana.redoxengine.com
 links.redoxengine.com
 matrixcare.redoxengine.com
@@ -35,6 +36,7 @@ prodrancher.redoxengine.com
 pypi.redoxengine.com
 rancherlab.redoxengine.com
 sso.redoxengine.com
+stagingclientcert.redoxengine.com
 status.redoxengine.com
 tempapp.redoxengine.com
 tempeets.redoxengine.com

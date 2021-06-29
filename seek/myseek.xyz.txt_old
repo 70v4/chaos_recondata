@@ -3,8 +3,10 @@ api.seek-comfort-services.myseek.xyz
 archer.myseek.xyz
 autodiscover.myseek.xyz
 byod.myseek.xyz
+certbyod.myseek.xyz
 flp.myseek.xyz
 forms.myseek.xyz
+guest.myseek.xyz
 jss-dev.myseek.xyz
 jss.myseek.xyz
 ldap.myseek.xyz
@@ -15,6 +17,7 @@ m1-oob.myseek.xyz
 m1-vpngw01.myseek.xyz
 mdm.myseek.xyz
 my-seekie.myseek.xyz
+mybyod.myseek.xyz
 ndes.myseek.xyz
 network.myseek.xyz
 ocsp.myseek.xyz

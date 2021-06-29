@@ -31,6 +31,7 @@ cn-ex.vpn.teslamotors.com
 cn-origin.teslamotors.com
 cn.auth.teslamotors.com
 cn.teslamotors.com
+cnvmanage.teslamotors.com
 cnvpn-ex.teslamotors.com
 cnvpn.teslamotors.com
 conferencing.teslamotors.com
@@ -117,6 +118,8 @@ mytcore-prdsvc.teslamotors.com
 mytesla-stg.teslamotors.com
 myteslawd-uat.teslamotors.com
 neovi-vpn.teslamotors.com
+neovi.teslamotors.com
+neovi3.teslamotors.com
 new-dev.teslamotors.com
 new-my.teslamotors.com
 new-origin.teslamotors.com

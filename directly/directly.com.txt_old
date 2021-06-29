@@ -310,6 +310,7 @@ exchange.app.sandbox.directly.com
 exchange.directly.com
 exchange.sandbox.directly.com
 expert-blog.directly.com
+experts.directly.com
 eym-xsrvjp.directly.com
 facebook-login.sandbox.directly.com
 fallback.preprod.directly.com
@@ -489,6 +490,7 @@ kubernetes.sandbox.directly.com
 leith.sandbox.directly.com
 linkedin.directly.com
 links.directly.com
+links.experts.directly.com
 lists.app.sandbox.directly.com
 lists.directly.com
 lists.sandbox.directly.com

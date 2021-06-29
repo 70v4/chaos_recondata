@@ -176,6 +176,7 @@ amp.fss.gsa.gov
 ampb.fss.gsa.gov
 amxcontroler.gsa.gov
 analytics.dsat.gsa.gov
+anchore.gsa.gov
 anywhere.gsa.gov
 apex.gsa.gov
 api.a.aws-ocp.gsa.gov
@@ -208,6 +209,7 @@ arlu4e0.fss.gsa.gov
 arlu8e0.fss.gsa.gov
 arm.fas.gsa.gov
 armb.fas.gsa.gov
+artifactory.gsa.gov
 arts.fas.gsa.gov
 artsb.fas.gsa.gov
 asap-preprod.fas.gsa.gov
@@ -224,12 +226,16 @@ aspaec.fas.gsa.gov
 aspdotnetstorefront.webshops.fas.gsa.gov
 aspdotnetstorefront.webshopt.fas.gsa.gov
 aspdotnetstorefront.webshopt.gsa.gov
+asset.fleet-dev.fcs.gsa.gov
+asset.fleet-test.fcs.gsa.gov
 athena.gsa.gov
 atllaser.gsa.gov
 auctionsres.gsa.gov
 auth.fleet-dev.fcs.gsa.gov
+auth.fleet-test.fcs.gsa.gov
 auth.fss19-dev.fcs.gsa.gov
 auth.temp.fss19-dev.fcs.gsa.gov
+authentication-folio.staging.gsa.gov
 autoauctions.gsa.gov
 autoauctionsb.fas.gsa.gov
 autochoice.fas.gsa.gov
@@ -262,6 +268,7 @@ biedwxir4-dev.fas.gsa.gov
 biedwxir4-test.fas.gsa.gov
 blogs.gsa.gov
 bm.fleet-dev.fcs.gsa.gov
+bm.fleet-prod.fcs.gsa.gov
 bm.fleet-test.fcs.gsa.gov
 bonegnasher.gsa.gov
 bonnie.gsa.gov
@@ -305,6 +312,7 @@ cart-dev.fas.gsa.gov
 cart-test.fas.gsa.gov
 cart.fas.gsa.gov
 catalog.fleet-dev.fcs.gsa.gov
+catalog.fleet-prod.fcs.gsa.gov
 catalog.fleet-test.fcs.gsa.gov
 catalog.gsa.gov
 cbponboard.pbs.gsa.gov
@@ -379,6 +387,13 @@ content-preprod.gsaadvantage.fas.gsa.gov
 content-test.gsaadvantage.fas.gsa.gov
 content.gsaadvantage.fas.gsa.gov
 content2.wip.gsa.gov
+contract-api-api-dev.fss19-dev.fcs.gsa.gov
+contract-api-dev.fss19-dev.fcs.gsa.gov
+contract-api-mgmt.fss19-mgmt.fcs.gsa.gov
+contract-api-test.fss19-test.fcs.gsa.gov
+contract-api.fss19-dev.fcs.gsa.gov
+control-plane.apps.b.aws-ocp.gsa.gov
+controlhub.fleet-dev.fcs.gsa.gov
 coop-tpi.moveit.gsa.gov
 coop-was.itss.gsa.gov
 coop-web.itss.gsa.gov
@@ -391,6 +406,7 @@ copinsitebv.wip.gsa.gov
 copinsiteweb.wip.gsa.gov
 copk2.wip.gsa.gov
 cops-test.fas.gsa.gov
+cops-test3.fas.gsa.gov
 cops.fas.gsa.gov
 copsearch.wip.gsa.gov
 copweb.wip.gsa.gov
@@ -436,6 +452,10 @@ daas.fss.gsa.gov
 dashboard.gsa.gov
 dashboard.ocfo.gsa.gov
 dashboards.fas.gsa.gov
+data-collection-folio.staging.gsa.gov
+data-export-folio.staging.gsa.gov
+data.fleet-dev.fcs.gsa.gov
+data.fleet-prod.fcs.gsa.gov
 datagov.fas.gsa.gov
 datagovb.fas.gsa.gov
 dawnm.gsa.gov
@@ -463,6 +483,7 @@ dev-iis.ocfo.gsa.gov
 dev-mstr.ocfo.gsa.gov
 dev-oca-aqpnet.gsa.gov
 dev-pentaho.ocfo.gsa.gov
+dev-ppm.fcs.gsa.gov
 dev.dev-ppm.fcs.gsa.gov
 dev.dx-core.dx.dev-mcaas.fcs.gsa.gov
 dev.dxcore.dx.mcaas.fcs.gsa.gov
@@ -535,6 +556,7 @@ drivethrub.fas.gsa.gov
 drivethrub.fss.gsa.gov
 drivethrub.gsa.gov
 dsat.gsa.gov
+dss.gsa.gov
 e04bmm-authdq1.qaent.qads.gsa.gov
 e04bmm-gmapiprd.gsa.gov
 e04bmm-secauth6.ent.ds.gsa.gov
@@ -544,6 +566,8 @@ e04bmm-secauth9.ent.ds.gsa.gov
 e04tcm-authdev3.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 e04tcm-devonbrd.ent.ds.gsa.gov
+e04tcm-jpsint.ent.ds.gsa.gov
+e04tcm-jpsout.ent.ds.gsa.gov
 e04tcm-secauth4.ent.ds.gsa.gov
 e04tcm-secauth6.ent.ds.gsa.gov
 e04tcm-secauth7.ent.ds.gsa.gov
@@ -566,6 +590,7 @@ e06r6m-vdisgp01.ent.ds.gsa.gov
 e06r6m-vdisgp02.ent.ds.gsa.gov
 e07r7m-cspint.ent.ds.gsa.gov
 e07r7m-cspout.ent.ds.gsa.gov
+e07r7m-dssprod3.gsa.gov
 e07r7m-dssstage.gsa.gov
 e07r7m-secauth6.ent.ds.gsa.gov
 e07r7m-secauth7.ent.ds.gsa.gov
@@ -669,6 +694,7 @@ eoffer-test.fas.gsa.gov
 eoffer-test.fss.gsa.gov
 eoffer-test2.fas.gsa.gov
 eoffer-test3.fas.gsa.gov
+eoffer.fas.gsa.gov
 eoffer.fss.gsa.gov
 eoffer.gsa.gov
 epay.fas.gsa.gov
@@ -679,6 +705,8 @@ epdb2.fas.gsa.gov
 epls.gsa.gov
 epm.pbs.gsa.gov
 epmtraining.pbs.gsa.gov
+es.fleet-dev.fcs.gsa.gov
+es.fleet-mgmt.fcs.gsa.gov
 esb.gss.gsa.gov
 esb.ocfo.gsa.gov
 esbmgt.ocfo.gsa.gov
@@ -693,6 +721,8 @@ etsvendorsales-dev.gsa.gov
 etsvendorsales-test.gsa.gov
 etsvendorsales.gsa.gov
 eventsentryfts.gsa.gov
+execute-api.fss19-dev.fcs.gsa.gov
+execute-api.fss19-test.fcs.gsa.gov
 expo.gsa.gov
 expressplatform.aas.gsa.gov
 ext-courtsweb.gsa.gov
@@ -722,6 +752,9 @@ f04bmm-soa18t7.fas.gsa.gov
 f04bmm-soa21c7.fas.gsa.gov
 f04bmm-soa21d7.fas.gsa.gov
 f04bmm-soa22c7.fas.gsa.gov
+f04bmm-soa24d7.ent.ds.gsa.gov
+f04bmm-soa25d7.ent.ds.gsa.gov
+f04tcm-asemon.fas.gsa.gov
 f04tcm-eofsnp.fas.gsa.gov
 f04tcm-soa01p7.fas.gsa.gov
 f04tcm-soa02p7.fas.gsa.gov
@@ -753,6 +786,7 @@ fas-ns4.gsa.gov
 fas-staging.gsa.gov
 fas.connect.gsa.gov
 fas.gsa.gov
+fas.itplaybook.gsa.gov
 fasportaldemo.fss.gsa.gov
 fast.express.gsa.gov
 fast.r8.gsa.gov
@@ -764,6 +798,9 @@ fbms-a-dpx.gsa.gov
 fbodns1.fss.gsa.gov
 fbodns2.fss.gsa.gov
 fbopen.gsa.gov
+fcm-api-dev.fss19-dev.fcs.gsa.gov
+fcm-api-mgmt.fss19-mgmt.fcs.gsa.gov
+fcm-api-test.fss19-test.fcs.gsa.gov
 fcoh1m-p2splunk.fas.gsa.gov
 fcoh1m-soa13t7.fas.gsa.gov
 fcoh1m-soa14t7.fas.gsa.gov
@@ -815,6 +852,7 @@ feedback.gsa.gov
 ffms.fas.gsa.gov
 ffmsb.fas.gsa.gov
 fi.gsa.gov
+file-generator-folio.staging.gsa.gov
 fillform.gsa.gov
 finance-int-direct.ocfo.gsa.gov
 finance-test.gsa.gov
@@ -852,6 +890,7 @@ fleetsso.gsa.gov
 fleetssob.gsa.gov
 fmcoe.gsa.gov
 fmis.gsa.gov
+fmitservices-external.gsa.gov
 fmitservices.gsa.gov
 fmp.gsa.gov
 fmr.fss.gsa.gov
@@ -871,6 +910,9 @@ fmswseb.fas.gsa.gov
 fmswsec.fas.gsa.gov
 fmvrs.fas.gsa.gov
 fmvrsb.fas.gsa.gov
+folio-access-management.staging.gsa.gov
+folio.mcaas.fcs.gsa.gov
+folio.staging.gsa.gov
 forcegis.gsa.gov
 formservice.gsa.gov
 formssystem.gsa.gov
@@ -902,9 +944,13 @@ fss-slcdb01.fss.gsa.gov
 fss-slcsam01.fss.gsa.gov
 fss-strdb01.fss.gsa.gov
 fss-ui-dev.fss19-dev.fcs.gsa.gov
+fss-ui-mgmt.fss19-mgmt.fcs.gsa.gov
+fss-ui-test.fss19-test.fcs.gsa.gov
+fss-ui.fss19-dev.fcs.gsa.gov
 fss.107.250.gsa.gov
 fss.gsa.gov
 fss.r8.gsa.gov
+fss19-dev.fcs.gsa.gov
 fss19cmf.gsa.gov
 fss1f.fss.gsa.gov
 fss2f.fss.gsa.gov
@@ -996,6 +1042,7 @@ gems-sk2-02.gsa.gov
 gems-soca-01.gsa.gov
 gems-soca-02.gsa.gov
 geotrends.wip.gsa.gov
+gis.gsa.gov
 gishst.prd.gsa.gov
 gishst.stg.gsa.gov
 git.bsp.gsa.gov
@@ -66597,6 +66644,8 @@ iextportal.pbs.gsa.gov
 ifdhb.gsa.gov
 ifedsim.gsa.gov
 igrex.pbs.gsa.gov
+iimsapi.acre.gsa.gov
+iimsapi.uacre.gsa.gov
 ilmt.pbs.gsa.gov
 images.gsasolutions.gsa.gov
 impac.gsa.gov
@@ -66604,6 +66653,7 @@ imtest.gsa.gov
 inaugural97.gsa.gov
 inctt.pbs.gsa.gov
 indlaser.gsa.gov
+indoors.gsa.gov
 infoconnect.fss.gsa.gov
 infowizard.gsa.gov
 innovation.gsa.gov
@@ -66646,6 +66696,7 @@ itsolutions.gsa.gov
 itss.gsa.gov
 itssurvey.gsa.gov
 itsswas.gsa.gov
+itvmo.gsa.gov
 ivanac.gsa.gov
 ivvgovspace.gsa.gov
 ivvgsafinearts.pbs.gsa.gov
@@ -66654,6 +66705,8 @@ iwww.solar.gsa.gov
 jasper.bsp.gsa.gov
 jenkins.dev-ppm.fcs.gsa.gov
 jenkins.fss19-dev.fcs.gsa.gov
+jenkins.fss19-mgmt.fcs.gsa.gov
+jenkins.fss19-test.fcs.gsa.gov
 jenkins.mgmt-ppm.fcs.gsa.gov
 jenkins.test-ppm.fcs.gsa.gov
 jfrog.dev-ppm.fcs.gsa.gov
@@ -66665,7 +66718,13 @@ jovian7.gsa.gov
 jss.gsa.gov
 jtucker.gsa.gov
 jump.wip.gsa.gov
+k8s-ingress-ppms-api-develop.dev-ppm.fcs.gsa.gov
+k8s-ingress-ppms-api-test.dev-ppm.fcs.gsa.gov
 k8s-ingress-ppms-api-test.test-ppm.fcs.gsa.gov
+k8s-ingress-ppms-api-uat.dev-ppm.fcs.gsa.gov
+k8s-ingress-ppms-proxy-develop.dev-ppm.fcs.gsa.gov
+k8s-ingress-ppms-proxy-test.dev-ppm.fcs.gsa.gov
+k8s-ingress-ppms-proxy-uat.dev-ppm.fcs.gsa.gov
 k9eqa.gsa.gov
 kathyv.gsa.gov
 kc-content.wip.gsa.gov
@@ -66708,6 +66767,7 @@ lee.gsa.gov
 lemonterey.gsa.gov
 linkerd-admin.test-ppm.fcs.gsa.gov
 linkerd-web.test-ppm.fcs.gsa.gov
+linkerd.dev-ppm.fcs.gsa.gov
 linkerd.mgmt-ppm.fcs.gsa.gov
 linkerd.test-ppm.fcs.gsa.gov
 listserv.gsa.gov
@@ -66719,7 +66779,10 @@ loadbalancer-oasispet.gsa.gov
 loadbalancer-portal.fas.gsa.gov
 loadbalancer_int.itss.gsa.gov
 lobm.gsa.gov
+logging-folio.staging.gsa.gov
 login.acquisition-uat.gsa.gov
+login.fleet-dev.fcs.gsa.gov
+loki-server.dev-ppm.fcs.gsa.gov
 loki-server.mgmt-ppm.fcs.gsa.gov
 loki-server.test-ppm.fcs.gsa.gov
 lop.gsa.gov
@@ -66736,9 +66799,12 @@ mailgate11.gsa.gov
 mailgate12.gsa.gov
 mailgate13.gsa.gov
 mailgate14.gsa.gov
+mailhog.fleet-dev.fcs.gsa.gov
 mailhost.fss.gsa.gov
 maps.gsa.gov
 maps.stg.gsa.gov
+marketplace.fleet-dev.fcs.gsa.gov
+marketplace.fleet-test.fcs.gsa.gov
 mashups.pbs.gsa.gov
 maxweb.pbs.gsa.gov
 maxwell.gsa.gov
@@ -66765,6 +66831,7 @@ midatlantic.pbs.gsa.gov
 mileageexpress.fss.gsa.gov
 mirage.gsa.gov
 mnr.fleet-dev.fcs.gsa.gov
+mnr.fleet-prod.fcs.gsa.gov
 mnr.fleet-test.fcs.gsa.gov
 mobile.anywhere.gsa.gov
 mobile.gsa.gov
@@ -66923,8 +66990,11 @@ ocms-test2.fas.gsa.gov
 ocms-test3.fas.gsa.gov
 ocms.fas.gsa.gov
 odc.d2d.gsa.gov
+odp.gsa.gov
+odpdocker.test-ppm.fcs.gsa.gov
 oes.gsa.gov
 ogc-tower.gsa.gov
+ogp-mgmt.fcs.gsa.gov
 oig.gsa.gov
 oigsupport.gsa.gov
 oigvpn.gsa.gov
@@ -66941,6 +67011,7 @@ orders-test.fas.gsa.gov
 orders-training.fas.gsa.gov
 orders-vm-staging.fas.gsa.gov
 orders-vm.fas.gsa.gov
+orders-vp-staging.fas.gsa.gov
 orders-vp-training.fas.gsa.gov
 orders-vp.fas.gsa.gov
 orders.fas.gsa.gov
@@ -67027,12 +67098,18 @@ portal.eos.gsa.gov
 portal.fas.gsa.gov
 portal.test-eos.gsa.gov
 portal.usaccess.gsa.gov
+portalguard.gsa.gov
+portfolios-folio.staging.gsa.gov
 ppms-api-test.test-ppm.fcs.gsa.gov
 ppms-app-ui-develop.dev-ppm.fcs.gsa.gov
 ppms-app-ui-feature-jm-eks.test-ppm.fcs.gsa.gov
 ppms-app-ui-test.dev-ppm.fcs.gsa.gov
 ppms-app-ui-uat.dev-ppm.fcs.gsa.gov
+ppms-auctions-api-develop.dev-ppm.fcs.gsa.gov
+ppms-auctions-api-test.dev-ppm.fcs.gsa.gov
+ppms-auctions-api-uat.dev-ppm.fcs.gsa.gov
 ppms-auth-api-develop.dev-ppm.fcs.gsa.gov
+ppms-auth-api-develop.test-ppm.fcs.gsa.gov
 ppms-auth-api-feature-secret-manager.dev-ppm.fcs.gsa.gov
 ppms-auth-api-feature-secret-manager.test-ppm.fcs.gsa.gov
 ppms-auth-api-test.dev-ppm.fcs.gsa.gov
@@ -67066,6 +67143,7 @@ pricespaid.fas.gsa.gov
 prod-iae.bsp.gsa.gov
 prod.acr.mcaas.fcs.gsa.gov
 prod.dxcore.dx.mcaas.fcs.gsa.gov
+prod.folio.mcaas.fcs.gsa.gov
 prod.itdb.mcaas.fcs.gsa.gov
 prometheus.dev-ppm.fcs.gsa.gov
 prometheus.mgmt-ppm.fcs.gsa.gov
@@ -67339,6 +67417,7 @@ secureauth.test.gsa.gov
 secureauth1.test.gsa.gov
 selenium-hub.mgmt-ppm.fcs.gsa.gov
 selenium-hub.test-ppm.fcs.gsa.gov
+sensu.mgmt-ppm.fcs.gsa.gov
 servicedesk.gsa.gov
 servicedesk.wip3.gsa.gov
 servicedesk.wip4.gsa.gov
@@ -67356,6 +67435,7 @@ sfts.gsa.gov
 sgsf-gsae03.fss.gsa.gov
 sgsf-gsae06.fss.gsa.gov
 shared.fleet-dev.fcs.gsa.gov
+shared.fleet-prod.fcs.gsa.gov
 shared.fleet-test.fcs.gsa.gov
 sherman.gsa.gov
 shop.r8.gsa.gov
@@ -67388,9 +67468,11 @@ spdatawarehouse.gsa.gov
 spdatawarehousebi.gsa.gov
 spdatawarehousetest.fas.gsa.gov
 sphec.eos.gsa.gov
+spk02.gsa.gov
 splunk.glab-2.gsa.gov
 splunk.glab-3.gsa.gov
 splunk.glab-4.gsa.gov
+splunk.mgmt-ppm.fcs.gsa.gov
 sprd-web.gsa.gov
 sprlaser.gsa.gov
 srp.fas.gsa.gov
@@ -67426,9 +67508,11 @@ stats.gsa.gov
 stgateway.gsa.gov
 store-web.fleet-dev.fcs.gsa.gov
 store.fleet-dev.fcs.gsa.gov
+store.fleet-prod.fcs.gsa.gov
 store.fleet-test.fcs.gsa.gov
 storefront.eos.gsa.gov
 storefront.test-eos.gsa.gov
+storeportal.gsa.gov
 str.fas.gsa.gov
 str.gsa.gov
 strategicsourcing-os-test.fas.gsa.gov
@@ -67438,6 +67522,7 @@ streamsets.fleet-dev.fcs.gsa.gov
 sts1.phdc.gsa.gov
 stsc.gsa.gov
 studio.dsat.gsa.gov
+submissions-folio.staging.gsa.gov
 sun24.gsa.gov
 sundevmid.pbs.gsa.gov
 sunrise.gsa.gov
@@ -67498,6 +67583,7 @@ teamwork.its.gsa.gov
 tech.gsa.gov
 telework.insite.gsa.gov
 telnet.gsa.gov
+test-api-dev.fss19-dev.fcs.gsa.gov
 test-apps.ocfo.gsa.gov
 test-boxi.ocfo.gsa.gov
 test-dns.gsa.gov
@@ -67533,6 +67619,7 @@ test.vo.fss.gsa.gov
 test3.fss.gsa.gov
 test4.fss.gsa.gov
 testdirector.fss.gsa.gov
+testfas-mfalogin.fas.gsa.gov
 testgsasec.wip.gsa.gov
 testls.gsa.gov
 th.finance.gsa.gov
@@ -67545,7 +67632,9 @@ tmss.preprod-acqit.helix.gsa.gov
 tmss.prod-acqit.helix.gsa.gov
 tolbs.pbs.gsa.gov
 tommy.gsa.gov
+tools.fleet-dev.fcs.gsa.gov
 tools.fleet-mgmt.fcs.gsa.gov
+tools.fleet-test.fcs.gsa.gov
 tops.gsa.gov
 tops2.gsa.gov
 topsbill.ftsbilling.gsa.gov
@@ -67636,6 +67725,8 @@ veocat.fss.gsa.gov
 vgatetest.gsa.gov
 video.r8.gsa.gov
 vipprojectinfo.gsa.gov
+viz-cf.ogp-mgmt.fcs.gsa.gov
+viz.ogp-mgmt.fcs.gsa.gov
 vltp.gsa.gov
 vmr.gsa.gov
 vmr3.gsa.gov
@@ -67681,6 +67772,7 @@ wdcftp.fas.gsa.gov
 weasel1-prod.gsa.gov
 web-ber.gsa.gov
 web-ber1.gsa.gov
+web-folio.staging.gsa.gov
 web.fleet-dev.fcs.gsa.gov
 web.fleet-prod.fcs.gsa.gov
 web.fleet-test.fcs.gsa.gov
@@ -67710,6 +67802,7 @@ wits3-public-pricer.eos.gsa.gov
 wits3-public-pricer.test-eos.gsa.gov
 wmsviewer.fas.gsa.gov
 wobegone.gsa.gov
+worker.jenkins.fss19-dev.fcs.gsa.gov
 workspaces.gsa.gov
 ws6.gsa.gov
 wsgsa.usaccess.gsa.gov
@@ -67717,6 +67810,7 @@ wsgsatest.usaccess.gsa.gov
 wtdata.wip.gsa.gov
 wtmain.wip.gsa.gov
 ww.smartpay.gsa.gov
+www.8astars.fas.gsa.gov
 www.aaap.gsa.gov
 www.aacinquiry.fas.gsa.gov
 www.acquisition-uat.gsa.gov
@@ -67731,12 +67825,15 @@ www.app.gsasolutions.gsa.gov
 www.apps.fas.gsa.gov
 www.apps.ocfo.gsa.gov
 www.arm.fas.gsa.gov
+www.artifactory.gsa.gov
 www.arts.fas.gsa.gov
 www.artsb.fas.gsa.gov
 www.asap.gsa.gov
 www.ask.fas.gsa.gov
 www.ask.gsa.gov
 www.aspaec.fas.gsa.gov
+www.aspdotnetstorefront.webshops.fas.gsa.gov
+www.aspdotnetstorefront.webshopt.fas.gsa.gov
 www.autoauctions.gsa.gov
 www.autoauctionsb.fas.gsa.gov
 www.autochoice.fas.gsa.gov
@@ -67768,12 +67865,17 @@ www.ccsprod2.gsa.gov
 www.ccsqa.gsa.gov
 www.ccsqa2.gsa.gov
 www.cfo.gsa.gov
+www.cforeports.gsa.gov
 www.checkmarx.gsa.gov
+www.cic.gsa.gov
 www.cio.fss.gsa.gov
 www.cmls.gsa.gov
 www.commander.bookit.gsa.gov
 www.conexus.gsa.gov
 www.content.gsaadvantage.fas.gsa.gov
+www.cops-test.fas.gsa.gov
+www.cops-test3.fas.gsa.gov
+www.cops.fas.gsa.gov
 www.courtsweb.gsa.gov
 www.cprod.gsa.gov
 www.cpsa.fss.gsa.gov
@@ -67811,6 +67913,7 @@ www.ebuy-test.fas.gsa.gov
 www.ebuy.gsa.gov
 www.ebuyconnect-test.fas.gsa.gov
 www.ebuyconnect.fas.gsa.gov
+www.ecms-app.fas.gsa.gov
 www.ecms.fas.gsa.gov
 www.ectran.fas.gsa.gov
 www.editor.acquisition-uat.gsa.gov
@@ -67819,10 +67922,15 @@ www.elibrary-test.fas.gsa.gov
 www.email.gsa.gov
 www.email2.gsa.gov
 www.energy98.gsa.gov
+www.eoffer-test.fas.gsa.gov
+www.eoffer-test2.fas.gsa.gov
+www.eoffer-test3.fas.gsa.gov
+www.eoffer.fas.gsa.gov
 www.eoffer.gsa.gov
 www.epay.fas.gsa.gov
 www.epayb.fas.gsa.gov
 www.epayb.fss.gsa.gov
+www.esoa.fas.gsa.gov
 www.etools-dev.fas.gsa.gov
 www.etools.fas.gsa.gov
 www.etsvendorsales.gsa.gov
@@ -67839,6 +67947,9 @@ www.f04bmm-soa14t7.ent.ds.gsa.gov
 www.f04bmm-soa16t7.fas.gsa.gov
 www.f04bmm-soa17t7.fas.gsa.gov
 www.f04bmm-soa22c7.fas.gsa.gov
+www.f04bmm-soa24d7.ent.ds.gsa.gov
+www.f04bmm-soa25d7.ent.ds.gsa.gov
+www.f04tcm-asemon.fas.gsa.gov
 www.f04tcm-eofsnp.fas.gsa.gov
 www.f04tcm-soa01p7.fas.gsa.gov
 www.f04tcm-soa02p7.fas.gsa.gov
@@ -67851,6 +67962,7 @@ www.fas-cms-staging.gsa.gov
 www.fas-cms.gsa.gov
 www.fas-staging.gsa.gov
 www.fas.gsa.gov
+www.fas.itplaybook.gsa.gov
 www.fast.express.gsa.gov
 www.fastdev.gsa.gov
 www.fcoh1m-soa14t7.fas.gsa.gov
@@ -67896,6 +68008,9 @@ www.govsalesupload.fas.gsa.gov
 www.govsalesuploadb.fas.gsa.gov
 www.gsa-ea-f5003.fas.gsa.gov
 www.gsa-ea-f5004.fas.gsa.gov
+www.gsa-sl-f5003.fas.gsa.gov
+www.gsa-sl-f5004.fas.gsa.gov
+www.gsa-sl-f5103.fas.gsa.gov
 www.gsa.gov
 www.gsaadvantage-cors.fas.gsa.gov
 www.gsaadvantage-punchout.fss.gsa.gov
@@ -67939,7 +68054,9 @@ www.itsolutions.gsa.gov
 www.jss.gsa.gov
 www.labs.gsa.gov
 www.listserv.gsa.gov
+www.login.fleet-dev.fcs.gsa.gov
 www.lop.gsa.gov
+www.mcm.fas.gsa.gov
 www.mcm.fss.gsa.gov
 www.mentor-protege.gsa.gov
 www.mfalogin-test.fas.gsa.gov
@@ -67986,6 +68103,8 @@ www.orders-vm.fas.gsa.gov
 www.orders-vp-staging.fas.gsa.gov
 www.orders-vp.fas.gsa.gov
 www.orders.fas.gsa.gov
+www.ors-test.fas.gsa.gov
+www.ors-test2.fas.gsa.gov
 www.p1130s-maxweb01.ent.ds.gsa.gov
 www.pacificstores.gsa.gov
 www.par.gsa.gov
@@ -67995,6 +68114,8 @@ www.pbsonesource.gsa.gov
 www.pegasysconnect.fas.gsa.gov
 www.pif.gsa.gov
 www.poportal.gsa.gov
+www.portalguard.gsa.gov
+www.prdhrlinkscd.gsa.gov
 www.propertydisposal.gsa.gov
 www.pte.gsa.gov
 www.pueblo.gsa.gov
@@ -68035,10 +68156,12 @@ www.spdatawarehousebi.gsa.gov
 www.spdatawarehousetest.fas.gsa.gov
 www.str.gsa.gov
 www.strb.fas.gsa.gov
+www.svn.fas.gsa.gov
 www.sws.gsa.gov
 www.tableaupub.d2d.gsa.gov
 www.tams.preprod-acqit.helix.gsa.gov
 www.tams.preprod.gsa.gov
+www.tamsapi.preprod-acqit.helix.gsa.gov
 www.tamsapi.preprod.gsa.gov
 www.tarpseb.fas.gsa.gov
 www.tarpsec-dr.fas.gsa.gov
@@ -68049,9 +68172,12 @@ www.test-apps.ocfo.gsa.gov
 www.test-hrlinks.gsa.gov
 www.test.smartpay.gsa.gov
 www.test.training.smartpay.gsa.gov
+www.testfas-mfalogin.fas.gsa.gov
 www.testls.gsa.gov
+www.tmss-dev.gsa.gov
 www.tmss.dev-acqit.helix.gsa.gov
 www.tmss.gsa.gov
+www.track.fas.gsa.gov
 www.training.smartpay.gsa.gov
 www.trn-hrlinks.gsa.gov
 www.tscportal-staging.gsa.gov
@@ -68066,6 +68192,7 @@ www.usdaadvantage.gsa.gov
 www.usmcservmart.gsa.gov
 www.ussm.gsa.gov
 www.vaadvantage.gsa.gov
+www.vasalesportal.gsa.gov
 www.vec.gsa.gov
 www.vehicledispatch.fas.gsa.gov
 www.vehiclestd.fas.gsa.gov
@@ -68074,8 +68201,10 @@ www.vpntest.gsa.gov
 www.vpntest2.gsa.gov
 www.vsc.gsa.gov
 www.vscftp.gsa.gov
+www.vsctest04.fss.gsa.gov
 www.webservices.fas.gsa.gov
 www.webservicesb.fas.gsa.gov
+www.webshop.gsa.gov
 www.wip3.gsa.gov
 www.wip4.gsa.gov
 wwwkcmail.gsa.gov

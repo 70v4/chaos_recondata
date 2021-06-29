@@ -580,6 +580,8 @@ ks-vendingtransactions-mq2.vivy.com
 ks-vendingtransactions-mq3.vivy.com
 ks-vendingtransactions-mq4.vivy.com
 kubernetes.vivy.com
+landing.staging.vivy.com
+landing.vivy.com
 laptop.vivy.com
 launch.vivy.com
 lemoncandy1-turkey.pr.dev.vivy.com
@@ -794,6 +796,7 @@ services.virusscan.vivy.com
 setup.vivy.com
 shop.vivy.com
 signin.vivy.com
+signup.staging.vivy.com
 signup.vivy.com
 sip.vivy.com
 sirius.vivy.com

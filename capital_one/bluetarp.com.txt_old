@@ -68,6 +68,7 @@ eit.bluetarp.com
 email-service.conversion.bluetarp.com
 enrollment.bluetarp.com
 enterprise.bluetarp.com
+esig-prod.bluetarp.com
 esig.conversion.bluetarp.com
 flooranddecor.bluetarp.com
 ftp.bluetarp.com
@@ -126,6 +127,7 @@ order-details-api.eit.bluetarp.com
 orderdetailsapi.conversion.bluetarp.com
 orders-details-api.demo.bluetarp.com
 outbound-mail-links.bluetarp.com
+papi.bluetarp.com
 papi.conversion.bluetarp.com
 pdf.conversion.bluetarp.com
 pdfserver.conversion.bluetarp.com

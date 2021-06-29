@@ -376,6 +376,7 @@ ashbycreatoutbound-a1.ash2.spotify.com
 ashdalesprope-a1.ash2.spotify.com
 ashton.ash.spotify.com
 assets.spotify.com
+atctest.spotify.com
 aurora.ash.spotify.com
 aurora.ash1.spotify.com
 autumn.ash.spotify.com
@@ -418,6 +419,7 @@ cadace.ash1.spotify.com
 cameo.ash.spotify.com
 cameo.ash1.spotify.com
 campaigns.spotify.com
+canary-certificate-for-noop.spotify.com
 candice.ash.spotify.com
 canvas.spotify.com
 casondra.ash.spotify.com
@@ -1827,12 +1829,15 @@ www.codequest.spotify.com
 www.contest.codequest.spotify.com
 www.dev.kubeflow-platform.spotify.com
 www.gslb.spotify.com
+www.hrblog.spotify.com
 www.inapp-support.spotify.com
 www.lon2-webproxy-a1.lon.spotify.com
 www.lon2-webproxy-a2.lon.spotify.com
 www.lon2-webproxy-a3.lon.spotify.com
 www.newsroom.spotify.com
 www.noteable.spotify.com
+www.pci-testing.spotify.com
+www.pci.spotify.com
 www.prod.kubeflow-platform.spotify.com
 www.sparta-api-testing.spotify.com
 www.spotify.com

@@ -92,6 +92,7 @@ api.designer.xiaomi.com
 api.developer.xiaomi.com
 api.dp.pt.xiaomi.com
 api.dushu.xiaomi.com
+api.game.hybrid.xiaomi.com
 api.hybrid.intl.xiaomi.com
 api.hybrid.xiaomi.com
 api.kuai.mvideo.xiaomi.com
@@ -128,6 +129,7 @@ appwall.ad.intl.xiaomi.com
 assistant.api.xiaomi.com
 assistant.pandora.xiaomi.com
 atv.migc.xiaomi.com
+aura.xiaomi.com
 auth.pf.xiaomi.com
 autodiscover.v.xiaomi.com
 autodiscover.xiaomi.com
@@ -251,6 +253,7 @@ cc.ad.intl.xiaomi.com
 cc2.sys.intl.xiaomi.com
 ccg.migc.xiaomi.com
 cdn.ad.xiaomi.com
+cdn.aura.xiaomi.com
 cdn.experiment.xiaomi.com
 cdn.fds.api.xiaomi.com
 cdn.hao.xiaomi.com
@@ -394,6 +397,7 @@ ex.ad.xiaomi.com
 exchange-dag1.xiaomi.com
 exchange-dag2.xiaomi.com
 exp.api.xiaomi.com
+exp.recommend.pt.xiaomi.com
 extranet-alllines-pub-c3-c4.alb.xiaomi.com
 extranet.ap-south-1.miui-l7-coreapp.kkmbvpaewb.elb.xiaomi.com
 extranet.ap-south-1.miui-l7-coreapp.oibsva0jjb.elb.xiaomi.com
@@ -780,6 +784,7 @@ jira.n.xiaomi.com
 job.hr.xiaomi.com
 job.xiaomi.com
 jubao.order.xiaomi.com
+jupyter.ai.mifi.pt.xiaomi.com
 k1.game.xiaomi.com
 kb.pt.xiaomi.com
 kbs.be.xiaomi.com
@@ -917,6 +922,7 @@ n.xiaomi.com
 ncn.app-xae.xiaomi.com
 netcheck.pandora.xiaomi.com
 newcube.mifi.pt.xiaomi.com
+nfcpay.xiaomi.com
 nileapi.market.xiaomi.com
 nlp-preview.ai.xiaomi.com
 nlp-staging.ai.xiaomi.com
@@ -945,6 +951,7 @@ op.pt.xiaomi.com
 open.account.xiaomi.com
 open.ai.xiaomi.com
 open.content.pt.xiaomi.com
+open.game.hybrid.xiaomi.com
 open.recommend.pt.xiaomi.com
 openbase.ai.xiaomi.com
 order.music.xiaomi.com
@@ -1069,6 +1076,7 @@ scf.pt.xiaomi.com
 scraper.pandora.xiaomi.com
 sd.lp.account.xiaomi.com
 sdkconfig.ad.eu.xiaomi.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -1200,6 +1208,7 @@ storeconfig.mistat.xiaomi.com
 storegw01.pay.xiaomi.com
 storegw02.pay.xiaomi.com
 stress.mife.xiaomi.com
+superset.preload.xiaomi.com
 support.account.xiaomi.com
 sync.api.xiaomi.com
 sys.intl.xiaomi.com
@@ -1237,6 +1246,7 @@ talos.api.xiaomi.com
 tank.pt.xiaomi.com
 tc.hd.xiaomi.com
 td.n.xiaomi.com
+tech.xiaomi.com
 tel.fe01.hh.xiaomi.com
 tel.fe02.hh.xiaomi.com
 test.account.xiaomi.com
@@ -1250,6 +1260,7 @@ test.mi.pay.xiaomi.com
 test.mipay.xiaomi.com
 test.mp.xiaomi.com
 test.music.xiaomi.com
+test.ocean.pt.xiaomi.com
 test.relay.xiaomi.com
 test.zeus.ad.xiaomi.com
 testit.pt.xiaomi.com

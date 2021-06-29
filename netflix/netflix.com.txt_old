@@ -9,6 +9,7 @@ _mta-sts.mx2.netflix.com
 _spf_ipv4.netflix.com
 a-us.us-east-1-sa.prodaa.netflix.com
 aa.netflix.com
+aadesh.netflix.com
 abadmin-test.netflix.com
 ablaze-beta.prod.netflix.com
 ablaze-beta.test.netflix.com
@@ -47,6 +48,7 @@ adc-uswest2-2a1.corp.netflix.com
 adc-uswest2-2a2.corp.netflix.com
 adc-uswest2-2b1.corp.netflix.com
 adfs.corp.netflix.com
+adi.netflix.com
 adobeusermanagement.corp.netflix.com
 ads.eu-west-1.prodaa.netflix.com
 ads.geo.netflix.com
@@ -93,6 +95,7 @@ android-appboot.us-east-1.prodaa.netflix.com
 android-appboot.us-west-2.prodaa.netflix.com
 android-test.netflix.com
 android.clubmepboot.us-west-2.prodaa.netflix.com
+android.gameboot.netflix.com
 android.nccp.eu-west-1.prodaa.netflix.com
 android.nccp.geo.netflix.com
 android.nccp.latency.prodaa.netflix.com
@@ -100,6 +103,7 @@ android.nccp.netflix.com
 android.nccp.us-east-1-sa.prodaa.netflix.com
 android.nccp.us-east-1.prodaa.netflix.com
 android.nccp.us-west-2.prodaa.netflix.com
+android.sharkboot.netflix.com
 androidautop.us-west-2.prodaa.netflix.com
 anycast.ftl.netflix.com
 apdaa.netflix.com
@@ -558,6 +562,7 @@ csfw-tt01.prod1.netflix.com
 csfw-tt02.prod1.netflix.com
 csfw-vpn01.corp1.netflix.com
 csfw-vpn02.corp1.netflix.com
+csi.dta.netflix.com
 csmwininstallercert.corp.netflix.com
 csrt-agg.dc2.prod.netflix.com
 csrt-agg.lax1.netflix.com
@@ -780,6 +785,7 @@ ftl2.netflix.com
 ftp.netflix.com
 fullerhousecard.netflix.com
 fyc.netflix.com
+gameboot.test.netflix.com
 gapps.netflix.com
 ge-1-3-0.jnrt-edge01.dc2.prod.netflix.com
 ge-2-0-0.jnrt-edge01.lax1.netflix.com
@@ -855,6 +861,7 @@ gw-vlan85.csrt-agg.prod1.netflix.com
 gw-vlan86.csrt-agg.prod1.netflix.com
 gw-vlan87.csrt-agg.prod1.netflix.com
 halfdome.netflix.com
+handler.dta.netflix.com
 hansolo.netflix.com
 haproxy-nrd-api.netflix.com
 hb-corp.netflix.com
@@ -877,6 +884,7 @@ helpqa.test.netflix.com
 helpt.test.netflix.com
 hermes.netflix.com
 hodgeproj.netflix.com
+hoke-api.dta.netflix.com
 holmes-beta.netflix.com
 holmes.netflix.com
 hopr.netflix.com
@@ -985,7 +993,9 @@ int.vip.netflix.com
 int.web.netflix.com
 internaljobs-dev.netflix.com
 internaljobs.netflix.com
+internalproductionstudio.netflix.com
 internationalbenefits.netflix.com
+ios.gameboot.netflix.com
 ios.nccp.eu-west-1.prodaa.netflix.com
 ios.nccp.geo.netflix.com
 ios.nccp.latency.prodaa.netflix.com
@@ -993,6 +1003,7 @@ ios.nccp.netflix.com
 ios.nccp.us-east-1-sa.prodaa.netflix.com
 ios.nccp.us-east-1.prodaa.netflix.com
 ios.nccp.us-west-2.prodaa.netflix.com
+ios.sharkboot.netflix.com
 iosota.corp.netflix.com
 ipv4.netflix.com
 ipv6.netflix.com
@@ -1010,6 +1021,7 @@ itp.netflix.com
 itsbrasil001.netflix.com
 itstats.netflix.com
 itunesconnect.dta.netflix.com
+ix-family-game-night.prototypes.netflix.com
 jabber.netflix.com
 jarvis.prod.dvdco.netflix.com
 jarvis.test.dvdco.netflix.com
@@ -1025,6 +1037,7 @@ jiradev-west.netflix.com
 jiradev.netflix.com
 jiradev2.netflix.com
 jiranrd.netflix.com
+jlesko.prototypes.netflix.com
 jnrt-edge01-xe-2-3-0-950.sv1.netflix.com
 jnrt-edge01.dc2.prod.netflix.com
 jnrt-edge01.iad.netflix.com
@@ -1044,6 +1057,7 @@ jobsite-dev.netflix.com
 jobsitebeta.netflix.com
 joshpauley.comdvd.netflix.com
 jsapi.netflix.com
+jsonschema.test.netflix.com
 jtsuinodelabjtsui.netflix.com
 kartina.netflix.com
 kb-es.netflix.com
@@ -1063,6 +1077,8 @@ ldmg101.netflix.com
 legalpigeon.netflix.com
 lego-staging.test.netflix.com
 lego.canary.netflix.com
+lego.netflix.com
+lego.test.netflix.com
 leia-alt.netflix.com
 leia-staging.netflix.com
 leia.eu-west-1.prodaa.netflix.com
@@ -1416,6 +1432,7 @@ outlook.corp.netflix.com
 outlookanywhere.corp.netflix.com
 partner.netflix.com
 partnerapi.netflix.com
+partnerapi.test.netflix.com
 partnerapi.us-west-2.prodaa.netflix.com
 partnerjiradev.itp.netflix.com
 partnermetrix.netflix.com
@@ -1449,6 +1466,8 @@ plombier-saint-clouda.netflix.com
 pne-test.netflix.com
 policyserver.metatron.netflix.com
 pop.corp.netflix.com
+portal-app.dvd.netflix.com
+portal-test-ci-app.eng.dvdco.netflix.com
 portal.dvd.netflix.com
 postman.netflix.com
 ppdnrdplab6.corp.netflix.com
@@ -1488,6 +1507,7 @@ prod.voicecontrol.us-west-2.origin.prodaa.netflix.com
 prod.voicecontrol.us-west-2.prodaa.netflix.com
 prod1.netflix.com
 prodaa.netflix.com
+profile-gate-test.prototypes.netflix.com
 projman.netflix.com
 prototypes.itp.netflix.com
 prototypes.netflix.com
@@ -1579,6 +1599,7 @@ screening.netflix.com
 screeningplayer.netflix.com
 screeningplayerd.test.netflix.com
 screeningplayert.test.netflix.com
+sctweb.netflix.com
 sec-oc.netflix.com
 secure.dvd.netflix.com
 secure.netflix.com
@@ -1592,8 +1613,11 @@ segments.netflix.com
 serenity.netflix.com
 server.netflix.com
 sftp.netflix.com
+sharkboot.test.netflix.com
+sharkboot2.test.netflix.com
 sherlock-deploy.netflix.com
 sherlock-stage.netflix.com
+sherlock-test.netflix.com
 sherlock.netflix.com
 sherlockapi-dev.netflix.com
 sherlockapi-staging.netflix.com
@@ -1601,6 +1625,7 @@ sherlockdemo.netflix.com
 shiny.netflix.com
 shinydev.netflix.com
 shinytest.netflix.com
+shop.netflix.com
 siabrm.netflix.com
 signup-dse.netflix.com
 signup.dvd.netflix.com
@@ -1672,6 +1697,7 @@ stash.nrd.netflix.com
 static.netflix.com
 sting.prod.netflix.com
 sting.test.netflix.com
+stitch.dta.netflix.com
 stm-blesk.netflix.com
 stm-employeepictures.netflix.com
 stm-go.netflix.com
@@ -1687,6 +1713,9 @@ subscriberservice-app-2018.netflix.com
 subscriberservice-app-2020.netflix.com
 subscriberservice-app-client.netflix.com
 subscriberservice-app.netflix.com
+subtools-prod.netflix.com
+subtools-sandbox.netflix.com
+subtools-test.netflix.com
 sue.dta.netflix.com
 support.netflix.com
 supportl.netflix.com
@@ -1704,12 +1733,15 @@ tableaudev.netflix.com
 tableautest.netflix.com
 tagger.netflix.com
 tags.netflix.com
+talentanalytics.dynprod.netflix.com
 te1-3.csrt-agg01.dc2.prod.netflix.com
 te1-3.csrt-agg02.dc2.prod.netflix.com
 te1-7.csrt-agg01.dc2.prod.netflix.com
 te1-7.csrt-agg02.dc2.prod.netflix.com
 te1-8.csrt-agg01.prod1.netflix.com
 te1-8.csrt-agg02.prod1.netflix.com
+team-demo-1.prototypes.netflix.com
+team-example.prototypes.netflix.com
 techblog.netflix.com
 telltalenotif-staging.prod.netflix.com
 telltalenotif.euwest1.prod.netflix.com
@@ -1748,6 +1780,7 @@ tigo-pa.netflix.com
 title360.netflix.com
 titlelocalization.netflix.com
 tmp-moviecontrol.netflix.com
+tpmscheduleapp.netflix.com
 tractorbeam.eu-west-1.prodaa.netflix.com
 tractorbeam.geo.netflix.com
 tractorbeam.latency.prodaa.netflix.com
@@ -1984,5 +2017,7 @@ xp-dashboard.test.netflix.com
 xpdashboard.netflix.com
 xvpn.netflix.com
 ybz001.distributel.netflix.com
+yellow2admin-prod.netflix.com
+yellow2admin-test.netflix.com
 zabbix.itp.netflix.com
 zvpn.netflix.com

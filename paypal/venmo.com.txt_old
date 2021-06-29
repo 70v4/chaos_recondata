@@ -91,6 +91,7 @@ ablinks.email.venmo.com
 ablinks.emailwww.x2.venmo.com
 acapi.venmo.com
 accessbrand.blog.venmo.com
+account.betaweb.venmo.com
 account.venmo.com
 accoupons.blog.venmo.com
 accouponsul-pro.venmo.com
@@ -575,8 +576,10 @@ beritaviralstoday.blog.venmo.com
 beritaviralstoday.venmo.com
 beta-developer.venmo.com
 beta.venmo.com
+betadash.venmo.com
 betadeveloper.venmo.com
 betavu.blog.venmo.com
+betavu.venmo.com
 betaweb-brandi.venmo.com
 betaweb.venmo.com
 betawebfconsul-prod.blog.venmo.com
@@ -1132,6 +1135,7 @@ danieapp.venmo.com
 dannyfilm-cocovida.venmo.com
 dannyfilm.venmo.com
 danskeksamen.blog.venmo.com
+dast.fortifytest.venmo.com
 data-ad.loadtest.venmo.com
 data-airflow-west.venmo.com
 data-airflow.beta.venmo.com
@@ -1300,6 +1304,7 @@ devblogin-histor-sand.loadtest.venmo.com
 devblogin-posphere-sand-us-east-1.beta.venmo.com
 develope.blog.venmo.com
 developer-ap-southy.venmo.com
+developer-api-staging.venmo.com
 developer.venmo.com
 digitalstage.blog.venmo.com
 dimensionsul-prod.loadtest.venmo.com
@@ -1865,6 +1870,8 @@ ibsalut.venmo.com
 ic.venmo.com
 ic2-exp.blog.venmo.com
 icedolo-bs-sito.venmo.com
+id.msmaster.qa.venmo.com
+id.venmo.com
 ie.venmo.com
 iitokodori.blog.venmo.com
 iitokodori.venmo.com
@@ -3518,6 +3525,7 @@ redirectvirusgoogleluntv.venmo.com
 refeicoesrapidasepraticas.blog.venmo.com
 refer.beta.venmo.com
 refer.blog.venmo.com
+referrals.qa.venmo.com
 reftp.beta.venmo.com
 reg.beta.venmo.com
 reg.venmo.com
@@ -4224,6 +4232,7 @@ stagin-posprivate-qa-origin-posprivatedbru.loadtest.venmo.com
 stagin-qa-eu-centegrationsul-swificationsul-proxywebserv.beta.venmo.com
 stagin-qa-eu-centegrationsul-swificationsul-proxywebserv.blog.venmo.com
 stagin-qa-eu-centegrationsul-swificationsul-proxywebserv.venmo.com
+staging-api.venmo.com
 staging.venmo.com
 stagios-ap-soutbound1.venmo.com
 stagios-apiserv.beta.venmo.com

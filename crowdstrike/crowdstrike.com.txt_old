@@ -16,6 +16,10 @@ assets.falcon.us-2.crowdstrike.com
 assets.laggar.falconus.crowdstrike.com
 assetspublic.falcon.laggar.gcw.crowdstrike.com
 autodiscover.crowdstrike.com
+az.eu-1.crowdstrike.com
+az.laggar.gcw.crowdstrike.com
+az.us-1.crowdstrike.com
+az.us-2.crowdstrike.com
 blog.crowdstrike.com
 brand.crowdstrike.com
 bridge-api.crowdstrike.com
@@ -72,8 +76,11 @@ falconexperience-dev.crowdstrike.com
 falconexperience-test.crowdstrike.com
 falconexperience.crowdstrike.com
 far.gcw.crowdstrike.com
+ffc-nlb.eu-1.crowdstrike.com
 ffc-nlb.us-1.crowdstrike.com
+ffc-nlb.us-2.crowdstrike.com
 ffc.eu-1.crowdstrike.com
+ffc.laggar.gcw.crowdstrike.com
 ffc.us-1.crowdstrike.com
 ffc.us-2.crowdstrike.com
 firehose.crowdstrike.com
@@ -133,6 +140,7 @@ r2d2.crowdstrike.com
 rabbithole.crowdstrike.com
 re.api.crowdstrike.com
 registration.crowdstrike.com
+registry.crowdstrike.com
 remote.crowdstrike.com
 resources.crowdstrike.com
 rho.crowdstrike.com
@@ -144,6 +152,7 @@ shouldertap.crowdstrike.com
 sigma.crowdstrike.com
 sko.crowdstrike.com
 smtp.crowdstrike.com
+solo.crowdstrike.com
 store.crowdstrike.com
 sunny.crowdstrike.com
 support.crowdstrike.com

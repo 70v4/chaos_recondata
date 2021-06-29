@@ -12,6 +12,7 @@ admin.cloudctl.intl.inf.miui.com
 admin.content.inf.miui.com
 admin.en.miui.com
 admin.jupiter.intl.sys.miui.com
+admin.review.inf.pt.miui.com
 admin.search.miui.com
 admin.sec.miui.com
 admin.theme.n.intl.miui.com
@@ -91,6 +92,7 @@ cc2.sys.miui.com
 ccc.sys.miui.com
 cdn.t.st.comm.miui.com
 cdn1.static.home.miui.com
+cdna.sec.miui.com
 child.cdn.sec.miui.com
 child.sec.miui.com
 chong.sec.miui.com
@@ -241,6 +243,7 @@ newhome.w.xk.miui.com
 nginx.34.sec.miui.com
 nginx.c34.vip.miui.com
 obigota.d.miui.com
+onejoy.intl.miui.com
 open.mp.huangye.miui.com
 open.xk.miui.com
 orig.dl.proxy.sec.miui.com
@@ -266,9 +269,11 @@ preview.cp.assistant.miui.com
 preview.crm.sms.miui.com
 preview.gamebox.sec.miui.com
 preview.heimdall.assistant.miui.com
+preview.jupiter.sys.miui.com
 preview.manager.sec.intl.miui.com
 preview.manager.sec.miui.com
 preview.pt.sys.intl.miui.com
+preview.store.assistant.miui.com
 preview.sys.pt.miui.com
 preview.trading.assistant.miui.com
 preview.verca.xpa.assistant.miui.com
@@ -308,6 +313,7 @@ security.browser.miui.com
 sentry.sec.miui.com
 service.miui.com
 share.xk.miui.com
+sms.miui.com
 sound.miui.com
 sp.miui.com
 spd.browser.miui.com

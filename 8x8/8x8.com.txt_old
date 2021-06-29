@@ -2720,7 +2720,10 @@ accountmanager.8x8.com
 accountmanger.8x8.com
 accounts.1.8x8.com
 acd.8x8.com
+achxa01.msteams.8x8.com
+achxb01.msteams.8x8.com
 activate-2.g.8x8.com
+admanager.corp.8x8.com
 admin.c.8x8.com
 admin.e911.8x8.com
 admin.msteams.8x8.com
@@ -2731,10 +2734,12 @@ aerialinstallation.0.8x8.com
 aeuwa01.msteams.8x8.com
 aeuwa02.msteams.8x8.com
 aeuwa03.msteams.8x8.com
+aeuwa30.msteams.8x8.com
 aeuwf01.msteams.8x8.com
 aeuwf02.msteams.8x8.com
 aeuwf03.msteams.8x8.com
 agentcrm.8x8.com
+agentcrm.corp.8x8.com
 agents.8x8.com
 ager.8x8.com
 agile-staging.8x8.com
@@ -2749,6 +2754,8 @@ akamai-test.www.8x8.com
 akamai.www.8x8.com
 alpha.0.8x8.com
 amir-antivirus.8x8.com
+analyst-summit.8x8.com
+analystsummit.8x8.com
 analytics.8x8.com
 antivirus-38b65.8x8.com
 api-acceptance.8x8.com
@@ -2781,9 +2788,13 @@ aug10ase.p.8x8.com
 ausea01.msteams.8x8.com
 ausea02.msteams.8x8.com
 ausea03.msteams.8x8.com
+ausea06.msteams.8x8.com
+ausea30.msteams.8x8.com
 auswa01.msteams.8x8.com
 auswa03.msteams.8x8.com
 auswc01.msteams.8x8.com
+auswc02.msteams.8x8.com
+auswc03.msteams.8x8.com
 auth.www.8x8.com
 autoconfig.c.8x8.com
 autoconfig.www.8x8.com
@@ -2828,10 +2839,14 @@ bugzilla.8x8.com
 builder.www.8x8.com
 buseb01.msteams.8x8.com
 buseb02.msteams.8x8.com
+buseb03.msteams.8x8.com
+buseb04.msteams.8x8.com
 business.2.8x8.com
 business.8x8.com
 buswb01.msteams.8x8.com
 buswb02.msteams.8x8.com
+buswb03.msteams.8x8.com
+buswb04.msteams.8x8.com
 c.cceng.8x8.com
 c.www.8x8.com
 c2c.8x8.com
@@ -2856,6 +2871,7 @@ cert-1.es.8x8.com
 cert-2.es.8x8.com
 cert.www.8x8.com
 certificate.www.8x8.com
+chalet-ng.staging.cloud.8x8.com
 check.www.8x8.com
 chkklaonw.8x8.com
 churn-1.ai.8x8.com
@@ -2879,6 +2895,7 @@ cloud8gatekeeper.02.ap-southeast-2.prod.cloud.8x8.com
 cloud8gatekeeper.02.eu-west-2.prod.cloud.8x8.com
 cloud8gatekeeper.prod.es.8x8.com
 cloud8gatekeeper.us-west-2.prod.cloud.8x8.com
+cloudgrid.8x8.com
 cname.www.8x8.com
 code.www.8x8.com
 cognigen.8x8.com
@@ -2929,12 +2946,14 @@ dc2.8x8.com
 de.www.8x8.com
 dead.bb.8x8.com
 default.es.8x8.com
+desktopcentral.corp.8x8.com
 dev.1.8x8.com
 dev.8x8.com
 dev.ai-int.8x8.com
 dev.ai.8x8.com
 dev.us-east-1.ai.8x8.com
 developer.8x8.com
+development.cloud.8x8.com
 dhcp.8x8.com
 dingodude.3.8x8.com
 dnm.www.8x8.com
@@ -2944,6 +2963,7 @@ dns2.www.8x8.com
 docker-registry.o.8x8.com
 docker.www.8x8.com
 docs.8x8.com
+docs.chalet.8x8.com
 docs.qm.8x8.com
 dogfood-dev.www.8x8.com
 donald.dev.8x8.com
@@ -2977,6 +2997,7 @@ es-multi-4.staging.ai.8x8.com
 es-multi-5-testing.ai.8x8.com
 es-multi-6-testing.ai.8x8.com
 es.8x8.com
+es.cloud.8x8.com
 etc-se.c.8x8.com
 eu-west.chalet.8x8.com
 euw.msteams.8x8.com
@@ -3032,6 +3053,7 @@ gitlab.h.8x8.com
 gitlab.www.8x8.com
 gitprime.es.8x8.com
 glb.8x8.com
+global-chalet-ng.staging.cloud.8x8.com
 global-corona.chalet.8x8.com
 global-test.chalet.8x8.com
 global.chalet.8x8.com
@@ -3305,6 +3327,7 @@ okta.www.8x8.com
 old.www.8x8.com
 on1.vccmail.8x8.com
 ops-tools.8x8.com
+ops-tools.corp.8x8.com
 ops.8x8.com
 opsproxy.i.8x8.com
 or.8x8.com
@@ -3402,6 +3425,7 @@ r7---sn-n4v7kn7e.c.8x8.com
 r7---sn-n4v7kn7z.c.8x8.com
 r8---sn-n4v7kn7y.c.8x8.com
 raghutest.8x8.com
+rapid7.8x8.com
 rc.8x8.com
 re.8x8.com
 rec.8x8.com
@@ -3438,6 +3462,7 @@ s.p.8x8.com
 s3.8x8.com
 s3.c.8x8.com
 sales.1.8x8.com
+sales.8x8.com
 sandbox.1.8x8.com
 sap.4.8x8.com
 screenreaderenv.p.8x8.com
@@ -3580,6 +3605,7 @@ sy3-ase-001.p.8x8.com
 systema-h-926085.c.8x8.com
 t1.c.8x8.com
 tableau.corp.8x8.com
+tap.corp.8x8.com
 tarif-angebote.de.8x8.com
 tdhi.9.8x8.com
 teknikmagasinet-654395.c.8x8.com
@@ -3590,6 +3616,7 @@ test.1.8x8.com
 test.ac.8x8.com
 test.chalet.8x8.com
 test.ndts.8x8.com
+test.oci.chalet.8x8.com
 test.q.8x8.com
 test.www.8x8.com
 test1.p.8x8.com
@@ -3909,6 +3936,7 @@ www.api-staging.8x8.com
 www.b.8x8.com
 www.buisness.8x8.com
 www.bw.8x8.com
+www.community.8x8.com
 www.corp.8x8.com
 www.dl.8x8.com
 www.k.8x8.com
@@ -3918,6 +3946,7 @@ www.lt.8x8.com
 www.ou.8x8.com
 www.pay.8x8.com
 www.pcmb2.8x8.com
+www.rapid7.8x8.com
 www.security.8x8.com
 www.shop.8x8.com
 www.videos.8x8.com

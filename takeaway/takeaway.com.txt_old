@@ -84,6 +84,7 @@ app-4440_addromaniaandbulgeriasettingstows.citymealcom.system.feature.test.stagi
 app-4440_flagsandiconsbgro.citymealcom.system.feature.test.staging.takeaway.com
 app-4919_orderhistory.citymealcom.system.feature.test.staging.takeaway.com
 app.frontend.prod.clops.takeaway.com
+apps-api.takeaway.com
 apps-team-test-branch.tbb.takeaway.feature.test.staging.takeaway.com
 apps.fedoraproject.tbb.takeaway.feature.test.staging.takeaway.com
 apps_team_bc-3355.tbb.takeaway.feature.test.staging.takeaway.com
@@ -1132,6 +1133,7 @@ test-onboarding.api.takeaway.com
 test-ordering.api.takeaway.com
 test-paynotif.api.takeaway.com
 test-shop.takeaway.com
+test-tms.api.takeaway.com
 test-vendor.api.takeaway.com
 test.minisites.takeaway.feature.test.staging.takeaway.com
 test.staging.takeaway.com

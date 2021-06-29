@@ -37,6 +37,9 @@ docs.caffeine.tv
 engineering-library.caffeine.tv
 events-standalone.caffeine.tv
 events.caffeine.tv
+events.prod.caffeine.tv
+events.production.caffeine.tv
+events.stage.caffeine.tv
 events.staging.caffeine.tv
 f7.rtcdn.caffeine.tv
 fremont-0-0.rtcdn.caffeine.tv
@@ -835,7 +838,10 @@ kyleparrott.infra.caffeine.tv
 lakitu.rtcdn.caffeine.tv
 link.caffeine.tv
 lobby.robmessick.staging.caffeine.tv
+lobby.stage.caffeine.tv
 lobby.staging.caffeine.tv
+magnus.caffeine.tv
+magnus.staging.caffeine.tv
 mercy-recordings.caffeine.tv
 mg.email.caffeine.tv
 multivac.caffeine.tv
@@ -862,6 +868,8 @@ reyes.kyleparrott.infra.caffeine.tv
 robmessick.infra.caffeine.tv
 rtcdn.caffeine.tv
 samwise.ckousik.infra.caffeine.tv
+samwise.prod.caffeine.tv
+samwise.stage.caffeine.tv
 sftp.caffeine.tv
 snappy.caffeine.tv
 ssa.caffeine.tv

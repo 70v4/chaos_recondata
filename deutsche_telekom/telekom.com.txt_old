@@ -33,10 +33,13 @@ api.bootstrapping.iot.telekom.com
 api.idm.telekom.com
 api.payment.telekom.com
 api.privacy-academy.telekom.com
+assets.newworksuite.telekom.com
 atlas.int2-ram.m2m.telekom.com
 awards.brand-dialog.telekom.com
 b.levelup.telekom.com
 b2b-europe.telekom.com
+barclays-services.cth.iot.telekom.com
+barclays-wex.cth.iot.telekom.com
 bc2410fe.catv.pool.telekom.com
 beconnected-ems.telekom.com
 bericht.telekom.com
@@ -75,6 +78,7 @@ cdn.levelup.telekom.com
 cdn.lu.telekom.com
 cebit2010blog.telekom.com
 challenge.telekom.com
+chat.brand-dialog.telekom.com
 checkout-payment.telekom.com
 checkout.payment.telekom.com
 ci-approval.telekom.com
@@ -122,6 +126,7 @@ conference-6-chat.telekom.com
 conference-7-chat.telekom.com
 conference-8-chat.telekom.com
 conference-9-chat.telekom.com
+content.brand-dialog.telekom.com
 cr-bericht.telekom.com
 cr-report.telekom.com
 cth.iot.telekom.com
@@ -133,6 +138,7 @@ design.telekom.com
 designblog.telekom.com
 dev.bma.iot.telekom.com
 dev.ems.telekom.com
+dev.futurefeed.telekom.com
 developer-api.telekom.com
 developer.m2m.telekom.com
 developer.telekom.com
@@ -160,11 +166,15 @@ europetalks.telekom.com
 event-app.telekom.com
 ewai.telekom.com
 exercise.telekom.com
+experience.telekom.com
 fashionfusion.telekom.com
 fcbayern-etickets.telekom.com
 fede.telekom.com
+files.brand-dialog.telekom.com
 firmware.int2-ram.m2m.telekom.com
 formulare.telekom.com
+fund2cash.telekom.com
+futurefeed.telekom.com
 gateway.developer.telekom.com
 gateway.plone.telekom.com
 gb071657.metronet.net.telekom.com
@@ -236,6 +246,9 @@ int2-ram.m2m.telekom.com
 interimreport.telekom.com
 internalsurveys.telekom.com
 iot.telekom.com
+iss-dex.cth.iot.telekom.com
+iss-idp.cth.iot.telekom.com
+iss-wex.cth.iot.telekom.com
 jam.telekom.com
 jam2.telekom.com
 jenkins.otcram.m2m.telekom.com
@@ -247,6 +260,7 @@ join02.lab.tp.telekom.com
 karrierematcher.telekom.com
 kingkuno.ee.m2m.telekom.com
 konzern-datenschutzaudit.telekom.com
+kraftwerk.telekom.com
 lab.ipt.corporate.telekom.com
 lab.tp.telekom.com
 laboratories.telekom.com
@@ -254,10 +268,12 @@ leadershipadventures.telekom.com
 leap.telekom.com
 learning.telekom.com
 leave-your-mark.telekom.com
+legacy.brand-dialog.telekom.com
 letsgrow.telekom.com
 levelup.telekom.com
 lg.telekom.com
 liquid-design-ar.telekom.com
+login.brand-dialog.telekom.com
 login.idm.telekom.com
 lookingglass.telekom.com
 lu.telekom.com
@@ -323,6 +339,7 @@ partnerlounge-vtu.telekom.com
 partnerlounge.telekom.com
 payment.telekom.com
 pbs.payment.telekom.com
+pdfkit.brand-dialog.telekom.com
 pdm.iot.telekom.com
 personalbericht.telekom.com
 personalservice.telekom.com
@@ -342,6 +359,7 @@ security.b2b-europe.telekom.com
 security.telekom.com
 services.plone.telekom.com
 sip.telekom.com
+sitelife-wex.cth.iot.telekom.com
 slup2soap.idm.telekom.com
 sly83261.hdwaclp.idm.telekom.com
 smart-connect-shop.iot.telekom.com
@@ -352,6 +370,7 @@ smtp-out.test-ram.m2m.telekom.com
 smtp.ram.m2m.telekom.com
 soap2xxx.idm.telekom.com
 solutionoptimizer.iot.telekom.com
+soundlogo.brand-dialog.telekom.com
 ssa.int1-ram.m2m.telekom.com
 ssa.ram.m2m.telekom.com
 ssac.int2-ram.m2m.telekom.com
@@ -371,11 +390,13 @@ ta.telekom.com
 takepart-stories.telekom.com
 teac.telekom.com
 team.brand-dialog.telekom.com
+techgrounds.telekom.com
 telekomcom-abnahme.telekom.com
 telepresence.telekom.com
 temecoco.brand-dialog.telekom.com
 test-ram.m2m.telekom.com
 test.bma.iot.telekom.com
+test.futurefeed.telekom.com
 test.test-ram.m2m.telekom.com
 ticketkalender-sport.telekom.com
 ticketkalender.telekom.com
@@ -417,6 +438,7 @@ video.tp.telekom.com
 video01.lab.tp.telekom.com
 video01.tp.telekom.com
 video02.tp.telekom.com
+voice.telekom.com
 voices.telekom.com
 vpn.lab.tp.telekom.com
 vpn.tp.telekom.com
@@ -459,6 +481,7 @@ www.europa.telekom.com
 www.europe.telekom.com
 www.experience.telekom.com
 www.fashionfusion.telekom.com
+www.fund2cash.telekom.com
 www.geschaeftsbericht-archiv.telekom.com
 www.geschaeftsbericht.telekom.com
 www.global-vtu.telekom.com
@@ -489,6 +512,7 @@ www.privacytraining.telekom.com
 www.smart-connect-shop.iot.telekom.com
 www.solutionoptimizer.iot.telekom.com
 www.suppliers.telekom.com
+www.techgrounds.telekom.com
 www.telekom.com
 www.ticketkalender.telekom.com
 www.tv.telekom.com

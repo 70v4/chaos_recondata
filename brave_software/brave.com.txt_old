@@ -1,3 +1,4 @@
+account.brave.com
 adblock-data.brave.com
 adblock-data.s3.brave.com
 addfunds.brave.com
@@ -35,7 +36,12 @@ brave-today-cdn.brave.com
 brave-user-model-installer-input.s3.brave.com
 bsg.brave.com
 calgaryhoussewoodfurniture.brave.com
+cdn-search.brave.com
 cdn.brave.com
+cdn.search-dev.brave.com
+cdn.search.brave.com
+ci-alb.brave.com
+ci-cdn.brave.com
 ci.brave.com
 clients4.brave.com
 collector-staging.brave.com
@@ -61,9 +67,11 @@ faq-bot.brave.com
 favicons-alb.search.brave.com
 favicons.brave.com
 favicons.search.brave.com
+fl.brave.com
 funding.brave.com
 go-updater.brave.com
 goerli-infura.brave.com
+goma.brave.com
 grafana-staging.brave.com
 grafana.brave.com
 grant.rewards.brave.com
@@ -135,6 +143,8 @@ survey.brave.com
 sync-staging.brave.com
 sync-v2.brave.com
 sync.brave.com
+tabong.brave.com
+talk.brave.com
 terraboard.brave.com
 tiles-alb.search.brave.com
 tiles.brave.com

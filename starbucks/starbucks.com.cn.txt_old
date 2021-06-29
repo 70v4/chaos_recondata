@@ -348,6 +348,10 @@ app-pc25.openvpn.web.dqr.enterprise-antivirus.stg.starbucks.com.cn
 app-stg.starbucks.com.cn
 app.dqr.starbucks.com.cn
 app.starbucks.com.cn
+appapm-console.starbucks.com.cn
+appapm-console.stg.starbucks.com.cn
+appapm.starbucks.com.cn
+appapm.stg.starbucks.com.cn
 appdata.starbucks.com.cn
 appdelivery.starbucks.com.cn
 application.openvpn.web.dqr-usw2.www.starbucks.com.cn
@@ -443,6 +447,8 @@ ccc-app-im.openvpn.stg.2013-admin.dqr.starbucks.com.cn
 cccapi.starbucks.com.cn
 cccapi.stg.starbucks.com.cn
 cdn.starbucks.com.cn
+cdns01.starbucks.com.cn
+cdns01.stg.starbucks.com.cn
 cereport.starbucks.com.cn
 certserv.openvpn.web.dqr.enterprise-th.stg.starbucks.com.cn
 certserv.openvpn.web.dqr.enterprise.dino.starbucks.com.cn
@@ -667,6 +673,7 @@ dt-stg.starbucks.com.cn
 dz.openvpn.stg.bomgar-invoice.www.starbucks.com.cn
 e-commerce.openvpn.stg.bomgar-invoice.www.starbucks.com.cn
 e.starbucks.com.cn
+e1.starbucks.com.cn
 eagle.openvpn.rewards.www.starbucks.com.cn
 ec.starbucks.com.cn
 ecjobs.starbucks.com.cn
@@ -686,6 +693,7 @@ empresas.openvpn.web.dqr.enterprislondon.starbucks.com.cn
 emsr-api.openvpn.sjc.invoice.starbucks.com.cn
 emsr.openvpn.la2.stg.admin.dqr.starbucks.com.cn
 emsr.starbucks.com.cn
+emsr.stg.starbucks.com.cn
 engineering.openvpn.web.dqr.enterprisequotes.stg.starbucks.com.cn
 engineering.openvpn.web.dqr.enterprisereseller.starbucks.com.cn
 enterprise-bounce.starbucks.com.cn
@@ -726,6 +734,8 @@ frapp-livery.openvpn.sjc.invoice.starbucks.com.cn
 frappdelines.openvpn.west.wx.starbucks.com.cn
 frappuccinogalaxy.starbucks.com.cn
 freebsd02.starbucks.com.cn
+frmsdfp.starbucks.com.cn
+frmsdfp.stg.starbucks.com.cn
 ftp-stg.starbucks.com.cn
 ftp-www.starbucks.com.cn
 ftp.antivirus.openvpn.stg.bomgar-invoice.www.starbucks.com.cn
@@ -998,6 +1008,8 @@ papp.starbucks.com.cn
 papp.stg.starbucks.com.cn
 paris.openvpn.web.dqr.enterprise.starbucks.com.cn
 partner.starbucks.com.cn
+partnercenapi.starbucks.com.cn
+partnercenapi.stg.starbucks.com.cn
 partnercpon.starbucks.com.cn
 payment-staging-sbux.starbucks.com.cn
 paymentents.openvpn.west.wx.starbucks.com.cn
@@ -1332,6 +1344,8 @@ reservation.starbucks.com.cn
 reservation.stg.starbucks.com.cn
 reservationpos.starbucks.com.cn
 reservationpos.stg.starbucks.com.cn
+resource.starbucks.com.cn
+resource.stg.starbucks.com.cn
 retailwebaccessecd.starbucks.com.cn
 retailwebappsecd.starbucks.com.cn
 rets-stations.openvpn.west.wx.starbucks.com.cn
@@ -1384,6 +1398,7 @@ ssct.starbucks.com.cn
 ssct.stg.starbucks.com.cn
 ssctsso.starbucks.com.cn
 ssctsso.stg.starbucks.com.cn
+sso.stg.starbucks.com.cn
 ssopbi.starbucks.com.cn
 staging-evp.starbucks.com.cn
 staging.api.starbucks.com.cn
@@ -1461,6 +1476,8 @@ test.starbucks.com.cn
 testantivirus.openvpn.stg.bomgar-invoice.www.starbucks.com.cn
 testing.starbucks.com.cn
 ticket-test2.openvpn.west.wx.starbucks.com.cn
+tmallmiddleware.starbucks.com.cn
+tmallmiddleware.stg.starbucks.com.cn
 toggle.starbucks.com.cn
 toggle.stg.starbucks.com.cn
 togglecd.openvpn.la2.stg.admin.dqr.starbucks.com.cn

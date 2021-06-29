@@ -467,6 +467,8 @@ okta.www.liveplan.com
 old.app.liveplan.com
 old.liveplan.com
 old.www.liveplan.com
+omapi.liveplan.com
+omcdn.liveplan.com
 orders.app.liveplan.com
 orders.liveplan.com
 orders.www.liveplan.com
@@ -589,6 +591,7 @@ static.www.liveplan.com
 stats.app.liveplan.com
 stats.liveplan.com
 stats.www.liveplan.com
+status.liveplan.com
 store.app.liveplan.com
 store.liveplan.com
 store.www.liveplan.com

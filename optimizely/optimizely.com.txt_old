@@ -58,6 +58,7 @@ autopilot.dz.optimizely.com
 beta.app.optimizely.com
 beta.optimizely.com
 blog.optimizely.com
+brand.optimizely.com
 build.client.optimizely.com
 build.client.staging.optimizely.com
 castlewebhook-test.optimizely.com
@@ -96,6 +97,7 @@ client-error-log.dz.optimizely.com
 client.build.optimizely.com
 client.optimizely.com
 code-review-bot.dz.optimizely.com
+communications.optimizely.com
 community-staging.optimizely.com
 community.optimizely.com
 config.optimizely.com
@@ -108,6 +110,8 @@ dcdn.optimizely.com
 demo.optimizely.com
 design.optimizely.com
 dev.optimizely.com
+dev.query.optimizely.com
+dev.querying.optimizely.com
 developer.optimizely.com
 developers.optimizely.com
 develrc-api.dz.optimizely.com
@@ -189,6 +193,8 @@ prod-fleet.prod.optimizely.com
 prod.optimizely.com
 qa.app.optimizely.com
 qa.optimizely.com
+query.optimizely.com
+querying.optimizely.com
 rc-api.dz.optimizely.com
 rc-app.optimizely.com
 rc.app.optimizely.com
@@ -199,7 +205,10 @@ rum.optimizely.com
 segdemo.optimizely.com
 sse-demo.dz.optimizely.com
 stable.app.optimizely.com
+stage.world.optimizely.com
 staging-log.optimizely.com
+staging.query.optimizely.com
+staging.querying.optimizely.com
 status.optimizely.com
 styleguide.optimizely.com
 success-proxy-develrc-2.dz.optimizely.com
@@ -224,6 +233,7 @@ vis-odds.optimizely.com
 vis.optimizely.com
 webtier-canary.dz.optimizely.com
 webtier-staging.dz.optimizely.com
+world.optimizely.com
 www.app.optimizely.com
 www.live.optimizely.com
 www.optimizely.com

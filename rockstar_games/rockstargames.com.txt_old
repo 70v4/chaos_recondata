@@ -30,7 +30,9 @@ cert.scadmin.rockstargames.com
 cert.scapi.rockstargames.com
 cert.scauth.rockstargames.com
 cert.scui.rockstargames.com
+cert.store.rockstargames.com
 challenges-rdr2-prod.ros.rockstargames.com
+checkout.rockstargames.com
 click.newsletter.rockstargames.com
 cloud.newsletter.rockstargames.com
 conductor-prod.ros.rockstargames.com
@@ -58,6 +60,7 @@ dev.scadmin.rockstargames.com
 dev.scapi.rockstargames.com
 dev.scauth.rockstargames.com
 dev.scui.rockstargames.com
+dev.store.rockstargames.com
 dev.telemetry.ros.rockstargames.com
 dev2.bugstar.rockstargames.com
 dev2.scadmin.rockstargames.com
@@ -65,6 +68,7 @@ discoverreceiver.rockstargames.com
 downloads.rockstargames.com
 emailcontent.rockstargames.com
 employee.rockstargames.com
+employee.store.rockstargames.com
 es-mx.socialclub.rockstargames.com
 es.socialclub.rockstargames.com
 ewrsession1-rdr2-prod.ros.rockstargames.com
@@ -209,6 +213,7 @@ stage-cert.scadmin.rockstargames.com
 stage-cert.scapi.rockstargames.com
 stage-cert.scauth.rockstargames.com
 stage-cert.scui.rockstargames.com
+stage-cert.store.rockstargames.com
 stage-dev-catalog-cloud.rockstargames.com
 stage-dev-gamedownloads.rockstargames.com
 stage-dev-locator-cloud.rockstargames.com
@@ -217,6 +222,7 @@ stage-dev.scadmin.rockstargames.com
 stage-dev.scapi.rockstargames.com
 stage-dev.scauth.rockstargames.com
 stage-dev.scui.rockstargames.com
+stage-dev.store.rockstargames.com
 stage-dev2.scadmin.rockstargames.com
 stage-prod-catalog-cloud.rockstargames.com
 stage-prod-gamedownloads.rockstargames.com
@@ -227,10 +233,15 @@ stage-prod.scadmin.rockstargames.com
 stage-prod.scapi.rockstargames.com
 stage-prod.scauth.rockstargames.com
 stage-prod.scui.rockstargames.com
+stage-prod.store.rockstargames.com
 stage.atmosphereproximity.age-dev.scauth.rockstargames.com
 stage.cloud.rockstargames.com
 stage.rockstargames.com
 staging.rockstargames.com
+store-develop.rockstargames.com
+store-integration.rockstargames.com
+store-preview.rockstargames.com
+store-staging.rockstargames.com
 store.rockstargames.com
 stream.rockstargames.com
 support.rockstargames.com
@@ -255,6 +266,7 @@ warehouse.rockstargames.com
 webmail.rockstargames.com
 wt.rockstargames.com
 www.cert.p01ewr.pod.rockstargames.com
+www.checkout.rockstargames.com
 www.dev.p01ewr.pod.rockstargames.com
 www.dev.scadmin.rockstargames.com
 www.prod.cloud.rockstargames.com

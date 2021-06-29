@@ -1,6 +1,7 @@
 api.ozon.ru
 autodiscover.g.ozon.ru
 autodiscover.ozon.ru
+bank.ozon.ru
 blog.ozon.ru
 bundle.ozon.ru
 card.ozon.ru
@@ -8,8 +9,10 @@ crm.ozon.ru
 demo.ozon.ru
 dev.news.ozon.ru
 dialin.ozon.ru
+docs.ozon.ru
 edge-lb-z1-g1.ozon.ru
 edge-lb-z23-g1.ozon.ru
+etls.ozon.ru
 exedge.ozon.ru
 exedge02z1.ozon.ru
 ga.ozon.ru
@@ -137,6 +140,7 @@ test.ozon.ru
 tickets.ozon.ru
 webconf.ozon.ru
 wfm01z1.ozon.ru
+www.bank.ozon.ru
 www.ozon.ru
 www.secretsanta.ozon.ru
 www.tickets.ozon.ru

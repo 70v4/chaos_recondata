@@ -18,6 +18,8 @@ alembic.scm.starbucks.com
 alembic.scmdev.starbucks.com
 alembic.scmtest.starbucks.com
 alexa.starbucks.com
+alumni.starbucks.com
+anaplan.starbucks.com
 api-chd.starbucks.com
 api.martech.starbucks.com
 api.ngsaas.beta.starbucks.com
@@ -41,6 +43,7 @@ appcafe.starbucks.com
 appdev.starbucks.com
 archergrc-iad.starbucks.com
 archergrc.starbucks.com
+archive.starbucks.com
 ariba-asp-ct.starbucks.com
 ariba-asp-sd.starbucks.com
 ariba-asp-st.starbucks.com
@@ -82,6 +85,8 @@ awtestjan142.starbucks.com
 awtestjul30.starbucks.com
 awtestjuly19.starbucks.com
 awtestmar25.starbucks.com
+awtestmay26.starbucks.com
+awtestnov13.starbucks.com
 awtestsep6.starbucks.com
 b.mx.a.starbucks.com
 b.mx.e.starbucks.com
@@ -112,6 +117,7 @@ bi-ri.starbucks.com
 bi-sb-mstr-mobile.starbucks.com
 bi-sb-mstr-web.starbucks.com
 bi-test-mstr-web.starbucks.com
+bicap-ftp.starbucks.com
 bicap-tb.starbucks.com
 binrepo.starbucks.com
 bits.starbucks.com
@@ -141,6 +147,9 @@ bomgareast.starbucks.com
 bomgariad.starbucks.com
 bomgarlab.starbucks.com
 bomgarwest.starbucks.com
+box-asp-ct.starbucks.com
+box-asp-sd.starbucks.com
+box-asp-st.starbucks.com
 bugtest-archergrc.starbucks.com
 bwalchen.starbucks.com
 bwalchen3.starbucks.com
@@ -242,6 +251,7 @@ community.uat.starbucks.com
 compass-prod.starbucks.com
 compass-prodb.starbucks.com
 connect.starbucks.com
+connectadmin.starbucks.com
 connectadmindev.starbucks.com
 connectadmininteg.starbucks.com
 connectadminstaging.starbucks.com
@@ -307,6 +317,8 @@ datapulse-app.starbucks.com
 datapulse-dev-app.starbucks.com
 datapulse-dev.starbucks.com
 datapulse-dr-app.starbucks.com
+datapulse-dr-eus2-app.starbucks.com
+datapulse-dr-poc-app.starbucks.com
 datapulse-prod-app.starbucks.com
 datapulse-test-app.starbucks.com
 datapulse-uat-app.starbucks.com
@@ -314,7 +326,9 @@ datapulse-uat.starbucks.com
 datapulse.starbucks.com
 de-de.test.starbucks.com
 deepbrew-preprod-api.starbucks.com
+deepbrew-preprod-twistapi.starbucks.com
 deepbrew-prod-api.starbucks.com
+deepbrew-prod-twistapi.starbucks.com
 deepbrew.starbucks.com
 deepbrewbeta-prod-api.starbucks.com
 deeto-preprod-api.starbucks.com
@@ -418,6 +432,7 @@ enterprise.enrollment.starbucks.com
 enterprise.loyalty.api.starbucks.com
 enterpriseenrollment.starbucks.com
 epmcert.starbucks.com
+eric.starbucks.com
 erictest.starbucks.com
 es.solutions.starbucks.com
 events.starbucks.com
@@ -458,6 +473,7 @@ gasianet.starbucks.com
 gaspoweredstrawblower.everythingaboutaet.starbucks.com
 gd.cdx.starbucks.com
 gd.ucp.starbucks.com
+geo-analytics-dev.starbucks.com
 geo-cert.starbucks.com
 geo-server-cert.starbucks.com
 germany.openapi.starbucks.com
@@ -529,6 +545,7 @@ ipm-chd.starbucks.com
 ipm-dev.starbucks.com
 ipm.starbucks.com
 iserver-api.starbucks.com
+jad.test.starbucks.com
 jd.test.starbucks.com
 jdsbeta.starbucks.com
 jdtest222.starbucks.com
@@ -619,6 +636,11 @@ loadtrtr.starbucks.com
 loaduzen.starbucks.com
 loadvnvi.starbucks.com
 loadwww.starbucks.com
+locationexchange-ct.starbucks.com
+locationexchange-pd.starbucks.com
+locationexchange-pd.vpc.starbucks.com
+locationexchange-ps.starbucks.com
+locationexchange.starbucks.com
 logout.retail.starbucks.com
 lp.starbucks.com
 lstech-asp-ct.starbucks.com
@@ -774,6 +796,7 @@ partnerbridge.starbucks.com
 partnercentral.starbucks.com
 passport.starbucks.com
 payment-accountupdater-dev.starbucks.com
+payment-accountupdater-integration.starbucks.com
 payment-accountupdater-prod.starbucks.com
 pd.cdx.starbucks.com
 pd.spc.starbucks.com
@@ -964,6 +987,7 @@ s01.productioncontroller.starbucks.com
 s02.productioncontroller.starbucks.com
 s03-1-ag.productioncontroller.starbucks.com
 s03-2-ag.productioncontroller.starbucks.com
+s03-3-ag.productioncontroller.starbucks.com
 s03-3-ag.productiontioncontroller.starbucks.com
 s03-ag.productioncontroller.starbucks.com
 s03-ssa.productioncontroller.starbucks.com
@@ -979,6 +1003,7 @@ sbux-viz-cert.starbucks.com
 sbux-viz.starbucks.com
 scm-asp-ct.starbucks.com
 scm-asp-sd.starbucks.com
+scm-asp-st.starbucks.com
 scm-asp.starbucks.com
 scm.starbucks.com
 scmdev.starbucks.com
@@ -992,17 +1017,22 @@ sd.cdx.starbucks.com
 sdcatalog-ct.starbucks.com
 sdcatalog-st.starbucks.com
 sdcatalog.starbucks.com
+sdcatalogadmin-ct.starbucks.com
 sdcatalogadmin-pd.starbucks.com
 sdcatalogadmin-st.starbucks.com
+sdcatalogadmin.starbucks.com
 sdlgreen.starbucks.com
 sdlgreensecure.starbucks.com
+sdlx.starbucks.com
 sdrc.starbucks.com
+sdx.starbucks.com
 search.starbucks.com
 seattlesbestcatest.starbucks.com
 secondtest.starbucks.com
 secureapi.starbucks.com
 securehost.openapi.starbucks.com
 securepayment.starbucks.com
+securepaymenthub.starbucks.com
 securepaymentprocessor.starbucks.com
 securepostback.openapi.starbucks.com
 secureui.starbucks.com
@@ -1038,6 +1068,7 @@ sip.starbucks.com
 six.starbucks.com
 sixevents-api.starbucks.com
 sixevents.starbucks.com
+sldx.starbucks.com
 smreporting-v9-a.starbucks.com
 smreporting-v9-cert.starbucks.com
 smreporting.starbucks.com
@@ -1449,6 +1480,7 @@ ws1.starbucks.com
 www-iad.starbucks.com
 www.app.starbucks.com
 www.app.test.starbucks.com
+www.archive.starbucks.com
 www.athome.starbucks.com
 www.catering.starbucks.com
 www.cert-digitalcontent-origin.starbucks.com

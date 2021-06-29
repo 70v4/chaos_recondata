@@ -142,6 +142,7 @@ ripebot-app.githubapp.com
 rss-to-tweet.githubapp.com
 saga.githubapp.com
 scim-bridge.githubapp.com
+security-center-reports.githubapp.com
 security.githubapp.com
 sendgrid-log-intake.githubapp.com
 sentinel-staging.githubapp.com

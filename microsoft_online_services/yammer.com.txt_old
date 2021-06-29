@@ -289,6 +289,7 @@ lab9.integration.yammer.com
 labsdirectorysub.s2s.yammer.com
 labsfilemigration.s2s.yammer.com
 labsingestionservice.s2s.yammer.com
+labspolaris.s2s.yammer.com
 ldap.int.yammer.com
 ldap.tools.yammer.com
 ldap.yammer.com
@@ -521,6 +522,11 @@ teamlabs.integration.yammer.com
 teams-sdf.yammer.com
 teams.yammer.com
 telemetry.integration.yammer.com
+tenant-eop.staging.yammer.com
+tenant-eop.yammer.com
+test-1.staging.yammer.com
+test-2.staging.yammer.com
+test-3.staging.yammer.com
 test.integration.yammer.com
 test.staging.yammer.com
 test2.staging.yammer.com

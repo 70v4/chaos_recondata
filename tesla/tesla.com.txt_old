@@ -42,6 +42,8 @@ click.emails.tesla.com
 cloudprotect.tesla.com
 comparison.tesla.com
 cryptopay.tesla.com
+cryptopay2.tesla.com
+cryptopay3.tesla.com
 darkfield.tesla.com
 de.tesla.com
 dev.tesla.com
@@ -130,6 +132,8 @@ naa-origin.tesla.com
 nas-origin.tesla.com
 new-dev.tesla.com
 new.tesla.com
+nv.tesla.com
+ny.tesla.com
 o2.ptr556.tesla.com
 o3.ptr1444.tesla.com
 o4.ptr1867.tesla.com
@@ -225,10 +229,12 @@ tssapi-stg.tesla.com
 tssapi.tesla.com
 tweventhook.tesla.com
 tx.tesla.com
+ug.tesla.com
 view.email.tesla.com
 view.emails.tesla.com
 vmanage-alerts.tesla.com
 vpn1.tesla.com
+vpn2.tesla.com
 warehouse-stg.tesla.com
 warehouse.tesla.com
 warpbilling.tesla.com

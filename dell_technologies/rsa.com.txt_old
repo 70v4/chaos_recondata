@@ -78,6 +78,7 @@ cummins.archer.rsa.com
 cyberrange.rsa.com
 dashboard.archer.rsa.com
 datium.rsa.com
+dec.rgi.rsa.com
 demo.iris.rsa.com
 demo.syn.rsa.com
 dethor-tver.larrygrant.rsa.com
@@ -143,6 +144,9 @@ idantenantz.uebasaas.dev.netwitness.rsa.com
 idantenantz.uebasaas.netwitness.rsa.com
 incidentresponse.rsa.com
 information.rsa.com
+ingr.rci.dec.uat.rsa.com
+ingr.rci.sign.uat.rsa.com
+ingr.rci.tls.uat.rsa.com
 intranet.archer.rsa.com
 intranetsso.archer.rsa.com
 investigator.netwitness.rsa.com
@@ -240,6 +244,10 @@ ran-script-test2.uebasaas.dev.netwitness.rsa.com
 ran-test-runner.uebasaas.dev.netwitness.rsa.com
 ran-test-s3.uebasaas.dev.netwitness.rsa.com
 ran-test-ssm.uebasaas.dev.netwitness.rsa.com
+rca.rsa.com
+rgi.dec.rsa.com
+rgi.sign.rsa.com
+rgi.tls.rsa.com
 rgidec.uat.rsa.com
 rgisign.uat.rsa.com
 rgitls.uat.rsa.com
@@ -269,9 +277,11 @@ sb6user5.archer.rsa.com
 sb6user6.archer.rsa.com
 securemail.rsa.com
 sftp.rsa.com
+sign.rgi.rsa.com
 sip.rsa.com
 siriogip.rsa.com
 sso.app.rsa.com
+sso.us1.qeadaptiveauthbo.rsa.com
 sso1-apj.archer.rsa.com
 sso1-eur.archer.rsa.com
 sso2.archer.rsa.com
@@ -296,6 +306,7 @@ test1.syn.rsa.com
 test1.whatsthisfile.rsa.com
 testapi.rsa.com
 tls.barp.tls.rsa.com
+tls.rgi.rsa.com
 traininglabs.rsa.com
 ueba-staging-cus02.uebasaas.staging.netwitness.rsa.com
 ueba-staging-cus03.uebasaas.staging.netwitness.rsa.com

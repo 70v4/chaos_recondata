@@ -46,6 +46,7 @@ appsupport.datastax.com
 artifactory.datastax.com
 artifacts.datastax.com
 assethub.datastax.com
+assets.datastax.com
 astra-dev.datastax.com
 astra-service-broker.dev.cloud.datastax.com
 astra-service-broker.feat.cloud.datastax.com
@@ -131,6 +132,7 @@ cloud-billing.dev.cloud.datastax.com
 cloud-billing.feat.cloud.datastax.com
 cloud-billing.ingress.us-east-2.dev.apps.paas.datastax.com
 cloud-billing.ingress.us-east-2.feat.apps.paas.datastax.com
+cloud-billing.ingress.us-east-2.prod.apps.paas.datastax.com
 cloud-billing.ingress.us-east-2.test.apps.paas.datastax.com
 cloud-billing.test.cloud.datastax.com
 cloud-feature-manager.cloud.datastax.com
@@ -258,6 +260,7 @@ floodgate.dev.cloud.datastax.com
 floodgate.ingress.us-east-2.dev.apps.paas.datastax.com
 gate-cloud-spin.dmc-prod-us-east-1.cloud-tools.datastax.com
 gatekeeper-debug.dev.auth.cloud.datastax.com
+gatekeeper-origin.dev.auth.cloud.datastax.com
 gatekeeper.auth.cloud.datastax.com
 gatekeeper.dev.auth.cloud.datastax.com
 get.datastax.com
@@ -397,6 +400,7 @@ premium-support.datastax.com
 prism-old.datastax.com
 prism-uat.datastax.com
 prism.datastax.com
+prod-test.auth.cloud.datastax.com
 prod.cloud.datastax.com
 prometheus-internal.ingress.us-east-2.prod.apps.paas.datastax.com
 prometheus-internal.prod.cloud.datastax.com
@@ -406,9 +410,20 @@ pulsar-aws-useast2-staging.staging.streaming.datastax.com
 pulsar-aws-useast2.dev.streaming.datastax.com
 pulsar-aws-useast2.staging.streaming.datastax.com
 pulsar-aws-useast2.streaming.datastax.com
+pulsar-azure-us-west-2.dev.streaming.datastax.com
+pulsar-azure-westus2-staging.staging.streaming.datastax.com
+pulsar-azure-westus2.streaming.datastax.com
+pulsar-gcp-useast4-staging.staging.streaming.datastax.com
+pulsar-gcp-useast4.streaming.datastax.com
+pulsar-gke-useast4-a.dev.streaming.datastax.com
+pulsar-gke-useast4.dev.streaming.datastax.com
 pulsar-perf-aws-useast2.streaming.datastax.com
 pvt-pulsar-aws-useast2-staging.staging.streaming.datastax.com
 pvt-pulsar-aws-useast2.streaming.datastax.com
+pvt-pulsar-azure-westus2-staging.staging.streaming.datastax.com
+pvt-pulsar-azure-westus2.streaming.datastax.com
+pvt-pulsar-gcp-useast4-staging.staging.streaming.datastax.com
+pvt-pulsar-gcp-useast4.streaming.datastax.com
 qa.vector.datastax.com
 registry.cloud-tools.datastax.com
 registry.dmc-prod-us-east-1.cloud-tools.datastax.com
@@ -423,6 +438,7 @@ retool.tools.prod.apps.paas.datastax.com
 retool.tools.test.apps.paas.datastax.com
 reuben.datastax.com
 revenuewise-uat.datastax.com
+rma.datastax.com
 roman-us-west-2.infra-dev.datastax.com
 rpm-public.datastax.com
 rpm-qa.datastax.com
@@ -474,6 +490,7 @@ studio.astra.datastax.com
 studio.dev.cloud.datastax.com
 support.datastax.com
 teleport-dev.security.datastax.com
+teleport.cloud-tools.datastax.com
 teleport.security.datastax.com
 test-app.dev.cloud.datastax.com
 test-app.feat.cloud.datastax.com
@@ -510,4 +527,5 @@ www.datastax.com
 www.get.datastax.com
 xinjinjiangyulechang.security.datastax.com
 zalenium-internal.ingress.us-east-1.prod.tools.paas.datastax.com
+zalenium.cloud-tools.datastax.com
 zalenium.ingress.us-east-1.prod.tools.paas.datastax.com

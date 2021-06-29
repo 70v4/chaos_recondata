@@ -4997,6 +4997,7 @@ adfs-vip.uk.pri.o2.com
 admin.aem.poc.borngroup.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
 aem.poc.borngroup.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
 alf.sg.de.o2.com
+ao2m3nonprod.uk.pri.o2.com
 ao2nonprod.uk.pri.o2.com
 ap-int.o2.com
 ap.o2.com
@@ -5024,6 +5025,8 @@ autodiscover.o2.com
 av.o2.com
 av235.adsl.tnnet.v.o2.com
 b2bgw.cz.o2.com
+base.cesp-dev.aws.de.pri.o2.com
+base.cesp.aws.de.pri.o2.com
 bbcsfe.uk.pri.o2.com
 bender.sg.de.o2.com
 benefit.cz.o2.com
@@ -5089,6 +5092,7 @@ crtmgr.o2.com
 csoc-vl40.uk.pri.o2.com
 csoc.vl40.uk.pri.o2.com
 csweb.o2.com
+ct1.raitt.low.tefde-aws-raitt01-dev.aws.de.pri.o2.com
 cwa.o2.com
 cz.o2.com
 da.o2.com
@@ -5102,6 +5106,8 @@ dealer.o2.com
 delxvi49.de.pri.o2.com
 delxvi51.de.pri.o2.com
 delxvi52.de.pri.o2.com
+demo1.raait.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
+demo1.raitt.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
 demuc1gs06.de.pri.o2.com
 demuc1gs07.de.pri.o2.com
 demuc1lx11.de.pri.o2.com
@@ -5127,6 +5133,7 @@ dev.lab.de.o2.com
 devices.uk.pri.o2.com
 devprod.agent-cockpit.de.o2.com
 devvpx.cloud.o2.com
+dewsttlap012.de.pri.o2.com
 dewsttlas403.de.pri.o2.com
 dewsttlas404.de.pri.o2.com
 dewsttlcd001.de.pri.o2.com
@@ -5135,6 +5142,7 @@ dewsttwak403.de.pri.o2.com
 dewstvlgtg101.de.pri.o2.com
 dgw-test.de.o2.com
 dgw.de.o2.com
+dilprod.de.pri.o2.com
 dipa-tds.de.pri.o2.com
 dipa4.de.pri.o2.com
 disesoaws.uk.pri.o2.com
@@ -5209,6 +5217,9 @@ fastsurvey.cz.o2.com
 fcm.de.o2.com
 fdmweb.ao2e2e.retailcloud.uk.pri.o2.com
 fdmweb.ao2fit.retailcloud.uk.pri.o2.com
+fdmweb.ao2m3e2e.retailcloud.uk.pri.o2.com
+fdmweb.ao2m3fit.retailcloud.uk.pri.o2.com
+fdmweb.ao2m3uat.retailcloud.uk.pri.o2.com
 fdmweb.ao2sit.retailcloud.uk.pri.o2.com
 fdmweb.ao2uat.retailcloud.uk.pri.o2.com
 federation.o2.com
@@ -5294,6 +5305,9 @@ inmsweb.o2.com
 inmsweb2.o2.com
 integrationweb.ao2e2e.retailcloud.uk.pri.o2.com
 integrationweb.ao2fit.retailcloud.uk.pri.o2.com
+integrationweb.ao2m3e2e.retailcloud.uk.pri.o2.com
+integrationweb.ao2m3fit.retailcloud.uk.pri.o2.com
+integrationweb.ao2m3uat.retailcloud.uk.pri.o2.com
 integrationweb.ao2sit.retailcloud.uk.pri.o2.com
 integrationweb.ao2uat.retailcloud.uk.pri.o2.com
 internal.lab.de.o2.com
@@ -7369,6 +7383,7 @@ ip-94-42-11.70.44.sk.o2.com
 ip-94-42-12-151.191.67.63.sk.o2.com
 ip0.sk.o2.com
 iron.de.o2.com
+ironscales.high.tefde-aws-irons-prod.aws.de.pri.o2.com
 jacs.o2.com
 jasperserver-afcore-ns-csoc-vl40.uk.pri.o2.com
 jasperserver.afcore-ns.csoc.vl40.uk.pri.o2.com
@@ -7412,6 +7427,7 @@ mail2.ncc.de.o2.com
 mail2.o2.com
 mailrelay.de.pri.o2.com
 mailweb.o2.com
+mattermost.sg.de.pri.o2.com
 mdc.o2.com
 mdcomms20.o2.com
 mdm.de.o2.com
@@ -7520,10 +7536,13 @@ neos.cz.o2.com
 net.de.o2.com
 netpulselive-das.uk.pri.o2.com
 netpulselive-knox.uk.pri.o2.com
+netpulselive-tableau.uk.pri.o2.com
 netpulseref-knox.uk.pri.o2.com
+netpulseref-tableau.uk.pri.o2.com
 netradar.sued.de.pri.o2.com
 netsite.de.pri.o2.com
 netvpx.cloud.o2.com
+neuvector.dev.agent-cockpit.de.o2.com
 neuvector.prod.agent-cockpit.de.o2.com
 nocrg.unify.o2.com
 novinky.sk.o2.com
@@ -7531,6 +7550,7 @@ ns1.cz.o2.com
 ns1.sk.o2.com
 ns2.cz.o2.com
 ns2.sk.o2.com
+nt-sec-10760.dcn.de.pri.o2.com
 ntportal.lb-test.de.pri.o2.com
 ntsc.de.o2.com
 ntsc2.de.o2.com
@@ -7615,7 +7635,9 @@ retailrefunds.uk.pri.o2.com
 rtmed1.cz.o2.com
 rtmed2.cz.o2.com
 s1valor.net.de.o2.com
+saapp.uk.pri.o2.com
 salesguide.cz.o2.com
+saweb.uk.pri.o2.com
 schranka.cz.o2.com
 schranka.sk.o2.com
 sdc.de.o2.com
@@ -8106,6 +8128,7 @@ webcollaboration03.de.o2.com
 webmail.ncc.de.o2.com
 webmail.o2.com
 webmap-vip.o2.com
+websso-aws.de.pri.o2.com
 websso-e2e.de.pri.o2.com
 websso.de.pri.o2.com
 webssotest.de.pri.o2.com
@@ -8139,10 +8162,16 @@ x1valor.net.de.o2.com
 x2valor.net.de.o2.com
 xcenterapp.ao2e2e.retailcloud.uk.pri.o2.com
 xcenterapp.ao2fit.retailcloud.uk.pri.o2.com
+xcenterapp.ao2m3e2e.retailcloud.uk.pri.o2.com
+xcenterapp.ao2m3fit.retailcloud.uk.pri.o2.com
+xcenterapp.ao2m3uat.retailcloud.uk.pri.o2.com
 xcenterapp.ao2sit.retailcloud.uk.pri.o2.com
 xcenterapp.ao2uat.retailcloud.uk.pri.o2.com
 xcenterweb.ao2e2e.retailcloud.uk.pri.o2.com
 xcenterweb.ao2fit.retailcloud.uk.pri.o2.com
+xcenterweb.ao2m3e2e.retailcloud.uk.pri.o2.com
+xcenterweb.ao2m3fit.retailcloud.uk.pri.o2.com
+xcenterweb.ao2m3uat.retailcloud.uk.pri.o2.com
 xcenterweb.ao2sit.retailcloud.uk.pri.o2.com
 xcenterweb.ao2uat.retailcloud.uk.pri.o2.com
 yourcompanionprf.uk.pri.o2.com

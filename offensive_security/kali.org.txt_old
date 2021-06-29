@@ -21,7 +21,10 @@ autopkgtest.kali.org
 beta.kali.org
 br.docs.kali.org
 bugs.kali.org
+buildd-armel-staging.kali.org
+buildd-armhf-staging.kali.org
 calliope.kali.org
+cdimage-staging.kali.org
 cdimage.kali.org
 cdimages.kali.org
 clotho.kali.org
@@ -50,6 +53,7 @@ hephaestus.kali.org
 hera.kali.org
 hermes.kali.org
 hestia.kali.org
+http-staging.kali.org
 http.kali.org
 id.docs.kali.org
 images.kali.org
@@ -58,6 +62,7 @@ it.docs.kali.org
 ja.docs.kali.org
 janitor.kali.org
 jenkins.kali.org
+kids.kali.org
 lachesis.kali.org
 lava.kali.org
 mail2.kali.org

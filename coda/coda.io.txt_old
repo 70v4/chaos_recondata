@@ -1,14 +1,18 @@
+abc123.site.adhoc.coda.io
 adhoc-hosted.coda.io
 adhoc.coda.io
 airflow-prod.coda.io
 airflow-prod.data.coda.io
 airflow-prod.ops.coda.io
+auth.adhoc.coda.io
 blog.coda.io
+calc.adhoc.coda.io
 cdn.coda.io
 community.coda.io
 data.coda.io
 dev-infra.coda.io
 dev.coda.io
+docservice.adhoc.coda.io
 fetcher.adhoc.coda.io
 go.coda.io
 head.coda.io
@@ -18,6 +22,7 @@ intercom-app.coda.io
 intercom-messenger.coda.io
 maze.coda.io
 models.data.coda.io
+mrojs5afqo.site.adhoc.coda.io
 ops.coda.io
 shiny.ops.coda.io
 staging.coda.io

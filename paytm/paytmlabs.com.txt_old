@@ -1,3 +1,4 @@
+api-docs.maquette.osmose.paytmlabs.com
 arahorn.alibaba.paytmlabs.com
 artifactory.paytmlabs.com
 demo.osmose.paytmlabs.com
@@ -5,6 +6,7 @@ dev-use2.osmose.paytmlabs.com
 dns1.paytmlabs.com
 docker.hero.paytmlabs.com
 docker.paytmlabs.com
+docs.maquette.osmose.paytmlabs.com
 eftw.pandora-prod.paytmlabs.com
 eftw.pandora-stg.paytmlabs.com
 forcepoint.ad.paytmlabs.com
@@ -12,6 +14,7 @@ ganges-mumbai-1-test.paytmlabs.com
 ganges-mumbai-1.paytmlabs.com
 grafana.pai-sre.paytmlabs.com
 inv.paytmlabs.com
+jenkins.osmose.paytmlabs.com
 jira.paytmlabs.com
 ldaps.paytmlabs.com
 logs.pandora-prod.paytmlabs.com
@@ -31,8 +34,11 @@ pandora-stg.paytmlabs.com
 pi.paytmlabs.com
 prod-fraud-merchant-usw2.osmose.paytmlabs.com
 prod-ppbl.osmose.paytmlabs.com
+prod-sa1.osmose.paytmlabs.com
 prod-sea1.osmose.paytmlabs.com
 prod-usw2.osmose.paytmlabs.com
+status.paytmlabs.com
 stg-fraud-merchant-usw2.osmose.paytmlabs.com
+stg-sa1.osmose.paytmlabs.com
 stg.hero.paytmlabs.com
 www.paytmlabs.com

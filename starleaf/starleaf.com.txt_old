@@ -16,6 +16,7 @@ autodiscover.sandbox.starleaf.com
 autodiscover.starleaf.com
 beta-ecs.starleaf.com
 beta-maestro.starleaf.com
+beta-nodes.starleaf.com
 beta-scimapi.starleaf.com
 beta.maestro.starleaf.com
 beta.starleaf.com
@@ -144,6 +145,7 @@ nick.starleaf.com
 nj.portal.starleaf.com
 node-2-ff2.nodes.starleaf.com
 nodes.dev.starleaf.com
+nodes.starleaf.com
 nymcu.starleaf.com
 nz.portal.starleaf.com
 o1.ci-email.starleaf.com
@@ -167,6 +169,7 @@ panda.starleaf.com
 partner-links.starleaf.com
 partners.starleaf.com
 partners2.starleaf.com
+pbx-ci-nodes.dev-net.starleaf.com
 pbx.lync.starleaf.com
 pexiplynctest.starleaf.com
 pexipnodec.starleaf.com
@@ -193,6 +196,7 @@ sip.s4b.starleaf.com
 sip.s4bcam.starleaf.com
 slack.addin.starleaf.com
 slack.starleaf.com
+standby.dev.starleaf.com
 star.starleaf.com
 status.beta.starleaf.com
 status.starleaf.com
@@ -245,7 +249,9 @@ www.ecs.starleaf.com
 www.gtm.starleaf.com
 www.info.starleaf.com
 www.jira.starleaf.com
+www.launcher.starleaf.com
 www.lightning.starleaf.com
+www.live.starleaf.com
 www.maestro.starleaf.com
 www.ocr.maestro.starleaf.com
 www.overseer.maestro.starleaf.com

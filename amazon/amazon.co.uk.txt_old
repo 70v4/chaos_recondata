@@ -41,6 +41,7 @@ ams.amazon.co.uk
 api-amazondevices.amazon.co.uk
 api-preprod.amazon.co.uk
 api-sandbox.amazon.co.uk
+api-test.amazon.co.uk
 api.amazon.co.uk
 api.sandbox.amazon.co.uk
 appx.transient.amazon.co.uk
@@ -71,6 +72,11 @@ autodiscover.amazon.co.uk
 avs-idrs.amazon.co.uk
 aws.amazon.co.uk
 beta.amazon.co.uk
+billing-hubportal.amazon.co.uk
+billing-kep-eu.amazon.co.uk
+billing-kep.amazon.co.uk
+billing-p2k.amazon.co.uk
+billing-partnercentral.amazon.co.uk
 blueprints.amazon.co.uk
 books.amazon.co.uk
 brandanalytics.amazon.co.uk
@@ -281,8 +287,10 @@ sharingservice-eu-beta.amazon.co.uk
 sharingservice-gamma.amazon.co.uk
 sharingservice.amazon.co.uk
 ship.amazon.co.uk
+shippercentral-onebox-uk.amazon.co.uk
 shipping.amazon.co.uk
 shm.amazon.co.uk
+sierra-discovery.amazon.co.uk
 skills-store.amazon.co.uk
 smile.amazon.co.uk
 soap.amazon.co.uk
@@ -296,6 +304,8 @@ ssofaast.wms.amazon.co.uk
 static.amazon.co.uk
 storage.browserapps.amazon.co.uk
 storepickup.amazon.co.uk
+storyplayer-photos.amazon.co.uk
+storyplayerbeta-photos.amazon.co.uk
 supplychainconnect.amazon.co.uk
 support.amazon.co.uk
 survey-tool.amazon.co.uk

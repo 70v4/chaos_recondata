@@ -6,6 +6,7 @@ api.my-sandbox.plaid.com
 api.my-testing.plaid.com
 api.my.plaid.com
 api.plaid.com
+atlan.plaid.com
 blog-staging.plaid.com
 blog.plaid.com
 calendar.plaid.com
@@ -92,6 +93,7 @@ production2.plaid.com
 proto.plaid.com
 px-integration-validator.prod.ue1.plaid.com
 px-integration-validator.testing.ue1.plaid.com
+releases.atlan.plaid.com
 sales.plaid.com
 sandbox.plaid.com
 sandbox.ue1.plaid.com

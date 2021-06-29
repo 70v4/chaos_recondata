@@ -2,6 +2,7 @@ accounts.ayco.com
 acf.ayco.com
 acfqa.ayco.com
 ainetm01.ayco.com
+akamai-edge-2.ayco.com
 api.ayco.com
 apipp.ayco.com
 apippqa.ayco.com
@@ -25,6 +26,8 @@ externalapi.ayco.com
 externalapiqa.ayco.com
 image.e.ayco.com
 localhost.e.ayco.com
+login-qa.ayco.com
+login.ayco.com
 mta.e.ayco.com
 oauth-stag.appointments.ayco.com
 oauth.appointments.ayco.com

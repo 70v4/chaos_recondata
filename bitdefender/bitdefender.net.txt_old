@@ -208,6 +208,7 @@ hw-ws.edit.athena.bitdefender.net
 i.dev.athena.bitdefender.net
 ibanking.athena.bitdefender.net
 ic.bitdefender.net
+infra-foreman-test.nimbus.bitdefender.net
 infra-foreman.nimbus.bitdefender.net
 infra-zabbix.nimbus.bitdefender.net
 int-rho.athena.bitdefender.net
@@ -229,7 +230,9 @@ login-lb.bitdefender.net
 login.athena.bitdefender.net
 login.bitdefender.net
 logmein-49b66164-6e2e-475b-a860-2d728211586c.2d7dd.cdn.bitdefender.net
+logs-aws.bitdefender.net
 logs-ext.bitdefender.net
+lon-dns.bitdefender.net
 losangls.2d7dd.cdn.bitdefender.net
 mail-payment.athena.bitdefender.net
 malwarecity.rbx2.vdc.bitdefender.net
@@ -288,6 +291,7 @@ orangenimbus.bbu.dsd.bitdefender.net
 orangesecurity-02.bbu.gts.bitdefender.net
 orangesecurity.bbu.dsd.bitdefender.net
 orangesecurity.bbu.gts.bitdefender.net
+ore-dns.bitdefender.net
 org-ws.blog.athena.bitdefender.net
 origin-patch.cdn.bitdefender.net
 p5b146f90.dip0.bbu.hq.bitdefender.net
@@ -394,6 +398,7 @@ test-irl-amz.nimbus.bitdefender.net
 thirdwave-88a400dd-a66a-4a15-832a-911b9df533a3.2d7dd.cdn.bitdefender.net
 ti.bitdefender.net
 tip.bitdefender.net
+tky-dns.bitdefender.net
 tmo-ore-push.bitdefender.net
 trafficlight.bbu.gts.bitdefender.net
 trustwave-e6a168ba-133a-41dd-a1ab-0a59a31c2459.2d7dd.cdn.bitdefender.net
@@ -536,12 +541,15 @@ www.sbg1.vdc.bitdefender.net
 www.scorilo1.bitdefender.net
 www.scorilo2.bitdefender.net
 www.scorilo3.bitdefender.net
+www.scorilo5.bitdefender.net
 www.secupgr.cdn.bitdefender.net
 www.sjc1.vdc.bitdefender.net
 www.sng1.vdc.bitdefender.net
 www.staging-tmo-ore-push.bitdefender.net
+www.staging.push.bitdefender.net
 www.tky2.slr.bitdefender.net
 www.tmo-ore-push.bitdefender.net
+www.update.cloud.2d585.cdn.bitdefender.net
 www.wdc1.vdc.bitdefender.net
 www2.ams1.slr.bitdefender.net
 wwwops.2d7dd.cdn.bitdefender.net

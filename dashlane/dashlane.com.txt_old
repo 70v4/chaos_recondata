@@ -66,6 +66,7 @@ fw1-pa3.dashlane.com
 fw1-par.dashlane.com
 fw1-pic.dashlane.com
 fw1.dashlane.com
+fw2-lis.dashlane.com
 fw2-nyc.dashlane.com
 fw2-pa3.dashlane.com
 fw2-pic.dashlane.com
@@ -155,6 +156,7 @@ prod-par-minio4.dashlane.com
 prod-par-minio4.infra.dashlane.com
 prod.dashlane.com
 prod.extensions.dashlane.com
+push.api.dashlane.com
 qa.app.dashlane.com
 qa.console.dashlane.com
 rancher.dashlane.com
@@ -171,6 +173,7 @@ sentry.test.dashlane.com
 sonar.dashlane.com
 sptest.dashlane.com
 srv-par-adfs3.dashlane.com
+srv-par-exch19.dashlane.com
 ssh-ci.dashlane.com
 ssh-prod.dashlane.com
 ssh-sec.dashlane.com
@@ -190,6 +193,7 @@ stash2.dashlane.com
 static.dashlane.com
 status.dashlane.com
 support.dashlane.com
+tableau-next.dashlane.com
 tableau.dashlane.com
 tableau2.dashlane.com
 teleport.dashlane.com
@@ -206,6 +210,7 @@ usvpn.dashlane.com
 vault-1.infra.dashlane.com
 vault-2.infra.dashlane.com
 vault-3.infra.dashlane.com
+vouch.dashlane.com
 vpn-par.dashlane.com
 vpn.dashlane.com
 vpn2.dashlane.com
@@ -217,6 +222,8 @@ wasm.dashlane.com
 webmail.dashlane.com
 website-alb.dashlane.com
 website-apps-alb.dashlane.com
+website-preprod-alb.dashlane.com
+website-preprod.dashlane.com
 website.dashlane.com
 webui.dashlane.com
 wignara.tests.dashlane.com

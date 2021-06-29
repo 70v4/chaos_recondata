@@ -8,6 +8,7 @@ apiadvances.swiftfinancial.com
 apiadvances.uat.swiftfinancial.com
 bank-account-proxy.dev.swiftfinancial.com
 bank-account-proxy.ist.swiftfinancial.com
+bank-account-proxy.swiftfinancial.com
 bank-account-proxy.uat.swiftfinancial.com
 bitbucket.swiftfinancial.com
 card.swiftfinancial.com
@@ -32,6 +33,7 @@ pigeon.uat.swiftfinancial.com
 prequal.swiftfinancial.com
 sandbox.swiftfinancial.com
 sbaapi.dev.swiftfinancial.com
+sbaapi.swiftfinancial.com
 sbx.swiftfinancial.com
 scrutiny.dev.swiftfinancial.com
 scrutiny.ist.swiftfinancial.com

@@ -4155,6 +4155,8 @@ aspen.lom.ash1.spotify.net
 astrid.lom.lon2.spotify.net
 astrid.lon.spotify.net
 astrid.lon2.spotify.net
+atc-testing-2.certs.spotify.net
+atc-testing-certs.spotify.net
 athena.lom.ash.spotify.net
 atlas.lon.spotify.net
 augustine.lom.ash.spotify.net
@@ -4899,6 +4901,8 @@ corinne.lom.ash1.spotify.net
 coupa.spotify.net
 courtney.ash1.spotify.net
 courtney.lom.ash1.spotify.net
+cppm-dc-lon-1.office.spotify.net
+cppm-dc-us-2.office.spotify.net
 cqzk212.sto5.spotify.net
 crashdump.sto.spotify.net
 creatives.spotify.net
@@ -9344,6 +9348,7 @@ jira-hackweek.spotify.net
 jira-restore.spotify.net
 jira-stage.spotify.net
 jira.spotify.net
+jira.staging.spotify.net
 jira.uat.spotify.net
 jiratest-aws.spotify.net
 jkf2302.lon3.spotify.net
@@ -9795,6 +9800,7 @@ krista.sto.spotify.net
 kristabel.lom.sto1.spotify.net
 kristabel.sto.spotify.net
 kristi.lom.lon2.spotify.net
+kubeflow-platform.spotify.net
 kuniko.ash1.spotify.net
 kuniko.lom.ash1.spotify.net
 kylie.lom.sto1.spotify.net
@@ -19093,6 +19099,7 @@ terri.int.sto.spotify.net
 terri.lom.sto1.spotify.net
 terrylyn.lom.lon2.spotify.net
 test.kubeflow-platform.spotify.net
+test1.wasabi.spotify.net
 thebandreunion.spotify.net
 thecla.lom.sto1.spotify.net
 thecla.sto.spotify.net

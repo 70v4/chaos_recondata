@@ -1,6 +1,7 @@
 amp-origin-gcp-dev-np.laurelroad.com
 amp-origin-gcp-prod.laurelroad.com
 amp-origin-gcp-qa-np.laurelroad.com
+amp-origin-gcp-stage-pp.laurelroad.com
 amp-origin-gcp-uat-pp.laurelroad.com
 banking.laurelroad.com
 blaze-np.laurelroad.com
@@ -79,6 +80,7 @@ pl-origin-gcp-uat-pp.laurelroad.com
 pl.laurelroad.com
 qvkey.laurelroad.com
 sandbox.blaze.laurelroad.com
+saving.laurelroad.com
 savings-dev.laurelroad.com
 savings-origin-gcp-np.laurelroad.com
 savings-origin-gcp-uat-pp.laurelroad.com

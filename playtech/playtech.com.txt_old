@@ -1,3 +1,5 @@
+3001.vienna-qa-prtg.playtech.com
+3002.vienna-qa-prtg.playtech.com
 access.playtech.com
 adv.dev.playtech.com
 akatek.marketplace.playtech.com
@@ -6,6 +8,7 @@ api-akatek.marketplace.playtech.com
 api.marketplace.playtech.com
 apps.playtech.com
 ar19.playtech.com
+ar20.playtech.com
 assets.playtech.com
 av-2.playtech.com
 av-3.playtech.com
@@ -55,8 +58,10 @@ p1.playtech.com
 piazzademo.playtech.com
 potool.playtech.com
 pp.playtech.com
+pt-jira.playtech.com
 pt-omi.playtech.com
 pt42banner.demo.playtech.com
+ptcmg.playtech.com
 registration.playtech.com
 reposado.playtech.com
 rgs-jira.playtech.com
@@ -69,12 +74,15 @@ spf-0.playtech.com
 spf-ext1.playtech.com
 spf-mom.playtech.com
 spf-vf.playtech.com
+sts.playtech.com
 tickers.playtech.com
 tms.playtech.com
+travels.playtech.com
 ums-test-mailq.playtech.com
 vault-il.playtech.com
 vfs-vpn001.playtech.com
 vfs-vpn002.playtech.com
+vienna-qa-prtg.playtech.com
 vpn-bg-1.playtech.com
 vpn-bg-2.playtech.com
 vpn-bg.playtech.com
@@ -92,6 +100,8 @@ webconf-ee.playtech.com
 webmail-uk.playtech.com
 webmail-vf.playtech.com
 wings.playtech.com
+www.3001.vienna-qa-prtg.playtech.com
+www.3002.vienna-qa-prtg.playtech.com
 www.akatek.marketplace.playtech.com
 www.apps.playtech.com
 www.dealerpics.playtech.com
@@ -105,9 +115,12 @@ www.p1.playtech.com
 www.playtech.com
 www.potool.playtech.com
 www.pp.playtech.com
+www.ptcmg.playtech.com
 www.rgs-jira.playtech.com
 www.tms.playtech.com
+www.travels.playtech.com
 www.vault-il.playtech.com
+www.vienna-qa-prtg.playtech.com
 www.vpn-bg-1.playtech.com
 www.vpn-bg-2.playtech.com
 www.vpn-bg.playtech.com

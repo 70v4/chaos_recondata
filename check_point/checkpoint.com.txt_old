@@ -72,11 +72,13 @@
 169631781386.dev.cgn.kube1.iaas.checkpoint.com
 17.10.68.217.checkpoint.com
 17.8.68.217.checkpoint.com
+178114573828.dev.cgn.kube1.iaas.checkpoint.com
 18.10.68.217.checkpoint.com
 18.8.68.217.checkpoint.com
 185710917084.dev.cgn.kube1.iaas.checkpoint.com
 19.10.68.217.checkpoint.com
 19.8.68.217.checkpoint.com
+198233491140.dev.cgn.kube1.iaas.checkpoint.com
 2.10.68.217.checkpoint.com
 2.8.68.217.checkpoint.com
 20.10.68.217.checkpoint.com
@@ -608,9 +610,11 @@
 32.8.68.217.checkpoint.com
 33.10.68.217.checkpoint.com
 33.8.68.217.checkpoint.com
+330372055916.logic.941298424820.dev.cgn.kube1.iaas.checkpoint.com
 335257589588.dev.cgn.kube1.iaas.checkpoint.com
 34.10.68.217.checkpoint.com
 34.8.68.217.checkpoint.com
+341837583622.dev.cgn.kube1.iaas.checkpoint.com
 35.10.68.217.checkpoint.com
 35.8.68.217.checkpoint.com
 36.10.68.217.checkpoint.com
@@ -795,6 +799,8 @@ appwiki.us.checkpoint.com
 appwrapping.checkpoint.com
 artemis.us.checkpoint.com
 artemisbk.us.checkpoint.com
+assessment-stg.checkpoint.com
+assessment.checkpoint.com
 atc.checkpoint.com
 athena.us.checkpoint.com
 attdownload.checkpoint.com
@@ -858,6 +864,7 @@ cloudinfra-smartview-dev.kube1.iaas.checkpoint.com
 cloudinfra-smartview.portal.checkpoint.com
 cloudsupport.checkpoint.com
 colbran.checkpoint.com
+colo-vc1.us.checkpoint.com
 community.checkpoint.com
 community.stage.checkpoint.com
 connect.checkpoint.com
@@ -7273,6 +7280,7 @@ epoint4.checkpoint.com
 epointst.checkpoint.com
 etradeil.checkpoint.com
 eu.cloudinfra.kube1.iaas.checkpoint.com
+eu.cloudinfra.portal.checkpoint.com
 eu.esec.iaas.checkpoint.com
 eu1.cgn.kube1.iaas.checkpoint.com
 eu1.cgn.portal.checkpoint.com
@@ -7284,6 +7292,7 @@ extvpn.checkpoint.com
 exweb.checkpoint.com
 fairfax.ott.checkpoint.com
 falconetix.portal.checkpoint.com
+fed.portal.checkpoint.com
 fender-stg.us.checkpoint.com
 fender.us.checkpoint.com
 fiona.checkpoint.com
@@ -7348,6 +7357,7 @@ harry.ts.checkpoint.com
 head-cws.checkpoint.com
 help.checkpoint.com
 hive.checkpoint.com
+hmf.checkpoint.com
 hobbs.us.checkpoint.com
 hogwarts.k12.checkpoint.com
 husker.ts.checkpoint.com
@@ -7384,6 +7394,19 @@ imap1.checkpoint.com
 inbal.checkpoint.com
 info.checkpoint.com
 iniesta.checkpoint.com
+internal.169631781386.dev.cgn.kube1.iaas.checkpoint.com
+internal.178114573828.dev.cgn.kube1.iaas.checkpoint.com
+internal.185710917084.dev.cgn.kube1.iaas.checkpoint.com
+internal.335257589588.dev.cgn.kube1.iaas.checkpoint.com
+internal.370030827932.dev.cgn.kube1.iaas.checkpoint.com
+internal.809814589784.dev.cgn.kube1.iaas.checkpoint.com
+internal.872003886219.dev.cgn.kube1.iaas.checkpoint.com
+internal.ap1.cgn.portal.checkpoint.com
+internal.ap2.cgn.portal.checkpoint.com
+internal.ap3.cgn.portal.checkpoint.com
+internal.eu1.cgn.kube1.iaas.checkpoint.com
+internal.us1.cgn.kube1.iaas.checkpoint.com
+internal.us1.cgn.portal.checkpoint.com
 intl-stg-nat.checkpoint.com
 ip-194.28.74.218.nan45-199.checkpoint.com
 iphone.checkpoint.com
@@ -7406,6 +7429,11 @@ live-cortex-gw.al.product-catalog-prd.checkpoint.com
 live-cortex-gw.al.product-catalog-stg.checkpoint.com
 localhost.ad.checkpoint.com
 logcloud.checkpoint.com
+logic.ap1.cgn.portal.checkpoint.com
+logic.ap2.cgn.portal.checkpoint.com
+logic.ap3.cgn.portal.checkpoint.com
+logic.eu1.cgn.kube1.iaas.checkpoint.com
+logic.eu1.cgn.portal.checkpoint.com
 longhorn.ts.checkpoint.com
 lqmbaseball.us.checkpoint.com
 m.checkpoint.com
@@ -7485,6 +7513,7 @@ origin-www.us.checkpoint.com
 ott.checkpoint.com
 otter.checkpoint.com
 outcast.us.checkpoint.com
+pac.proxypac.checkpoint.com
 pacman-jap.us.checkpoint.com
 pacman-nokia.us.checkpoint.com
 pacman-sc.us.checkpoint.com
@@ -7532,6 +7561,7 @@ push.checkpoint.com
 push.g03.checkpoint.com
 push.g04.checkpoint.com
 q.cloud.checkpoint.com
+qa-app.ap.cloudinfra.kube1.iaas.checkpoint.com
 qa-mailserver.q.cloud.checkpoint.com
 qa.checkpoint.com
 qadns.qa.checkpoint.com
@@ -7571,6 +7601,7 @@ sano.checkpoint.com
 sapdev.checkpoint.com
 sapjobs.checkpoint.com
 sasi.checkpoint.com
+sbm.portal.hmf.checkpoint.com
 sc1.checkpoint.com
 sc2.checkpoint.com
 scrub.checkpoint.com
@@ -7751,9 +7782,12 @@ us-smb-smc.checkpoint.com
 us.checkpoint.com
 us.cloudinfra.kube1.iaas.checkpoint.com
 us.cloudinfra.portal.checkpoint.com
+us1.cgn.kube1.iaas.checkpoint.com
+us1.cgn.portal.checkpoint.com
 usability.checkpoint.com
 uscpm-ca.checkpoint.com
 uscpm.checkpoint.com
+usea1fed.cgn.kube1.iaas.checkpoint.com
 usercenter-dev.checkpoint.com
 usercenter-jstg.checkpoint.com
 usercenter-sndbx.checkpoint.com
@@ -7775,6 +7809,7 @@ virtual-apac.checkpoint.com
 virtual-brazil.checkpoint.com
 virtual-cloud.checkpoint.com
 virtual-cpx-apac.checkpoint.com
+virtual-cpx-dach.checkpoint.com
 virtual-cpx.checkpoint.com
 virtual-czech.checkpoint.com
 virtual-france.checkpoint.com
@@ -7782,8 +7817,10 @@ virtual-italy.checkpoint.com
 virtual-latam.checkpoint.com
 virtual-poland.checkpoint.com
 virtual-russia.checkpoint.com
+virtual-securedatacenter.checkpoint.com
 virtual-sko.checkpoint.com
 virtual-spain.checkpoint.com
+virtual-tech-masters.checkpoint.com
 virtual-uk.checkpoint.com
 virtual-us.checkpoint.com
 vpn-194-28-64-200.checkpoint.com
@@ -7814,6 +7851,7 @@ www.csa.checkpoint.com
 www.demo1500.checkpoint.com
 www.demo600.checkpoint.com
 www.dnsguard.checkpoint.com
+www.dnssecurity.checkpoint.com
 www.enterpriseapps.checkpoint.com
 www.eusync.checkpoint.com
 www.forensics-report.checkpoint.com

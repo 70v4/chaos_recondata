@@ -12,6 +12,7 @@ api-identity-testing.mapbox.com
 api.mapbox.com
 api.tiles.mapbox.com
 apps.mapbox.com
+artifacts-aptest-dns.mapbox.com
 artifacts-artifacts-testing-dns.mapbox.com
 artifacts-childless-dns.mapbox.com
 artifacts-jvd-test-dns.mapbox.com
@@ -70,6 +71,7 @@ staging.mapbox.com
 static-assets.mapbox.com
 status.mapbox.com
 studio.mapbox.com
+substandard-example.mapbox.com
 support.mapbox.com
 testing.mapbox.com
 tiles.mapbox.com

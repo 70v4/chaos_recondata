@@ -1,6 +1,7 @@
 api.bitwarden.com
 blog.bitwarden.com
 cdn.bitwarden.com
+cdn.qa.bitwarden.com
 community.bitwarden.com
 company.bitwarden.com
 fmtrack1.bitwarden.com
@@ -11,6 +12,7 @@ help.bitwarden.com
 host.bitwarden.com
 identity.bitwarden.com
 o1.mail1.bitwarden.com
+qa.bitwarden.com
 status.bitwarden.com
 vault.bitwarden.com
 www.bitwarden.com

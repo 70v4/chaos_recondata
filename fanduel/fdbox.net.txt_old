@@ -1,3 +1,4 @@
+account.fdbox.net
 account.perftest.fdbox.net
 api.use1.perftest.fdbox.net
 apibrowser.east.fdbox.net
@@ -24,6 +25,7 @@ draft-react-pv-lets-encrypt-for-feature-deploys.use1.dev.draft.fdbox.net
 draft-react-pv-multiple-ingress-for-feature-deploy.use1.dev.draft.fdbox.net
 ds-1.east.fdbox.net
 east.fdbox.net
+edin.fdbox.net
 extkdc-1.east.fdbox.net
 extkdc-2.east.fdbox.net
 g1-jenkins.fdbox.net
@@ -44,9 +46,12 @@ mobileproto.east.fdbox.net
 paddypower.devstack-fantasy-api.use1.dev.us.fdbox.net
 perftest.fdbox.net
 phpadmin.use1.perftest.fdbox.net
+playbook.data.dev.fdbox.net
+playbook.data.prod.fdbox.net
 polaris.internal.perftest.k8s.perftest.fdbox.net
 polaris.internal.qa.k8s.perftest.fdbox.net
 prod.uk.fdbox.net
+re-api-prod.fdbox.net
 redpoint.ad.fdbox.net
 redpoint.ad.use1.perftest.fdbox.net
 redpoint.use1.dev.us.fdbox.net
@@ -63,6 +68,7 @@ ukproduct4-api.east.fdbox.net
 use1.dev.us.fdbox.net
 use1.ganmigration.fdbox.net
 use1.perftest.fdbox.net
+vcenter.wv.prod.aw.fdbox.net
 verum.fdbox.net
 vpn-1.east.fdbox.net
 vpn.fdbox.net
@@ -70,8 +76,14 @@ webtitan.fdbox.net
 webtitanuk.fdbox.net
 webtitanus.fdbox.net
 wiki.east.fdbox.net
+wv.prod.aw.fdbox.net
+www.dev.use1.dev.draft.fdbox.net
 www.dir-1.east.fdbox.net
 www.dir-2.east.fdbox.net
 www.ds-1.east.fdbox.net
 www.jenkins.east.fdbox.net
+www.playbook.data.dev.fdbox.net
+www.playbook.data.prod.fdbox.net
+www.staging.use1.dev.draft.fdbox.net
 www.use1.perftest.fdbox.net
+www.vcenter.wv.prod.aw.fdbox.net

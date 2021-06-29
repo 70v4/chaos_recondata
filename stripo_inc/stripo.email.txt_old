@@ -6,6 +6,7 @@ my.stripo.email
 new.stripo.email
 newstaging.stripo.email
 plugins.stripo.email
+rem2.stripo.email
 staging-demo.stripo.email
 staging.empleio.stripo.email
 staging.stripo.email
@@ -27,6 +28,9 @@ stripocdn-test9.stripo.email
 stripocdn-testremote.stripo.email
 stripocdnplugin-staging.stripo.email
 support.stripo.email
+test-plugins-cdt.stripo.email
+test-plugins-lb.stripo.email
+test-plugins-swarm.stripo.email
 test.stripocdn-test.stripo.email
 test.stripocdn-test1.stripo.email
 test.stripocdn-test2.stripo.email

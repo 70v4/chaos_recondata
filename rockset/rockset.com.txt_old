@@ -1,13 +1,18 @@
 api.rs2.usw2.rockset.com
+api.use1a1.rockset.com
 auth.rockset.com
+community.rockset.com
 console.rockset.com
 control.rockset.com
 dev.rockset.com
 dev2.use1.rockset.com
+deva.dev.rockset.com
+devb.dev.rockset.com
 docs.rockset.com
 em.rockset.com
 go.rockset.com
 kube.control.rockset.com
+kube.dev.rockset.com
 lab.dev.rockset.com
 lab242.usw2.vpc.rockset.com
 lab242.vpc.rockset.com
@@ -20,6 +25,8 @@ rs3-use1-rockset-com.use1.rockset.com
 status.rockset.com
 use1.dev.rockset.com
 use1.rockset.com
+use1a01.rockset.com
+use1a1.rockset.com
 usw2.rockset.com
 v.rockset.com
 www.rockset.com

@@ -1,5 +1,7 @@
 acs.secure-code.bunq.com
 android.bunq.com
+api.braze.bunq.com
+api.braze.triage.bunq.com
 api.bunq.com
 api.confirmation.bunq.com
 api.developer.bunq.com
@@ -21,6 +23,8 @@ api.together-login.triage.bunq.com
 api.together.bunq.com
 api.touchtech.bunq.com
 api.translink.bunq.com
+api.vonage.bunq.com
+api.vonage.triage.bunq.com
 api.web.bunq.com
 api.website.bunq.com
 api.widget.bunq.com
@@ -60,6 +64,7 @@ live.ebics.bunq.com
 mail.bunq.com
 mail1.bunq.com
 mail2.bunq.com
+mcid.triage.bunq.com
 mctds.bunq.com
 mcw.bunq.com
 oauth.bunq.com
@@ -90,6 +95,7 @@ switch1.dcg.bunq.com
 tacs.secure-code.bunq.com
 tapi.secure-code.bunq.com
 tapi.touchtech.bunq.com
+test.kvk.bunq.com
 tinker.bunq.com
 together-login.bunq.com
 together-login.triage.bunq.com
@@ -132,6 +138,7 @@ www.sandbox.search.api.bunq.com
 www.slice.bunq.com
 www.smtp.bunq.com
 www.static.bunq.com
+www.test.kvk.bunq.com
 www.together-login.bunq.com
 www.together.bunq.com
 www.tx.bunq.com

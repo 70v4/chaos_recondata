@@ -11,6 +11,8 @@ admin.vonage.com
 aeuwa01.vbcforteams.vonage.com
 aeuwa02.vbcforteams.vonage.com
 aeuwa03.vbcforteams.vonage.com
+aeuwa30.vbcforteams.vonage.com
+aeuwf01.vbcforteams.vonage.com
 aeuwf02.vbcforteams.vonage.com
 aeuwf03.vbcforteams.vonage.com
 agents.vonage.com
@@ -22,6 +24,8 @@ ama.cse.vonage.com
 amp.vonage.com
 apac-cc-test.cse.vonage.com
 apac-cc.cse.vonage.com
+api-eu-3.vonage.com
+api-eu-4.vonage.com
 api-eu.vonage.com
 api-us.uc.vonage.com
 api-us.vonage.com
@@ -65,9 +69,14 @@ aueast101.vbcforteams.vonage.com
 ausea01.vbcforteams.vonage.com
 ausea02.vbcforteams.vonage.com
 ausea03.vbcforteams.vonage.com
+ausea05.vbcforteams.vonage.com
+ausea06.vbcforteams.vonage.com
+ausea30.vbcforteams.vonage.com
 auswa01.vbcforteams.vonage.com
 auswa03.vbcforteams.vonage.com
 auswc01.vbcforteams.vonage.com
+auswc02.vbcforteams.vonage.com
+auswc03.vbcforteams.vonage.com
 autodiscover.vonage.com
 bassb01.vbcforteams.vonage.com
 baueb01.vbcforteams.vonage.com
@@ -82,11 +91,15 @@ brand.vonage.com
 builder-docs.ai.vonage.com
 buseb01.vbcforteams.vonage.com
 buseb02.vbcforteams.vonage.com
+buseb03.vbcforteams.vonage.com
+buseb04.vbcforteams.vonage.com
 business.vonage.com
 businesssupport.vonage.com
 businessupport.vonage.com
 buswb01.vbcforteams.vonage.com
 buswb02.vbcforteams.vonage.com
+buswb03.vbcforteams.vonage.com
+buswb04.vbcforteams.vonage.com
 buy.vonage.com
 c.vonage.com
 c1.vonage.com
@@ -102,8 +115,10 @@ cb.vonage.com
 cc.alpha.vonage.com
 cc.vonage.com
 ccaasbilling.vonage.com
+ccra.uc.vonage.com
 cdn.vivid.vonage.com
 cdr-ftps.vonage.com
+cimb-kt.cse.vonage.com
 circuitcity.vonage.com
 clearpass.vonage.com
 cmp-test.cse.vonage.com
@@ -134,6 +149,7 @@ dialog.vonage.com
 docs.ai.vonage.com
 download.vonage.com
 dream.vonage.com
+dreamlopment.cse.vonage.com
 drift.vonage.com
 dtm.vonage.com
 education-demo.cse.vonage.com
@@ -179,6 +195,7 @@ gcn.vonage.com
 georouter.vonage.com
 goodmannetworks.vonage.com
 grc.vonage.com
+gslink.vonage.com
 guest-wifi.vonage.com
 gunify-dev.vonage.com
 hackathon.vonage.com
@@ -196,10 +213,12 @@ internal-apps.vonage.com
 inventory.vonage.com
 ip-proxy-test.opentok.cse.vonage.com
 ip-proxy.opentok.cse.vonage.com
+ipdivr.uc.vonage.com
 ir.vonage.com
 janus.vonage.com
 jenkins.gunify-dev.vonage.com
 jira.vonage.com
+jp-townhall.cse.vonage.com
 kr.subscribe.vonage.com
 kronos.vonage.com
 launchpad.vonage.com
@@ -207,6 +226,7 @@ launchpadtest.vonage.com
 ldsmeetinghouse.vonage.com
 ldsorders.vonage.com
 learn.vonage.com
+linkando-app.cse.vonage.com
 login.auth-qa.vonage.com
 login.auth-sandbox.vonage.com
 login.auth.vonage.com
@@ -232,6 +252,7 @@ messaging.internal-apps.vonage.com
 mi.vonage.com
 mta.em.vonage.com
 mta.email.vonage.com
+multikeys.cse.vonage.com
 mws-beta.vonage.com
 mws.vonage.com
 mx.surveys.vonage.com
@@ -276,6 +297,7 @@ oci.vonage.com
 oci1.vonage.com
 old.staging-www.vonage.com
 orachkprint.vonage.com
+orion.uc.vonage.com
 pardot.staging-www.vonage.com
 partners.vonage.com
 payment.vonage.com
@@ -304,6 +326,7 @@ qa.api-us.vonage.com
 qa.api.vonage.com
 qa.vb.vonage.com
 radioshack.vonage.com
+reachout.cse.vonage.com
 recordings.vonage.com
 redesign.vonage.com
 refer.vonage.com
@@ -323,6 +346,8 @@ services1.vonage.com
 sfcc-staging.staging-www.vonage.com
 share.vonage.com
 silverback.vonage.com
+singapore-cl.logs.vonage.com
+sip.vbcforteams.vonage.com
 sip.vonage.com
 smetrics.vonage.com
 socials.cse.vonage.com
@@ -352,6 +377,7 @@ surveys.vonage.com
 sync.vonage.com
 talk.vonage.com
 test.vonage.com
+thor.cse.vonage.com
 tietechnology.vonage.com
 tigerdirect.vonage.com
 tls.vbcforteams.vonage.com
@@ -380,6 +406,8 @@ vbc-shell.vonage.com
 vbc.vonage.com
 vbcdeveloper.vonage.com
 vbctraining.vonage.com
+vccstats.vonage.com
+video-api-moderation-demo.cse.vonage.com
 videowall.socials.cse.vonage.com
 vids.vonage.com
 vivid.vonage.com
@@ -430,5 +458,6 @@ xstali.vonage.com
 y.vonage.com
 y1.vonage.com
 y2.vonage.com
+zabbix.vonage.com
 zeus.vonage.com
 zland.vonage.com

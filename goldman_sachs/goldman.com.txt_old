@@ -13,6 +13,7 @@ checkfree-qa.goldman.com
 checkfree.goldman.com
 cobrowse.goldman.com
 cobrowse.qa2.goldman.com
+content-qa.goldman.com
 content-staging.goldman.com
 content.goldman.com
 cwm-qa.goldman.com
@@ -38,6 +39,8 @@ kpmg.invest.goldman.com
 kpmg.pilot.invest.goldman.com
 kpmg.pilot.uat.invest.goldman.com
 kpmg.uat.invest.goldman.com
+login-qa.goldman.com
+login.goldman.com
 login.mfa.goldman.com
 m.goldman.com
 m.origin-pilot.goldman.com

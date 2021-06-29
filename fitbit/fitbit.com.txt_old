@@ -504,6 +504,8 @@ fbindia.store-in.fitbit.com
 feed-moderation.fitbit.com
 fieldtest.fitbit.com
 fieldtesting.fitbit.com
+fiori-test.corp.fitbit.com
+fiori.corp.fitbit.com
 firmwareci.fitbit.com
 fitforfood.fitbit.com
 fitforgood-au.fitbit.com
@@ -645,6 +647,7 @@ jenkins-stage-pr-4.gcp.fitbit.com
 jenkins-stage-pr.gcp.fitbit.com
 jenkins.fitbit.com
 jira.fitbit.com
+jiraprod.fitbit.com
 jobs.fitbit.com
 kibana-qa.fitbit.com
 kibana.fitbit.com
@@ -717,6 +720,7 @@ partner-vpn.corp.fitbit.com
 partners.fitbit.com
 php.fitbit.com
 plus.fitbit.com
+press.fitbit.com
 prod.site-ops.fitbit.com
 proxy-169-45-131-189.fitbit.com
 proxy-169-45-131-68.fitbit.com
@@ -874,6 +878,12 @@ sac03-nw-01.corp.fitbit.com
 sac03-nw-02.corp.fitbit.com
 san02-nw-01.corp.fitbit.com
 sandstorm.firmwareci.fitbit.com
+sap02-fiqa.corp.fitbit.com
+sap02-s4qa.corp.fitbit.com
+sap02-s4qapp.corp.fitbit.com
+sap03-fiprd.corp.fitbit.com
+sap03-s4prd.corp.fitbit.com
+sap03-s4qapp2.corp.fitbit.com
 scale-client.fitbit.com
 scale-client.qa1.fitbit.com
 scale-client.qa2.fitbit.com
@@ -999,6 +1009,7 @@ webmail.store-in.fitbit.com
 wellness.fitbit.com
 whm.qa2store-au.fitbit.com
 wiki.fitbit.com
+wikiprod.fitbit.com
 windchill.fitbit.com
 windows-api.fitbit.com
 windows-cdn-api.fitbit.com

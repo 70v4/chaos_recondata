@@ -5,6 +5,8 @@ app.iris.production.forescoutcloud.net
 app.iris.testing.forescoutcloud.net
 core.forescoutcloud.net
 csotools.acceptance.forescoutcloud.net
+csotools.development.forescoutcloud.net
+csotools.testing.forescoutcloud.net
 datapod-1-ingest.development.forescoutcloud.net
 datapod-1-ingest.forescoutcloud.net
 datapod-1-query.development.forescoutcloud.net
@@ -32,6 +34,7 @@ eyesightx.testing.forescoutcloud.net
 gitlab.acceptance.forescoutcloud.net
 gitlab.forescoutcloud.net
 gitlab.production.forescoutcloud.net
+govcloud.development.forescoutcloud.net
 iris.acceptance.forescoutcloud.net
 iris.development.forescoutcloud.net
 iris.production.forescoutcloud.net
@@ -41,8 +44,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmt-sensors.iris.testing.forescoutcloud.net
 mgmtpod-1-dashboard.development.forescoutcloud.net
 mgmtpod-1-dashboard.forescoutcloud.net
+mgmtpod-1-dashboard.govcloud.development.forescoutcloud.net
 mgmtpod-1.development.forescoutcloud.net
 mgmtpod-1.forescoutcloud.net
+mgmtpod-1.govcloud.development.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net

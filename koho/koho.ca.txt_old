@@ -30,6 +30,7 @@ partners.koho.ca
 preprod-app.koho.ca
 rds.internaldb.koho.ca
 register.koho.ca
+shiny-admin.koho.ca
 staging-usercontent.koho.ca
 staging.app.koho.ca
 staging.koho.ca
@@ -43,6 +44,7 @@ web.koho.ca
 wp-dh.koho.ca
 wtfee.koho.ca
 www.api.koho.ca
+www.branding.koho.ca
 www.dcbprod.koho.ca
 www.galerts.pd.koho.ca
 www.galerts.ua.koho.ca

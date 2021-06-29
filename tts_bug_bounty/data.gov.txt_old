@@ -1,4 +1,5 @@
 18f.domains.api.data.gov
+51eb18e3-edda-4952-a28f-ce229dddf12b.ssb.data.gov
 aapi.data.gov
 admin-catalog-bsp.data.gov
 admin-catalog-next.data.gov
@@ -86,6 +87,10 @@ inventory.data.gov
 job-history.hadoop.api.data.gov
 jobkit.data.gov
 jobs.data.gov
+k8s-0233ebad627204b3.ssb-staging.data.gov
+k8s-brokered.ssb-staging.data.gov
+k8s-brokered.ssb.data.gov
+k8s-f7acf13348f6be6b.ssb.data.gov
 kylin.hadoop.api.data.gov
 labs-bsp.data.gov
 labs-staging.data.gov

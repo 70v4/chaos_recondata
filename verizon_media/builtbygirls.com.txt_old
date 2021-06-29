@@ -1,5 +1,7 @@
 api.login.builtbygirls.com
 dev.builtbygirls.com
+eu-stage.builtbygirls.com
+eu.builtbygirls.com
 guce.builtbygirls.com
 jobs.builtbygirls.com
 login.builtbygirls.com
@@ -19,6 +21,9 @@ trunk.api.login.builtbygirls.com
 trunk.guce.builtbygirls.com
 trunk.login.builtbygirls.com
 trunk.oidc.builtbygirls.com
+wave-new.builtbygirls.com
+wave-origin.builtbygirls.com
+wave-stage-origin.builtbygirls.com
 wave-stage.builtbygirls.com
 wave.builtbygirls.com
 www.builtbygirls.com

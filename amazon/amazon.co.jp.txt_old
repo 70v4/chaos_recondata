@@ -7,6 +7,8 @@ accelerator.amazon.co.jp
 account-musiccentral.amazon.co.jp
 account-status.amazon.co.jp
 account-vdp.amazon.co.jp
+account.hub.amazon.co.jp
+account.hubportal.amazon.co.jp
 account.kdp.amazon.co.jp
 account.kep.amazon.co.jp
 account.videocentral.amazon.co.jp
@@ -62,7 +64,11 @@ avs-idrs.amazon.co.jp
 aws-beta.amazon.co.jp
 aws.amazon.co.jp
 awseb-e-m-awsebloa-1ktl12dj9gliz-1739923227.us-east-1.elb.amazon.co.jp
+billing-kdp.amazon.co.jp
+billing-kep-eu.amazon.co.jp
+billing-kep.amazon.co.jp
 billing-musiccentral.amazon.co.jp
+billing-p2k.amazon.co.jp
 billing-videocentral.amazon.co.jp
 billing-videodirect.amazon.co.jp
 blueprints.amazon.co.jp
@@ -202,6 +208,7 @@ payments-v2.amazon.co.jp
 payments.amazon.co.jp
 photos-internal.aka.amazon.co.jp
 photos.amazon.co.jp
+pinnacle-api.amazon.co.jp
 prime.amazon.co.jp
 primenow.amazon.co.jp
 product.browserapps.amazon.co.jp
@@ -212,6 +219,8 @@ rcm.amazon.co.jp
 read.amazon.co.jp
 reinstate.amazon.co.jp
 relay.amazon.co.jp
+rental-account.hub.amazon.co.jp
+rental-account.hubportal.amazon.co.jp
 reporter.browserapps.amazon.co.jp
 retail-smtp-in-fe.amazon.co.jp
 rr19.sellercentral.amazon.co.jp
@@ -234,6 +243,7 @@ services.amazon.co.jp
 sesblog.amazon.co.jp
 sha256.webservices.amazon.co.jp
 shm.amazon.co.jp
+sierra-discovery.amazon.co.jp
 skills-store.amazon.co.jp
 soap.amazon.co.jp
 sp.amazon.co.jp
@@ -245,6 +255,8 @@ ssofaast.private.amazon.co.jp
 ssofaast.wms.amazon.co.jp
 static.amazon.co.jp
 storage.browserapps.amazon.co.jp
+storyplayer-photos.amazon.co.jp
+storyplayerbeta-photos.amazon.co.jp
 supplychainconnect.amazon.co.jp
 support.amazon.co.jp
 t1-completion.amazon.co.jp
@@ -266,6 +278,7 @@ vendorcentral.amazon.co.jp
 vendorexpress.amazon.co.jp
 vendornet.amazon.co.jp
 videocentral.amazon.co.jp
+videochat.amazon.co.jp
 videodirect.amazon.co.jp
 vine.amazon.co.jp
 watch.amazon.co.jp

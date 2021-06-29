@@ -85,6 +85,7 @@ dev.opensource.engcom.magento.com
 devdocs-beta.magento.com
 devdocs-jenkins.corp.magento.com
 devdocs.magento.com
+devdp-vault.corp.magento.com
 developer-api.magento.com
 developer-enh.magento.com
 developer-stg-api.magento.com
@@ -92,6 +93,7 @@ developer-stg.magento.com
 developer.magento.com
 developer2.magento.com
 devops.magento.com
+devpy-vault.corp.magento.com
 dmexco.magento.com
 docker.magento.com
 docs-beta.magento.com
@@ -115,6 +117,7 @@ email2.magento.com
 engcom.corp.magento.com
 engcom.dev.magento.com
 enterprise.magento.com
+eu-central-1.drp.sparta.ceng.magento.com
 eu-west-1.prd.sparta.ceng.magento.com
 europeservices.magento.com
 events.magento.com
@@ -128,6 +131,7 @@ go.magento.com
 golinks.magento.com
 gp.magento.com
 gpt.magento.com
+grpc.stg.ceng.magento.com
 gslink.magento.com
 gts.ecg.magento.com
 guide.magento.com
@@ -191,7 +195,11 @@ marketplace-stg2.magento.com
 marketplace-stg3.magento.com
 marketplace.magento.com
 marketplacesupport.magento.com
+mcc.prd.swat.magento.com
+mcc.stg.swat.magento.com
 mcom.magento.com
+mcprod.sandbox.ceops.corp.magento.com
+mcstaging.sandbox.ceops.corp.magento.com
 mcus-staging.ecg.magento.com
 mcus.ecg.magento.com
 meesa.magento.com
@@ -279,6 +287,7 @@ sandbox-ps.payments.magento.com
 sandbox-shared-cfg-srvc.payments.magento.com
 sandbox-sl.payments.magento.com
 sandbox.api.magento.com
+sandbox.ceops.corp.magento.com
 sandbox.magento.com
 sbi16proxy.bcn.magento.com
 server.magento.com
@@ -334,6 +343,8 @@ umg.mcom.magento.com
 us-east-1.stg.sparta.ceng.magento.com
 us-west-2.prd.sparta.ceng.magento.com
 us-west-2.stg.sparta.ceng.magento.com
+vault-qarepo.corp.magento.com
+vault-repo.corp.magento.com
 venia.magento.com
 vf-jn-prod.ecg.magento.com
 videos.magento.com
@@ -359,6 +370,7 @@ www.partners.magento.com
 www.pbqa.magento.com
 www.prod.magento.com
 www.random.magento.com
+www.sandbox.ceops.corp.magento.com
 www.standard.magento.com
 www.videos.magento.com
 www1.magento.com

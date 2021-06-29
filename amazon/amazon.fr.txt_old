@@ -50,6 +50,10 @@ authorcentral.amazon.fr
 autodiscover.amazon.fr
 avs-idrs.amazon.fr
 aws.amazon.fr
+billing-hubportal.amazon.fr
+billing-kep.amazon.fr
+billing-p2k.amazon.fr
+billing-partnercentral.amazon.fr
 blueprints.amazon.fr
 brandanalytics.amazon.fr
 brandregistry.amazon.fr
@@ -178,6 +182,8 @@ soap.amazon.fr
 static.amazon.fr
 storage-browserapps.amazon.fr
 storage.browserapps.amazon.fr
+storyplayer-photos.amazon.fr
+storyplayerbeta-photos.amazon.fr
 supplychainconnect.amazon.fr
 supplychainschool-org-au.mail.protection.outlook.comonnect.amazon.fr
 support.amazon.fr

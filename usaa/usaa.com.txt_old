@@ -20,6 +20,7 @@ adfs2token.usaa.com
 adfs3token.usaa.com
 adfsprodtoken.usaa.com
 admin.prodwfmweb22lsat.usaa.com
+aem-dev.usaa.com
 aem-test.usaa.com
 aem.usaa.com
 affinity.usaa.com
@@ -129,6 +130,7 @@ contactus5.usaa.com
 contactus6.usaa.com
 content.usaa.com
 content2.usaa.com
+contentapi.usaa.com
 copart-client-test.usaa.com
 copart-encrypt-test.usaa.com
 copart-signing-test.usaa.com
@@ -381,6 +383,9 @@ gw-int-itc1-mydesktop.usaa.com
 gw-int-itc2-mydesktop.usaa.com
 gw-int-mydesktop-bsvc.usaa.com
 gw-int-mydesktop-dfw.usaa.com
+gw-int-mydesktop-eq1.usaa.com
+gw-int-mydesktop-eq2.usaa.com
+gw-int-mydesktop-eq3.usaa.com
 gw-int-mydesktop-itc.usaa.com
 gw-int-mydesktop-qa-bsvc.usaa.com
 gw-int-mydesktop-qa-c1.usaa.com
@@ -398,6 +403,9 @@ gw-my3pdesktop-dfw1.usaa.com
 gw-my3pdesktop-dfw2.usaa.com
 gw-my3pdesktop-dfw3.usaa.com
 gw-my3pdesktop-dfw4.usaa.com
+gw-my3pdesktop-eq1.usaa.com
+gw-my3pdesktop-eq2.usaa.com
+gw-my3pdesktop-eq3.usaa.com
 gw-my3pdesktop-itc.usaa.com
 gw-my3pdesktop-itc1.usaa.com
 gw-my3pdesktop-itc2.usaa.com
@@ -456,6 +464,7 @@ int-vdi-lb-itc.usaa.com
 int-vdi.usaa.com
 internal-mobilemail.usaa.com
 internal.prodisepsndf.usaa.com
+iojs.usaa.com
 ist.mall.usaa.com
 itc.nvoice.usaa.com
 itcanwait.usaa.com
@@ -474,6 +483,7 @@ live2backup.utv.usaa.com
 live2primary.utv.usaa.com
 live3backup.utv.usaa.com
 live3primary.utv.usaa.com
+liveassist-testl.usaa.com
 liveassist.usaa.com
 liveassist11.usaa.com
 liveassist11test.usaa.com
@@ -495,6 +505,7 @@ lyncdiscover.internal.usaa.com
 lyncdiscover.usaa.com
 lyncmeet.internal.usaa.com
 lyncmeet.usaa.com
+m.emac.usaa.com
 m.ist.mall.usaa.com
 m.mall.usaa.com
 m.mydesktop.usaa.com
@@ -626,6 +637,7 @@ myapps.usaa.com
 mycccportal-client-test.usaa.com
 mycccportal-client.usaa.com
 mydesktop-qa.usaa.com
+mydesktop-sr.usaa.com
 mydesktop.usaa.com
 mydesktop2.usaa.com
 mydesktopcloud1.usaa.com
@@ -739,6 +751,7 @@ prodcxsf-b2b-bsvc.usaa.com
 prodcxsf-b2b-itc.usaa.com
 prodcxsf-ctxdal.usaa.com
 prodcxsf-emp-util-dfw.usaa.com
+prodcxsf-eq1-int.usaa.com
 prodcxsf-ex1-itc.usaa.com
 prodcxsf-ex2-bsvc.usaa.com
 prodcxsf-my3pdesktop-dfw1.usaa.com
@@ -938,6 +951,7 @@ prodwfmweb24lsat.usaa.com
 prodxen.usaa.com
 propki.test.usaa.com
 ps.usaa.com
+pxlbh001.digital-0001-dev.awstest.usaa.com
 qa.servicenow.salesforce.usaa.com
 qamylife.usaa.com
 qamytotalrewards.usaa.com
@@ -950,27 +964,33 @@ rapi.usaa.com
 rapi2.usaa.com
 rauthn.usaa.com
 rcontent.usaa.com
+rcontentapi.usaa.com
 realco.usaa.com
 rempauthn.usaa.com
 rempauthntoken.usaa.com
 repo-bsvc.usaa.com
 repo-itc.usaa.com
 repo.usaa.com
+res.emac.usaa.com
 reviews.usaa.com
 rguest.usaa.com
+riojs.usaa.com
 rl.usaa.com
 rlogin.usaa.com
 rlogintoken.usaa.com
 rlogintoken2.usaa.com
 rmapi.usaa.com
+rmcontentapi.usaa.com
 rmguest.usaa.com
 rmobile.usaa.com
 rmobileapps.usaa.com
+rmstatic.usaa.com
 rmvt.usaa.com
 rnvoice.usaa.com
 ropenshift.usaa.com
 rs.usaa.com
 rservice2.usaa.com
+rstatic.usaa.com
 rvlagg.usaa.com
 rvlapi.usaa.com
 rwa.connect.usaa.com
@@ -1065,6 +1085,7 @@ sso.usaa.com
 sso2.usaa.com
 stage.mall.usaa.com
 start.usaa.com
+static.usaa.com
 statmc.usaa.com
 statmcstg.usaa.com
 statmcstgnow.usaa.com
@@ -1079,6 +1100,7 @@ surveytest.usaa.com
 svi.mq.usaa.com
 t-xenmobile.usaa.com
 t-xmappc.usaa.com
+t.emac.usaa.com
 techx.usaa.com
 test-iaa-client.usaa.com
 test-lexisnexis-client.usaa.com

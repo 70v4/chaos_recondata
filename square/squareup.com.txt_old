@@ -679,6 +679,7 @@ ocrcard-staging-connect.squareup.com
 opendir1.corp.squareup.com
 opendir2.corp.squareup.com
 openid.squareup.com
+origin.squareup.com
 pad.squareup.com
 passkit.p.sjc1.squareup.com
 passkit.stage.squareup.com
@@ -1359,3 +1360,4 @@ xe-2-2-0-0.br01.lax1.squareup.com
 xe-2-2-1-0.br01.lax1.squareup.com
 xe-3-1-1xe-2-2-0-0.br01.lax1.squareup.com
 xi1-0.br01.lax1.squareup.com
+xmstest.squareup.com

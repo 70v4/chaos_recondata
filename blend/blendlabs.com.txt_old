@@ -223,6 +223,8 @@ htlenders.blendlabs.com
 huntmortgage.blendlabs.com
 iberia.blendlabs.com
 infosec.blendlabs.com
+infosec.us-east-1.blendlabs.com
+infosec.us-west-2.blendlabs.com
 inspirehomeloans.blendlabs.com
 int.blendlabs.com
 internal.blendlabs.com
@@ -234,6 +236,8 @@ k8s-mirror.data.blendlabs.com
 k8s-mirror.infosec.blendlabs.com
 k8s.data.blendlabs.com
 k8s.infosec.blendlabs.com
+k8s.infosec.us-east-1.blendlabs.com
+k8s.infosec.us-west-2.blendlabs.com
 kellermortgage.blendlabs.com
 knox.blendlabs.com
 legacymutual-default.beta.blendlabs.com
@@ -334,6 +338,8 @@ rpm.preprod.blendlabs.com
 rural1st.blendlabs.com
 sabadell-default.beta.blendlabs.com
 sandbox.blendlabs.com
+sandbox.us-east-1.blendlabs.com
+sandbox.us-west-2.blendlabs.com
 securityff.blendlabs.com
 sfcu.blendlabs.com
 sgmail.blendlabs.com
@@ -352,15 +358,19 @@ swbcmortgage-default.beta.blendlabs.com
 swbcmortgage.blendlabs.com
 swbcmortgage.preprod.blendlabs.com
 synovus.blendlabs.com
+terraform.blendlabs.com
 test-cert.beta.blendlabs.com
 test-cert.preprod.blendlabs.com
 test.blendlabs.com
+test.terraform.blendlabs.com
 test01.test.blendlabs.com
 texastechfcu.blendlabs.com
 tier1lending-default.beta.blendlabs.com
 tier1lending.blendlabs.com
 tjcmortgage.blendlabs.com
 tools.blendlabs.com
+tools.us-east-1.blendlabs.com
+tools.us-west-2.blendlabs.com
 totalmortgage.blendlabs.com
 training.blendlabs.com
 trident.blendlabs.com
@@ -370,6 +380,8 @@ uikit.blendlabs.com
 unitedcommunity.blendlabs.com
 unitedmortgage.blendlabs.com
 upwellmortgage.blendlabs.com
+us-east-1.sandbox.blendlabs.com
+us-west-2.sandbox.blendlabs.com
 usbank-default.beta.blendlabs.com
 usbank-dev.beta.blendlabs.com
 usbank-test.beta.blendlabs.com

@@ -1,3 +1,4 @@
+adammanco.mtn.com
 aemail.mtn.com
 annualreport.mtn.com
 api.cluster-01.az-euwest.api.mtn.com
@@ -9,17 +10,21 @@ api.prod01.rwa.api.mtn.com
 api.prod01.uga.api.mtn.com
 api.prod01b.uga.api.mtn.com
 api.prod02.uga.api.mtn.com
+api.prod02b.uga.api.mtn.com
 api.staging.gha.api.mtn.com
 api.staging.uga.api.mtn.com
 api.staging01.nga.api.mtn.com
+api.staging02.uga.api.mtn.com
 apps.prod01.gha.api.mtn.com
 apps.prod01.nga.api.mtn.com
 apps.prod01.uga.api.mtn.com
 apps.prod01b.uga.api.mtn.com
 apps.prod02.uga.api.mtn.com
+apps.prod02b.uga.api.mtn.com
 apps.staging.gha.api.mtn.com
 apps.staging.uga.api.mtn.com
 apps.staging01.nga.api.mtn.com
+apps.staging02.uga.api.mtn.com
 argocd.apps.cluster-01.az-euwest.api.mtn.com
 autodiscover.mtn.com
 backigee-mg-dev.apps.cluster-01.az-euwest.api.mtn.com
@@ -102,6 +107,7 @@ infra.prod.westeurope.api.mtn.com
 infra.sandbox.westeurope.api.mtn.com
 intmtngroupservices.mtn.com
 intouch.mtn.com
+investor.mtn.com
 isupplier.mtn.com
 itebs.mtn.com
 iuatebs.mtn.com
@@ -109,6 +115,7 @@ jbox.control-plane.westeurope.dojo.api.mtn.com
 jenkins-madapi-cicd.apps.cluster-01.az-euwest.api.mtn.com
 kibana-madapi.apps.cluster-01.az-euwest.api.mtn.com
 labxsp-uc.mtn.com
+labxsp.uc.mtn.com
 lease.ifrs.mtn.com
 lync.mtn.com
 lyncdiscover.mtn.com
@@ -161,6 +168,7 @@ plane.control-plane.westeurope.api.mtn.com
 plane.control-plane.westeurope.dojo.api.mtn.com
 portal.local.mtn.com
 preisupplier.mtn.com
+preprod.developers.mtn.com
 preprod.preprod.westeurope.api.mtn.com
 preprod.preprod.westeurope.dojo.api.mtn.com
 pressh.mtn.com
@@ -176,6 +184,7 @@ sandbox-infra.sandbox.westeurope.api.mtn.com
 sandbox-test.sandbox.westeurope.api.mtn.com
 sandbox.momodeveloper.mtn.com
 sandbox.westeurope.dojo.api.mtn.com
+sbc.uc.mtn.com
 service.mtn.com
 sip.mtn.com
 ssh.mtn.com
@@ -184,6 +193,7 @@ subs-agg-v1-madapi-dev.apps.prod01.rwa.api.mtn.com
 teams.mtn.com
 uae-adc-pex-a-02.vc.mtn.com
 uc.mtn.com
+uga.monitoring.api.mtn.com
 ukmail.mtn.com
 ums.uc.mtn.com
 uss.uc.mtn.com

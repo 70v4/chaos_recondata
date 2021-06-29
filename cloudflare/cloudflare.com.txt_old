@@ -59,6 +59,7 @@ abby.ns.cloudflare.com
 abel.ns.cloudflare.com
 abigail.ns.cloudflare.com
 abuja.ns.cloudflare.com
+abuse.cloudflare.com
 access.cloudflare.com
 achiel.ns.cloudflare.com
 ada.nc.cloudflare.com
@@ -215,6 +216,7 @@ burt.ns.cloudflare.com
 c173-245-53-154.cloudflare.com
 c173-245-61-80.cloudflare.com
 camille.ns.cloudflare.com
+canary.dash.staging.cloudflare.com
 candy.ns.cloudflare.com
 carl.ns.cloudflare.com
 carla.ns.cloudflare.com
@@ -8009,6 +8011,7 @@ cole.ns.cloudflare.com
 colette.ns.cloudflare.com
 colin.ns.cloudflare.com
 coljp.tw.cdn.cloudflare.com
+collector.prio.research.cloudflare.com
 collins.ns.cloudflare.com
 comcortney.ns.cloudflare.com
 community.cloudflare.com
@@ -8265,6 +8268,7 @@ heather.ns.cloudflare.com
 helen.ns.cloudflare.com
 helios.cloudflare.com
 help.ns.cloudflare.com
+helper.prio.research.cloudflare.com
 henrik.ns.cloudflare.com
 henry.ns.cloudflare.com
 hera.ns.cloudflare.com
@@ -8448,6 +8452,7 @@ laura.ns.cloudflare.com
 lavoriamoinsiemeonline.altervista.org.cdn.cloudflare.com
 lazy.ns.cloudflare.com
 le.ns.cloudflare.com
+leader.prio.research.cloudflare.com
 leah.ns.cloudflare.com
 lectio.altervista.org.cdn.cloudflare.com
 lee.ns.cloudflare.com
@@ -16803,9 +16808,13 @@ ssl98489.cloudflare.com
 ssl98490.cloudflare.com
 ssl98491.cloudflare.com
 ssl99926.cloudflare.com
+staging.abuse.cloudflare.com
 staging.cloudflare.com
+staging.sparrow.cloudflare.com
 stan.ns.cloudflare.com
 stanley.ns.cloudflare.com
+static-canary.dash.staging.cloudflare.com
+static.dash.cloudflare.com
 static.dash.staging.cloudflare.com
 stephane.ns.cloudflare.com
 steven.ns.cloudflare.com

@@ -410,7 +410,6 @@
 5peese-covid.slack.com
 5pk-continuousfailure.slack.com
 6-gentilsvirus.slack.com
-6-hackcovid19.slack.com
 6-peese-covid.slack.com
 6.covid-19volunteersuk.slack.com
 6.covidvu.slack.com
@@ -423,7 +422,6 @@
 6wnpj1keb-eomelbourne.slack.com
 6xljgd6cfjq3-ramoonus.slack.com
 7-covid-solutions-com.slack.com
-7-covid19-ventfinder.slack.com
 7-covidzero.slack.com
 7.covid-atlas.slack.com
 7.covid19cz.slack.com
@@ -3130,7 +3128,6 @@ dev1.covid19data.slack.com
 dev1.covid19projec-kyi7956.slack.com
 dev1.rheumcovid-19registry.slack.com
 dev1.slack.com
-dev10.slack.com
 dev100.slack.com
 dev101.slack.com
 dev102.slack.com
@@ -3141,7 +3138,6 @@ dev106.slack.com
 dev107.slack.com
 dev108.slack.com
 dev109.slack.com
-dev11.slack.com
 dev110.slack.com
 dev111.slack.com
 dev112.slack.com
@@ -3152,7 +3148,6 @@ dev116.slack.com
 dev117.slack.com
 dev118.slack.com
 dev119.slack.com
-dev12.slack.com
 dev120.slack.com
 dev121.slack.com
 dev122.slack.com
@@ -3925,7 +3920,6 @@ entdigisummit.slack.com
 enter.slack.com
 enterprise.dev.slack.com
 enterprise.dev1.slack.com
-enterprise.dev10.slack.com
 enterprise.dev100.slack.com
 enterprise.dev101.slack.com
 enterprise.dev102.slack.com
@@ -3936,7 +3930,6 @@ enterprise.dev106.slack.com
 enterprise.dev107.slack.com
 enterprise.dev108.slack.com
 enterprise.dev109.slack.com
-enterprise.dev11.slack.com
 enterprise.dev110.slack.com
 enterprise.dev111.slack.com
 enterprise.dev112.slack.com
@@ -3948,7 +3941,6 @@ enterprise.dev116.slack.com
 enterprise.dev117.slack.com
 enterprise.dev118.slack.com
 enterprise.dev119.slack.com
-enterprise.dev12.slack.com
 enterprise.dev120.slack.com
 enterprise.dev121.slack.com
 enterprise.dev122.slack.com
@@ -7626,7 +7618,6 @@ planez.slack.com
 plant.slack.com
 plate-partners.slack.com
 plateformesencommuns.slack.com
-platform-tls-client.dev.slack.com
 platformcoop.slack.com
 play.slack.com
 playform-io.slack.com
@@ -8618,6 +8609,7 @@ slack-dev-asparagus-wildebeest.slack.com
 slack-dev-copper-duck.slack.com
 slack-dev-eggshell-cat.slack.com
 slack-dev-teal-muskrat.slack.com
+slack-infra-uberproxy-prod.slack.com
 slack-pde.slack.com
 slack-www-dev-hhvm-018c8558e8a479ac7.slack.com
 slack-www-dev-hhvm-06115cfe447b002d7.slack.com

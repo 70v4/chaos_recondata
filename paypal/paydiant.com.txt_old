@@ -76,6 +76,7 @@ con-synchrony.paydiant.com
 connectors.certification.paydiant.com
 connectors.olsprod.paydiant.com
 connectors.production.paydiant.com
+connectors.synchronywallet-bpna.certification.paydiant.com
 connectors.synchronywallet-bpna.production.paydiant.com
 crystalbank.paydiant.com
 cuwallet.sandbox.paydiant.com
@@ -320,6 +321,7 @@ www.barclays-staging.paydiant.com
 www.barclays.qa.paydiant.com
 www.barclays.staging.paydiant.com
 www.certification.paydiant.com
+www.connectors.synchronywallet-bpna.certification.paydiant.com
 www.dev.paydiant.com
 www.devcenter.paydiant.com
 www.ops.external.skybridge.paydiant.com

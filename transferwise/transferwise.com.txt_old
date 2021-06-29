@@ -42,6 +42,7 @@ jobs.transferwise.com
 join.transferwise.com
 jpm-signing.transferwise.com
 jpm.transferwise.com
+kbank-uat.transferwise.com
 kbank.transferwise.com
 kyc-service.transferwise.com
 kyc-test.transferwise.com
@@ -90,7 +91,9 @@ vpnold2.transferwise.com
 widgets.transferwise.com
 www.api-sandbox.transferwise.com
 www.citi.transferwise.com
+www.jpm-signing.transferwise.com
 www.jpm.transferwise.com
+www.kbank-uat.transferwise.com
 www.kbank.transferwise.com
 www.ocbc-my-signing.transferwise.com
 www.ocbc-my-uat.transferwise.com

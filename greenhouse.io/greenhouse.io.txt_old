@@ -101,6 +101,7 @@ cbagarve.api.greenhouse.io
 cdn.greenhouse.io
 cdn.marketing.greenhouse.io
 cdn.onboarding.greenhouse.io
+certificatetest.greenhouse.io
 certle-test.bogus.dev.greenhouse.io
 certle.dev.greenhouse.io
 che.api.greenhouse.io
@@ -305,6 +306,7 @@ scout24.greenhouse.io
 sendgrid.greenhouse.io
 services.greenhouse.io
 servicesource.greenhouse.io
+sharp.services.greenhouse.io
 siee.greenhouse.io
 signatures.greenhouse.io
 sip.greenhouse.io
@@ -322,6 +324,7 @@ staging-api2.services.greenhouse.io
 staging-boards.greenhouse.io
 staging-cdn.onboarding.greenhouse.io
 staging-ghcalendar.greenhouse.io
+staging-sharp.services.greenhouse.io
 staging.greenhouse.io
 static.greenhouse.io
 status.greenhouse.io

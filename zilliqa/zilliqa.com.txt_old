@@ -1,6 +1,8 @@
 api.zilliqa.com
+api2.zilliqa.com
 apidocs.zilliqa.com
 athena-api-hg-dev.zilliqa.com
+athena-api.zilliqa.com
 athena-hg-dev.zilliqa.com
 athena.api.dev.zilliqa.com
 athena.dev.zilliqa.com
@@ -27,6 +29,7 @@ lookup.zilliqa.com
 mainnet-istana-multiplier-0.mainnet.aws.zilliqa.com
 mainnet-join.zilliqa.com
 mainnet.aws.zilliqa.com
+multisig.zilliqa.com
 nucleus-server.zilliqa.com
 occam-hg-dev.zilliqa.com
 prd-polls.zilliqa.com
@@ -46,15 +49,18 @@ stg-governance-api.zilliqa.com
 stg-governance.zilliqa.com
 stg-ide.zilliqa.com
 stg-mainnet-stake.zilliqa.com
+stg-multisig.zilliqa.com
 stg-nucleus-server.zilliqa.com
 stg-occam.zilliqa.com
 stg-polls.zilliqa.com
 stg-scilla-server.zilliqa.com
 stg-security.zilliqa.com
 stg-social.zilliqa.com
+stg-stake.zilliqa.com
 stg-staking-viewer.zilliqa.com
 stg-testnet-stake.zilliqa.com
 stg-vote.zilliqa.com
+stg-whitelabel.zilliqa.com
 stg-zilliqa-isolated-faucet.zilliqa.com
 stg-zilliqa-isolated-server.zilliqa.com
 testnet-faucet.zilliqa.com
@@ -62,6 +68,7 @@ testnet-join.zilliqa.com
 testnet-stake.zilliqa.com
 testnet-viewer.zilliqa.com
 wallet.zilliqa.com
+whitelabel.zilliqa.com
 www.blog.zilliqa.com
 www.zilliqa.com
 zilliqa-isolated-faucet.zilliqa.com

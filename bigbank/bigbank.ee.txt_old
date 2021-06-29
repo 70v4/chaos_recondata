@@ -1,5 +1,6 @@
 arilaen.bigbank.ee
 auth.bigbank.ee
+banking.bigbank.ee
 banking.staging.bigbank.ee
 cert-test0.bigbank.ee
 cert-test1.bigbank.ee
@@ -12,6 +13,7 @@ id-card.staging.bigbank.ee
 idcard.bigbank.ee
 kampaania.bigbank.ee
 localhost.bigbank.ee
+maintenance.bigbank.ee
 mcc.bigbank.ee
 mobile-id.staging.bigbank.ee
 mobileid.bigbank.ee
@@ -20,6 +22,7 @@ ngw.bigbank.ee
 ngwet.bigbank.ee
 ngwnet.bigbank.ee
 ngwnl.bigbank.ee
+ngwse.bigbank.ee
 okd.bigbank.ee
 osn0.bigbank.ee
 osn1.bigbank.ee
@@ -43,6 +46,7 @@ suveauto.bigbank.ee
 taotlus.bigbank.ee
 taotlused.bigbank.ee
 uilab.bigbank.ee
+welcome.bigbank.ee
 www.bigbank.ee
 www.mobileid.bigbank.ee
 www.partner-api.bigbank.ee

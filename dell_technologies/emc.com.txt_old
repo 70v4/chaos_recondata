@@ -436,7 +436,6 @@ boi01-01m01-sw01.isus.emc.com
 boomi.emc.com
 boomiinternal-prd.isus.emc.com
 boomiinternal-sit.isus.emc.com
-boomiinternal-uat.isus.emc.com
 boomiinternal.isus.emc.com
 bor01-01m01-ds01.isus.emc.com
 bor01-01m01-gw01.isus.emc.com
@@ -587,7 +586,6 @@ cen01-01m01-sw01.isus.emc.com
 centera.bz.emc.com
 centera.isus.emc.com
 centera.tv.emc.com
-centera.ws.emc.com
 centerstage.emc.com
 centerstagecma.corp.emc.com
 cf.isus.emc.com
@@ -701,7 +699,6 @@ cloudconnect-usa-east.emc.com
 cloudconnect-usa-south.emc.com
 cloudconnect-usa-west.emc.com
 cloudiq.emc.com
-cloudiqint.emc.com
 cloudiqprdngsso.emc.com
 cloudiqstg.emc.com
 clpepss.emc.com
@@ -745,6 +742,7 @@ con01-01m01-ds01.isus.emc.com
 con01-01m01-hb01.isus.emc.com
 conf.msp.emc.com
 connect.emc.com
+connectivityhub-prd.cfp.isus.emc.com
 connectrix.isus.emc.com
 console.emc.com
 consultingblogs.emc.com
@@ -5546,6 +5544,7 @@ frkv15104.isus.emc.com
 frkv15105.isus.emc.com
 frkv15106.isus.emc.com
 frkv15108.isus.emc.com
+frkv15109.isus.emc.com
 frkv15110.isus.emc.com
 frkv15111.isus.emc.com
 frkv15112.isus.emc.com
@@ -5975,6 +5974,8 @@ gep.isus.emc.com
 germany.lss.emc.com
 germanyfeeds.emc.com
 gersacnt4.isus.emc.com
+getpaid.isus.emc.com
+getpaidtst.isus.emc.com
 ghana.emc.com
 git-cd.isus.emc.com
 globalization.isus.emc.com
@@ -5991,6 +5992,9 @@ goldmine.isus.emc.com
 got01-01c01-gw01.isus.emc.com
 got01-01c01-sw01.isus.emc.com
 gotbettisus.emc.com
+gpaappprd01.corp.emc.com
+gpaapptst01.corp.emc.com
+gpaapptst02.corp.emc.com
 gpd-perftest.emc.com
 gpd.emc.com
 gpdc-perf.m.emc.com
@@ -7497,7 +7501,6 @@ legacyemail.emc.com
 legacymobile.emc.com
 legal.isus.emc.com
 lek.emc.com
-lesotho.emc.com
 lfrk2253.isus.emc.com
 lfrk232.isus.emc.com
 lgtowebo1.isus.emc.com
@@ -7630,7 +7633,6 @@ login.scfcs.isus.emc.com
 login.scfd.isus.emc.com
 login.scfp.isus.emc.com
 login.scfsd.isus.emc.com
-login.scfsp.isus.emc.com
 login.scfsq.isus.emc.com
 login.scft.isus.emc.com
 logstash-drmdev.isus.emc.com
@@ -7923,7 +7925,6 @@ maso1dc1.isus.emc.com
 maso1dc2.isus.emc.com
 maso1fp2.isus.emc.com
 matappprd01.emc.com
-mauritius.emc.com
 mawe1dc1.isus.emc.com
 mawe1dc2.isus.emc.com
 mawe1fp2.isus.emc.com
@@ -10307,6 +10308,10 @@ nglmobile.emc.com
 nglwm.emc.com
 ngmobile.emc.com
 ngoe-per.emc.com
+ngsso-perf-pks-dur.emc.com
+ngsso-prod-pks-dur.emc.com
+ngsso-prod-pks-pc1.emc.com
+ngsso-prod-pks-s3b.emc.com
 ngsso.emc.com
 ngssodev.emc.com
 ngssodev.isus.emc.com
@@ -10459,7 +10464,6 @@ optiotest01.isus.emc.com
 orderstatus-dev.emc.com
 orderstatus-prf.emc.com
 orderstatus-qas.emc.com
-orderstatus-qav.emc.com
 orderstatus-qax.emc.com
 orderstatus-qaxsem.emc.com
 orderstatus.emc.com
@@ -10633,7 +10637,6 @@ pfcnwprfcln08.dmz.emc.com
 pfcnwprfcln09.dmz.emc.com
 pfcnwuatadc04.corp.emc.com
 pfcnwuatcln05.dmz.emc.com
-pfcnwuatcln06.dmz.emc.com
 pfcpwprdcln06.dmz.emc.com
 pfcpwprdcln07.dmz.emc.com
 pfcpwprdcln08.dmz.emc.com
@@ -10697,6 +10700,7 @@ powerstoresizer-beta.emc.com
 powerstoresizer-test.emc.com
 powerstoresizer.emc.com
 ppar1762.isus.emc.com
+pravega.sdp-dsip.oe.sdp.hop.lab.emc.com
 pre01-01c01-gw01.isus.emc.com
 pre01-01c01-sw01.isus.emc.com
 pre01-01c01-sw02.isus.emc.com
@@ -11384,7 +11388,6 @@ sams.emc.com
 sams.isus.emc.com
 san-www.emc.com
 san1-www.emc.com
-san2-www.emc.com
 san3-www.emc.com
 sapbip-prf.propel.emc.com
 sapbip.propel.emc.com
@@ -11614,6 +11617,7 @@ scsizer.emc.com
 sdc85dn1.isus.emc.com
 sdl01-01m01-gw01.isus.emc.com
 sdl01-01m01-sw01.isus.emc.com
+sdp-dsip.oe.sdp.hop.lab.emc.com
 sdxe322a.isus.emc.com
 search.emc.com
 seaworld.isus.emc.com
@@ -12127,8 +12131,6 @@ tyt01-00c01-gw01.isus.emc.com
 uaa-qa.isus.emc.com
 uaa.isus.emc.com
 uaa.scf.isus.emc.com
-uaa.scfcd.isus.emc.com
-uaa.scfcp.isus.emc.com
 uaa.scfcq.isus.emc.com
 uaa.scfcs.isus.emc.com
 uaa.scfd.isus.emc.com

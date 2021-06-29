@@ -78,6 +78,8 @@ api-mobile-as-1p.slb.xfinity.com
 api-mobile-ho-1p.slb.xfinity.com
 api-perf.xoe.xfinity.com
 api-preprod.sc.xfinity.com
+api-preprodeast.sc.xfinity.com
+api-preprodwest.sc.xfinity.com
 api-qa.api.mobile.xfinity.com
 api-qa.mobile.xfinity.com
 api-qa.sc.xfinity.com
@@ -145,6 +147,7 @@ approval.cws.xfinity.com
 approval.xfinity.com
 aquarius.home.xfinity.com
 arscrs.traxion.xfinity.com
+asset.cac.xfinity.com
 assets-np.xfinity.com
 assets.cac.xfinity.com
 assets.dh-platform-icons.xfinity.com
@@ -188,6 +191,7 @@ bill-pay-production.maw-pci.xfinity.com
 bill-pay-qa.maw-pci.xfinity.com
 bill-pay-staging.maw-pci.xfinity.com
 billing-stg-cvr-cf.gslb2.xfinity.com
+bpm-auth.cac.xfinity.com
 br.contour.xfinity.com
 br.tv.xfinity.com
 brand.cws.xfinity.com
@@ -355,6 +359,7 @@ carriers.xfinity.com
 carries.xfinity.com
 ccp.xfinity.com
 ccrpil.traxion.xfinity.com
+cd.cac.xfinity.com
 cdn-ion.cws.xfinity.com
 cdn.business.xfinity.com
 cdn.businesshelp.ch2.int.xfinity.com
@@ -521,9 +526,11 @@ cms8.wcdc.prd.xfinity.com
 cms8.wcdc.stg.xfinity.com
 cms8.xfinity.com
 cms9-build.dev.xfinity.com
+cms9-build.sbox.xfinity.com
 cms9-build.stg.xfinity.com
 cms9-build.xfinity.com
 cms9.dev.xfinity.com
+cms9.sbox.xfinity.com
 cms9.stg.xfinity.com
 cms9.xfinity.com
 cmt.xfinity.com
@@ -661,6 +668,7 @@ connect-mqtt.xfinity.com
 connect-poa.xfinity.com
 connect-qa.xfinity.com
 connect-test.g.xfinity.com
+connect-ucs.xfinity.com
 connect-wcc.xfinity.com
 connect-west.g.xfinity.com
 connect-west.ge.xfinity.com
@@ -891,6 +899,8 @@ doh.xfinity.com
 doh2.gslb2.xfinity.com
 dohpoc1.gslb2.xfinity.com
 dohpoc3.gslb2.xfinity.com
+doorbell-x1-dev.cac.xfinity.com
+doorbell-x1-stage.cac.xfinity.com
 dot-poc1.xfinity.com
 dot-poc2.xfinity.com
 dot.xfinity.com
@@ -997,6 +1007,10 @@ highschoolsports.xfinity.com
 highxdns.g.xfinity.com
 home.xfinity.com
 homewifiassessment.xfinity.com
+honeywellhome-be.iota.prod.xfinity.com
+honeywellhome-be.iota.staging.xfinity.com
+honeywelltcc-be.iota.prod.xfinity.com
+honeywelltcc-be.iota.staging.xfinity.com
 hotspots.wifi.xfinity.com
 hsd-activation-integration.xfinity.com
 hsd-activation-staging.gslb2.xfinity.com
@@ -1006,6 +1020,10 @@ hsd-activation.xfinity.com
 hydra.home.xfinity.com
 ica.qa.xfinity.com
 ica.staging.xfinity.com
+id-dev.platco.xfinity.com
+id-qa.platco.xfinity.com
+id-st.platco.xfinity.com
+id.platco.xfinity.com
 id.xfinity.com
 identity.xfinity.com
 idm-dev.xfinity.com
@@ -1070,6 +1088,8 @@ iot.xfinity.com
 iota-integration.xfinity.com
 iota-staging.xfinity.com
 iota.integration.xfinity.com
+iota.prod.xfinity.com
+iota.staging.xfinity.com
 iota.xfinity.com
 iotplatform-dev.xfinity.com
 iotplatform-int.xfinity.com
@@ -1080,9 +1100,11 @@ is.xfinity.com
 joust.staging.xfinity.com
 joust.xfinity.com
 jss-build.dev.xfinity.com
+jss-build.sbox.xfinity.com
 jss-build.stg.xfinity.com
 jss-build.xfinity.com
 jss.dev.xfinity.com
+jss.sbox.xfinity.com
 jss.stg.xfinity.com
 jss.xfinity.com
 jupiter.home.xfinity.com
@@ -1325,15 +1347,20 @@ np.dotcom2.xfinity.com
 np.salespil.xfinity.com
 np.sdp.xfinity.com
 np.xcp.xfinity.com
+np.xcpre.xfinity.com
 ns.xfinity.com
 nuget-stg.tools.xfinity.com
 nuget.tools.xfinity.com
 oascentral.xfinity.com
+oauth-dev.platco.xfinity.com
 oauth-dev.xfinity.com
 oauth-perf.xfinity.com
+oauth-qa.platco.xfinity.com
 oauth-qa.xfinity.com
+oauth-st.platco.xfinity.com
 oauth-st.xfinity.com
 oauth.g.xfinity.com
+oauth.platco.xfinity.com
 oauth.xfinity.com
 oauthservice-redirect-us-east-1.oauthlink.iot-int.xfinity.com
 offer-eligibility.spil.xfinity.com
@@ -1810,6 +1837,7 @@ qaefs-sdx.cms.xfinity.com
 qaresedir-p.ge.xfinity.com
 qasecure.qa.xfinity.com
 qasmtp.ge.xfinity.com
+r360-dm.aws-origin.xfinity.com
 rascal.cws.xfinity.com
 rascal01-c.aws-ebiz.xfinity.com
 rascal01-e.aws-ebiz.xfinity.com
@@ -2085,6 +2113,7 @@ speedtestdev.xfinity.com
 speedtestqa.xfinity.com
 speedteststage.xfinity.com
 speedvalidation.dev.xfinity.com
+speedvalidation.prod.xfinity.com
 speedvalidation.qa.xfinity.com
 speedvalidation.xfinity.com
 speicherofen.iest2.g.xfinity.com
@@ -2235,6 +2264,7 @@ tag-preprod.cxco-chat.xfinity.com
 tag.xchat.xfinity.com
 tartans.xfinity.com
 taurus.home.xfinity.com
+tchosted.stg.xfinity.com
 tchosted.xfinity.com
 teamcity-stg.tools.xfinity.com
 teamcity.tools.xfinity.com
@@ -2443,9 +2473,12 @@ www.api.mobile.xfinity.com
 www.api.soo.xfn-ops.xfinity.com
 www.approval.xfinity.com
 www.arscrs.traxion.xfinity.com
+www.asset.cac.xfinity.com
 www.at.encoder.xfinity.com
 www.billing-stg-cvr-cf.gslb2.xfinity.com
+www.bpm-auth.cac.xfinity.com
 www.caapi.xfinity.com
+www.cac.xfinity.com
 www.cacv.xfinity.com
 www.caevents.xfinity.com
 www.care-portal-dev.xfinity.com
@@ -2453,6 +2486,7 @@ www.care-portal-st.xfinity.com
 www.care-portal.xfinity.com
 www.careui-perf.xfinity.com
 www.carriers.xfinity.com
+www.cd.cac.xfinity.com
 www.cdn.stringify.xfinity.com
 www.ch2.int.xfinity.com
 www.ch2.prd.xfinity.com
@@ -2503,6 +2537,8 @@ www.developers-st.xfinity.com
 www.developers.xfinity.com
 www.dip-splunk.xfinity.com
 www.doetestdatamanagement.xfinity.com
+www.doorbell-x1-dev.cac.xfinity.com
+www.doorbell-x1-stage.cac.xfinity.com
 www.dpp.xfinity.com
 www.ebzsched.xfinity.com
 www.emails.xfinity.com
@@ -2835,6 +2871,7 @@ xfwstsi.gslb2.xfinity.com
 xfwstsi.xfinity.com
 xh-joust.staging.xfinity.com
 xh-joust.xfinity.com
+xh-onboarding.xfinity.com
 xh-x1.xfinity.com
 xhcoxcls-qa.gslb2.xfinity.com
 xhcoxcls-qa.gslb4.xfinity.com
@@ -2850,6 +2887,18 @@ xhome-web-staging-dark.g.xfinity.com
 xhome-web-staging.g.xfinity.com
 xhome-web-tps-dark.g.xfinity.com
 xhome-web-tps.g.xfinity.com
+xm-api-build.dev.xfinity.com
+xm-api-build.stg.xfinity.com
+xm-api-build.xfinity.com
+xm-api-preview-build.dev.xfinity.com
+xm-api-preview-build.stg.xfinity.com
+xm-api-preview-build.xfinity.com
+xm-api-preview.dev.xfinity.com
+xm-api-preview.stg.xfinity.com
+xm-api-preview.xfinity.com
+xm-api.dev.xfinity.com
+xm-api.stg.xfinity.com
+xm-api.xfinity.com
 xm-devtools.xfinity.com
 xm-octopus.xfinity.com
 xm-octopusdeploy.xfinity.com
@@ -2883,6 +2932,7 @@ xmdevportal.xfinity.com
 xmidentiftyserver.xfinity.com
 xmobile-d2c.xfinity.com
 xmt360.xfinity.com
+xmtechdeal.xfinity.com
 xmtools.xfinity.com
 xoe-admin.cws.xfinity.com
 xoe-portal-perf.cws.xfinity.com

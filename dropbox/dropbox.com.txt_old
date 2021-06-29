@@ -1357,6 +1357,7 @@ callus.ext.corp.dropbox.com
 canary-cf.dropbox.com
 canary-client.dropbox.com
 canary.dropbox.com
+capture.dropbox.com
 careers.paper.dropbox.com
 careers.showcase.dropbox.com
 carousel.dropbox.com
@@ -3132,6 +3133,8 @@ publishing-preview.showcase.dropbox.com
 puppet.corp.dropbox.com
 remote.paper.dropbox.com
 remote.showcase.dropbox.com
+replay-api-live.dropbox.com
+replay.dropbox.com
 retail.paper.dropbox.com
 retail.showcase.dropbox.com
 roi.dropbox.com
@@ -5179,6 +5182,7 @@ stage-1b.v.dropbox.com
 stage.paper.dropbox.com
 stage.showcase.dropbox.com
 stage.v.dropbox.com
+stageisdown.dropbox.com
 staging.paper.dropbox.com
 staging.showcase.dropbox.com
 stat-engine.pp.dropbox.com
@@ -5227,6 +5231,7 @@ test.composer.dropbox.com
 test.paper.dropbox.com
 test.showcase.dropbox.com
 texter.dropbox.com
+tfe.pp.dropbox.com
 tls.paper.dropbox.com
 tls.showcase.dropbox.com
 tools.paper.dropbox.com

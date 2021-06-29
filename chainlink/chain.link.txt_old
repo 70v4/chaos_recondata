@@ -1,6 +1,8 @@
 acceptance-node.chain.link
 adapter.chain.link
 aggregator-beta.chain.link
+apps.chain.link
+archive.docs.chain.link
 blog.chain.link
 bravenewcoin-rinkeby-node.chain.link
 careers.chain.link
@@ -25,6 +27,7 @@ hack.chain.link
 hello.chain.link
 kaiko.rinkeby.chain.link
 kaiko.ropsten.chain.link
+keeper.chain.link
 ko.chain.link
 kovan.chain.link
 kovan.eth.chain.link
@@ -35,6 +38,8 @@ node.kovan.chain.link
 node.rinkeby.chain.link
 node.ropsten.chain.link
 node.staging.chain.link
+pegswap.chain.link
+research.chain.link
 rinkeby-node.chain.link
 rinkeby.chain.link
 rinkeby.eth.chain.link

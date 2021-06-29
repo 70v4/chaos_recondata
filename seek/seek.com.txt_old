@@ -11,6 +11,7 @@ api-au.rr.seek.com
 api-sg.rr.seek.com
 auth.graphql.seek.com
 auth.seek.com
+cloudflare.test.sg-dev.seek.com
 dev.sg.seek.com
 developer.seek.com
 goallinemovers.seek.com
@@ -21,6 +22,7 @@ info.seek.com
 login.seek.com
 manage.developer.seek.com
 metrics.rr.seek.com
+new-origin.ap-southeast-2.sandbox.external.seek.com
 origin.ap-southeast-1.development.external.seek.com
 origin.ap-southeast-1.production.external.seek.com
 origin.ap-southeast-2.development.external.seek.com
@@ -30,8 +32,13 @@ partner.seek.com
 secure.info.seek.com
 sg-dev.seek.com
 sg.seek.com
+staging.seek.com
 static.rr.seek.com
+status.seek.com
 test.sg-dev.seek.com
 v1.api-sg.rr.seek.com
+waf-upstream.ap-southeast-2.sandbox.external.seek.com
 wafv2-testing-origin.test.sg-dev.seek.com
+www.cloudflare.test.sg-dev.seek.com
 www.seek.com
+www.staging.seek.com

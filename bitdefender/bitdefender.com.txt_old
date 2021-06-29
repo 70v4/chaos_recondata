@@ -32,6 +32,7 @@ archive.bitdefender.com
 asulu-ntsa.bitdefender.com
 asulunacht-ntsa.bitdefender.com
 atlas.bitdefender.com
+attinsight.bitdefender.com
 aur.bitdefender.com
 aut1.bitdefender.com
 aut1a.bitdefender.com
@@ -107,6 +108,9 @@ centraldemo.bitdefender.com
 centralfairpoint-test.bitdefender.com
 channel.bitdefender.com
 chatsupport.bitdefender.com
+checkout-sdk.bitdefender.com
+checkout-service.bitdefender.com
+checkout.bitdefender.com
 chqxmail.bitdefender.com
 cipsec-csi.bitdefender.com
 cipsec-update.bitdefender.com
@@ -201,6 +205,7 @@ gz-lurker-stg-us.bitdefender.com
 gz-lurker-stg.bitdefender.com
 gz-mobile.bitdefender.com
 gz-testing.bitdefender.com
+gzevents.uat.rmm.bitdefender.com
 hello.bitdefender.com
 hive1.bitdefender.com
 hive1a.bitdefender.com
@@ -261,6 +266,8 @@ mail.bitdefender.com
 makyoh.bitdefender.com
 mastercard.bitdefender.com
 matrix.bitdefender.com
+mdr.bitdefender.com
+mdrt.bitdefender.com
 meet.bitdefender.com
 messages.bitdefender.com
 metrics.bitdefender.com
@@ -290,6 +297,7 @@ my2.bitdefender.com
 myacc.bbu.gts.bitdefender.com
 myaccount.bitdefender.com
 nemesis.bitdefender.com
+new.bitdefender.com
 neworders.bitdefender.com
 news.bitdefender.com
 news2.bitdefender.com
@@ -331,6 +339,7 @@ orion.bitdefender.com
 pan-stage.bitdefender.com
 pan.bitdefender.com
 parentaladvisor.bitdefender.com
+partner-marketing.bitdefender.com
 partnerlink.bitdefender.com
 partners.bitdefender.com
 parttest1-ntsa.bitdefender.com
@@ -512,6 +521,7 @@ www.api-stage.pan-stage.bitdefender.com
 www.api.customerzone.bitdefender.com
 www.api.pan.bitdefender.com
 www.atlas.bitdefender.com
+www.attinsight.bitdefender.com
 www.autoreply.bitdefender.com
 www.bd-challenge.bitdefender.com
 www.belt.orion.bitdefender.com
@@ -563,6 +573,7 @@ www.mobicomapi.bitdefender.com
 www.msp.bitdefender.com
 www.my.bitdefender.com
 www.myaccount.bitdefender.com
+www.new.bitdefender.com
 www.neworders.bitdefender.com
 www.nmr.bitdefender.com
 www.notification.bitdefender.com
@@ -575,6 +586,7 @@ www.orion.bitdefender.com
 www.pan-stage.bitdefender.com
 www.pan.bitdefender.com
 www.parentaladvisor.bitdefender.com
+www.partner-marketing.bitdefender.com
 www.partners.bitdefender.com
 www.pemobicomapi.bitdefender.com
 www.psowncloud1.bitdefender.com

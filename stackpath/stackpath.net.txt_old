@@ -49,6 +49,7 @@ ipam1-app1.dal05.sl.central.usa.platform.stackpath.net
 itdash.stackpath.net
 jenkins.platform.stackpath.net
 jira.stackpath.net
+k8s-production-1-gke.platform.stackpath.net
 karma.stackpath.net
 kibana.platform.stackpath.net
 kube-registry.platform.stackpath.net
@@ -101,11 +102,13 @@ www.cosmos.stackpath.net
 www.dir.stackpath.net
 www.dt.stackpath.net
 www.eventviewer.stackpath.net
+www.fisheye.stackpath.net
 www.gitlab.platform.stackpath.net
 www.grafana.platform.stackpath.net
 www.inf.stackpath.net
 www.infra-systems-grpc.internal.stackpath.net
 www.internal.stackpath.net
+www.intranet.stackpath.net
 www.ipam-grpc.compute.stackpath.net
 www.ipam.stackpath.net
 www.jira.stackpath.net
@@ -116,6 +119,7 @@ www.netbox.platform.stackpath.net
 www.pops.stackpath.net
 www.rapid7.security.stackpath.net
 www.scriptengine.platform.stackpath.net
+www.sdapi.platform.stackpath.net
 www.sentry.stackpath.net
 www.serverless-sandbox.platform.stackpath.net
 www.sso.stackpath.net

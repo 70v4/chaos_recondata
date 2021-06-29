@@ -62,6 +62,7 @@ hoi.blend.com
 hub.blend.com
 info.blend.com
 insight.dash.blend.com
+insights.blend.com
 insurance.blend.com
 int.blend.com
 jss.int.blend.com
@@ -78,9 +79,14 @@ k8s.pentest.blend.com
 k8s.preprod.blend.com
 k8s.prod.blend.com
 k8s.tools.blend.com
+k8s.tools.us-east-1.blend.com
+k8s.tools.us-west-2.blend.com
 knowledge.dash.blend.com
 lb.jss.int.blend.com
 ldap.dash.blend.com
+lenderprice.mtls.client.pricing.k8s.beta.blend.com
+lodestar.mtls.client.pricing.k8s.beta.blend.com
+lodestar.mtls.client.pricing.k8s.prod.blend.com
 lodestarfeesmassl.pricing.k8s.beta.blend.com
 master.jss.int.blend.com
 mobile.blend.com
@@ -100,6 +106,7 @@ people.tableau.dash.blend.com
 pollyexpricingmassl.pricing.k8s.beta.blend.com
 pollyexpricingmassl.pricing.k8s.prod.blend.com
 preprod.blend.com
+preprod.us-west-2.blend.com
 pricing.k8s.beta.blend.com
 pricing.k8s.preprod.blend.com
 pricing.k8s.prod.blend.com
@@ -113,6 +120,7 @@ realty.blend.com
 securemail.blend.com
 securitymonkey.dash.blend.com
 send.blend.com
+sftp.int.blend.com
 sitedev.p2.int.blend.com
 snipe-it.int.blend.com
 splunk.dash.blend.com
@@ -128,6 +136,8 @@ test.tableau.dash.blend.com
 title.blend.com
 tk.info.blend.com
 tools.blend.com
+tools.us-east-1.blend.com
+tools.us-west-2.blend.com
 tsppricingmassl.pricing.k8s.beta.blend.com
 twistlock.k8s.tools.blend.com
 twistlock.tools.blend.com
@@ -152,9 +162,11 @@ www.connectivity.blend.com
 www.developers.blend.com
 www.ernstfeesmassl.pricing.k8s.beta.blend.com
 www.forward.blend.com
+www.insights.blend.com
 www.lodestarfeesmassl.pricing.k8s.beta.blend.com
 www.navyfedlossmitmassl.k8s.beta.blend.com
 www.navyfedlossmitmassl.k8s.prod.blend.com
 www.tableau.dash.blend.com
 www.title.blend.com
 www.videos.blend.com
+www.www.insights.blend.com

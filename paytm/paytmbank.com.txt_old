@@ -10,6 +10,7 @@ ds.paytmbank.com
 eis-ite.paytmbank.com
 eis-staging.paytmbank.com
 eis.paytmbank.com
+fastag-acquirer-inbound.paytmbank.com
 hydriresa01-inout01.paytmbank.com
 mudciresa01-inout01.paytmbank.com
 mudciresa02-inout01.paytmbank.com
@@ -39,6 +40,7 @@ upipms-staging1.paytmbank.com
 upisecure-hsm.paytmbank.com
 upisecure-staging.paytmbank.com
 upisecure.paytmbank.com
+www.fastag-acquirer-inbound.paytmbank.com
 www.netc-acquirer.paytmbank.com
 www.netc-issuer-uat.paytmbank.com
 www.netc-issuer.paytmbank.com

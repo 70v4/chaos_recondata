@@ -15,8 +15,11 @@ bank-vault-bi.apps.omise.co
 bank-vault-bi.staging.apps.omise.co
 blog.omise.co
 ca.omise.co
+caps.apps.omise.co
 caps.omise.co
+caps01.apps.omise.co
 caps01.omise.co
+caps02.apps.omise.co
 caps02.omise.co
 cdn.omise.co
 cdn1.omise.co
@@ -25,6 +28,7 @@ cdn3.omise.co
 cdn4.omise.co
 charts.apps.omise.co
 citi-uat.omise.co
+client-auth.omise.co
 core.omise.co
 cpanel.hboard.omise.co
 cs-ops-portal.apps.omise.co
@@ -35,6 +39,7 @@ dashboard2.omise.co
 datadog.apps.omise.co
 docs.omise.co
 ed-staging.omise.co
+elasticsearch.omise.co
 forum.omise.co
 gateway.omise.co
 gems.apps.omise.co
@@ -49,6 +54,7 @@ grafana.apps.omise.co
 graylog-prometheus.apps.omise.co
 graylog-slack.apps.omise.co
 graylog.apps.omise.co
+graylogs.apps.omise.co
 hubot.apps.omise.co
 hubot.omise.co
 ibanking.omise.co
@@ -78,6 +84,7 @@ pfsense.apps.omise.co
 pfsense2.apps.omise.co
 phabricator.omise.co
 piggy-infra.apps.omise.co
+piggy-pci.apps.omise.co
 piggy.apps.omise.co
 piggy2.apps.omise.co
 policy-bot.apps.omise.co

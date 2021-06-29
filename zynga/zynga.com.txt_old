@@ -10,6 +10,7 @@ accounts.cdn.zynga.com
 accounts.static.zynga.com
 accounts.zynga.com
 achaney.gotslots.zynga.com
+activate.zynga.com
 adjust.stats.zynga.com
 admin-prd.zookeeper.zynga.com
 admin-staging.cooking.zynga.com
@@ -38,6 +39,7 @@ admin.stage4.castle.zynga.com
 admin.staging.castle.zynga.com
 admin.staging.gotslots.zynga.com
 admin.staging.mars.zynga.com
+admin.stress.gotslots.zynga.com
 admin.zookeeper.zynga.com
 admin.zynga.com
 admintool-staging.leaderboards.zynga.com
@@ -67,6 +69,7 @@ api1.mafiawars.zynga.com
 app-staging.dst2.zynga.com
 appconfig.zynga.com
 applied-ai.zynga.com
+apse1.zynga.com
 archiva.svctr.zynga.com
 arena-1.mafiawars.zynga.com
 arena-2.mafiawars.zynga.com
@@ -125,6 +128,7 @@ bubble-dev-02.zynga.com
 bubble.zynga.com
 bubblereef.zynga.com
 bugtracker.bossalien.zynga.com
+build.magellan.zynga.com
 build.zynga.com
 bwf-assets.cdn.zynga.com
 byeates.gotslots.zynga.com
@@ -260,6 +264,7 @@ crazykitchen.cdn.zynga.com
 crazykitchen.zynga.com
 csr2.cdn.zynga.com
 csr2.zynga.com
+csr3-dev.zynga.com
 cstools-prod-web-01.zynga.com
 cstools-staging-web-01.zynga.com
 ct.zynga.com
@@ -270,6 +275,7 @@ default.mars.zynga.com
 defx.mirror.gotslots.zynga.com
 defx.production.gotslots.zynga.com
 defx.staging.gotslots.zynga.com
+defx.stress.gotslots.zynga.com
 delta.atx.zynga.com
 demo.hititrich.zynga.com
 demo.mars.zynga.com
@@ -296,6 +302,7 @@ dev-loc.mars.zynga.com
 dev-playtest.mars.zynga.com
 dev-stage.mars.zynga.com
 dev-ti.mars.zynga.com
+dev.api.magellan.zynga.com
 dev.atx.zynga.com
 dev.ayakashi.zynga.com
 dev.battlestone.zynga.com
@@ -739,6 +746,16 @@ imageproxy.poker.zynga.com
 imap.corp.zynga.com
 imap.zynga.com
 info.zynga.com
+internal.dev.poker.zynga.com
+internal.dev1.poker.zynga.com
+internal.dev2.poker.zynga.com
+internal.dev3.poker.zynga.com
+internal.dev4.poker.zynga.com
+internal.dev5.poker.zynga.com
+internal.dev6.poker.zynga.com
+internal.dev7.poker.zynga.com
+internal.dev8.poker.zynga.com
+internal.dev9.poker.zynga.com
 internal.developers.zynga.com
 internal.mirror.gotslots.zynga.com
 internal.production.gotslots.zynga.com
@@ -770,6 +787,7 @@ jtong.gotslots.zynga.com
 jtwing.atx.zynga.com
 jvanseader.atx.zynga.com
 k8s.zce.zynga.com
+k8s.zynga.com
 kampanya.cdn.zynga.com
 kibana.bossalien.zynga.com
 kik.wtf.zynga.com
@@ -794,6 +812,7 @@ loadtest.pokern.zynga.com
 lobby-1.mafiawars.zynga.com
 lobby-2.mafiawars.zynga.com
 loboalars.zynga.com
+local.api.magellan.zynga.com
 looker.mars.zynga.com
 looneytunes-dyn.cdn.zynga.com
 looneytunes.cdn.zynga.com
@@ -811,6 +830,7 @@ m.zynga.com
 m5.farmx.zynga.com
 macbeta-sms.solstice.zynga.com
 mafiawars.zynga.com
+magellan.zynga.com
 mail.corp.zynga.com
 mail.zynga.com
 media.zynga.com
@@ -895,6 +915,7 @@ nk.production.gotslots.zynga.com
 nk.staging.gotslots.zynga.com
 nm.zynga.com
 nova.atx.zynga.com
+nova.wnks.zynga.com
 np.api.zynga.com
 npatil.gotslots.zynga.com
 npay.svctr.zynga.com
@@ -1026,6 +1047,7 @@ sip.zynga.com
 site.zynga.com
 skateboardslam-web-dev-01.zc2.zynga.com
 sklapper.gotslots.zynga.com
+skyscraper.cdn.zynga.com
 slashmobile.zynga.com
 slate.corp.zynga.com
 slices.dev-01.theme.zynga.com
@@ -1284,6 +1306,7 @@ twheeler.gotslots.zynga.com
 uforge.zynga.com
 us-zpn.zynga.com
 use1.zynga.com
+use2.zynga.com
 user-staging.dst2.zynga.com
 user.dst2.zynga.com
 usertest.tl.atg.zynga.com
@@ -1349,7 +1372,10 @@ web.staging.gotslots.zynga.com
 web.staging.slotsmobile.zynga.com
 web.stress.gotslots.zynga.com
 webconf.zynga.com
+webgl-static.staging.pokern.zynga.com
+webgl-static.stg.pokern.zynga.com
 webgl.gotslots.zynga.com
+webgl.staging.pokern.zynga.com
 webmail-dr.corp.zynga.com
 webmail-dr.zynga.com
 webmail.corp.zynga.com
@@ -1505,6 +1531,7 @@ zmedia2.cdn.zynga.com
 zmedia3.cdn.zynga.com
 zmedia4.cdn.zynga.com
 zmg.zynga.com
+znews.zynga.com
 zookeeper.zynga.com
 zoom-staging-zc2.themepark.zynga.com
 zoom-staging.hot.zynga.com

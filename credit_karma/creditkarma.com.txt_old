@@ -104,6 +104,7 @@ fileupload.creditkarma.com
 flare-api.corp.creditkarma.com
 flare.corp.creditkarma.com
 fraud.assets.admin.creditkarma.com
+fraud.assets.test.admin.creditkarma.com
 fraud.assets.test.creditkarma.com
 gist-assets.code.corp.creditkarma.com
 gist-assets.stage-code.corp.creditkarma.com
@@ -143,6 +144,7 @@ iam-preprod.int.creditkarma.com
 iam.creditkarma.com
 iam.int.creditkarma.com
 ivr.admin.creditkarma.com
+ivr.test.admin.creditkarma.com
 ivr.test.creditkarma.com
 jira.creditkarma.com
 jss.corp.creditkarma.com
@@ -202,6 +204,8 @@ prom-prod-ck-vault-use4.paas.creditkarma.com
 ptfcu.creditkarma.com
 raw.code.corp.creditkarma.com
 raw.stage-code.corp.creditkarma.com
+reach-test.creditkarma.com
+reach.creditkarma.com
 readyfinancial.creditkarma.com
 redirect-origin.creditkarma.com
 redirect.creditkarma.com
@@ -271,6 +275,7 @@ uploads.code.corp.creditkarma.com
 uploads.stage-code.corp.creditkarma.com
 us-prod-nexpose.int.creditkarma.com
 uwcu.dfw.creditkarma.com
+vinyl.test.admin.creditkarma.com
 vinyl.test.creditkarma.com
 vpn.iad1.creditkarma.com
 vpn.prod.creditkarma.com

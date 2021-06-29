@@ -33,8 +33,11 @@ cert2.ossku.office365.com
 cfrapiproberconfig.reports.office365.com
 cfrbotconfig.reports.office365.com
 chat-ppe.delve.office365.com
+cmplreporting.office365.com
 commdashboard.office365.com
 community.office365.com
+compliancemlis.complianceml.office365.com
+connectors.outlook.office365.com
 contactduplicatedetectionservice.outlook-tdf.office365.com
 cookieauth.torus.office365.com
 copier-pfprod.reports.office365.com
@@ -48,11 +51,14 @@ cus.mccservice.ediscovery.office365.com
 cus.migrationservice.ediscovery.office365.com
 cus.reviewsetservice.ediscovery.office365.com
 custodianservice.ediscovery.office365.com
+cwsagc-service.cws.office365.com
 cwsppe-service.cws.office365.com
 cwsprod-service.cws.office365.com
 d.office365.com
 dataencipherment.actions.office365.com
+dataencipherment.edog.actions.office365.com
 dataencipherment.int.actions.office365.com
+delveciagenevamonitor.office365.com
 dgrepclient.torus.office365.com
 dlis-dev-2020-10.office365.com
 dlis1-2020-10.office365.com
@@ -97,6 +103,7 @@ fe.proxyservice.directory.office365.com
 fpgaapplianceinventorysyncauthentication.office365.com
 fr.storagecdn.actions.office365.com
 gcchigh.searchsettingsmanagement.office365.com
+genevaclient.griffin.multitenant.office365.com
 geo.office365.com
 graphaad.actions.office365.com
 graphaad.edog.actions.office365.com
@@ -195,6 +202,8 @@ mds.edog.actions.office365.com
 mds.edog.sam.actions.office365.com
 mds.int.actions.office365.com
 mds.sam.actions.office365.com
+messagesingestionservice-tdf.outlook.office365.com
+messagesingestionservice.outlook.office365.com
 migrationservice.ediscovery.office365.com
 monitoring.griffinruntime.office365.com
 msdn.office365.com
@@ -335,6 +344,7 @@ pathfinder.odl.griffinruntime.office365.com
 pathfinder.piiscrubber.griffinruntime.office365.com
 pathfinder.torus.griffinruntime.office365.com
 perf.int.actions.office365.com
+pingprocessorstipolicy.office365.com
 portal.office365.com
 preinstallfpa.outlook.office365.com
 preview.community.office365.com
@@ -419,6 +429,10 @@ secretsafestorageencryption.torus.office365.com
 secure.status.office365.com
 securitylogging.tracegenevaconsumer.office365.com
 securitysignals.genevaconsumer.office365.com
+securitysignals.genevaconsumer.spo.blackforest.office365.com
+securitysignals.genevaconsumer.spo.gallatin.office365.com
+securitysignals.genevaconsumer.spo.pathfinder.office365.com
+securitysignals.genevaconsumer.spo.trailblazer.office365.com
 securitysignals.scheduleraad.office365.com
 securitysignals.tracegenevaconsumer.office365.com
 serviceconfiguration-dev.reports.office365.com
@@ -430,6 +444,9 @@ siphon.tracegenevaconsumer.office365.com
 smtp.office365.com
 smtp.outlook.office365.com
 sparkcluster.tracegenevaconsumer.office365.com
+sqlaad.actions.office365.com
+sqlaad.edog.actions.office365.com
+sqlaad.int.actions.office365.com
 static.actions.office365.com
 status.office365.com
 storagecdn.actions.office365.com
@@ -437,7 +454,12 @@ storagecdn.edog.actions.office365.com
 storagecdn.int.actions.office365.com
 storagecdn.perf.int.actions.office365.com
 substrateappsdk.outlook.office365.com
+substratearchive-tdf.outlook.office365.com
+substratearchive.outlook.office365.com
 substrateenrichments.office365.com
+substratesearch.actions.office365.com
+substratesearch.edog.actions.office365.com
+sustainability-team.enterprise-clouds.m365.office365.com
 tee.outlook-tdf.office365.com
 tenantlockboxapp.outlook.office365.com
 test.actions.office365.com
@@ -460,6 +482,7 @@ us.storagecdn.int.actions.office365.com
 us0.actions.office365.com
 us0.edog.actions.office365.com
 us0.int.actions.office365.com
+vanquish-opsweb.office365.com
 weur.caseservice.ediscovery.office365.com
 weur.custodianservice.ediscovery.office365.com
 weur.graphservice.ediscovery.office365.com

@@ -36,12 +36,14 @@ api.druid-staging-us-east1-1.staging.druid.shopifykloud.com
 api.general.dev.druid.shopifykloud.com
 api.general.global.druid.shopifykloud.com
 api.general.us-east1.dev.druid.shopifykloud.com
+api.insights-sales.global.druid.shopifykloud.com
 api.mdm.druid.shopifykloud.com
 api.mdm.global.druid.shopifykloud.com
 api.org-sales-model.global.druid.shopifykloud.com
 api.staging.druid.shopifykloud.com
 api.staging.global.druid.shopifykloud.com
 archiva.playground.shopifykloud.com
+austen-oauth-tmp.shopify-data-presto-global.shopifykloud.com
 autoscale-memory-coordinator.presto.shopifykloud.com
 autoscale-memory.presto.shopifykloud.com
 axels-test.shopify-data-presto-global.shopifykloud.com
@@ -56,6 +58,7 @@ blake-c.debug.playground.shopifykloud.com
 blake-cos.shopifykloud.com
 blake-presto1.presto-qa.shopifykloud.com
 blaketest.shopifykloud.com
+caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 canada-user.shopify-data-cloud-infra.shopifykloud.com
 canada.vpnify.shopifykloud.com
 cm-airflow-dev-us-central1-1-prod.dev.airflow.shopifykloud.com
@@ -119,6 +122,7 @@ console.magnesia.shopifykloud.com
 datagrip-license-server.apps.shopifykloud.com
 deploy-test.shopify-data-presto-global.shopifykloud.com
 dls.datagrip-license-server.playground.shopifykloud.com
+dpe-cs-audience-gen-staging.flink.shopifykloud.com
 druid-druid-router-api-ingress-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 druid-druid-router-api-ingress-druid-dev-us-central1-1.dev.druid.shopifykloud.com
 druid-druid-router-api-ingress-druid-dev-us-east1-1.dev.druid.shopifykloud.com
@@ -129,7 +133,9 @@ druid-druid-router-ingress-druid-dev-us-central1-1.dev.druid.shopifykloud.com
 druid-druid-router-ingress-druid-dev-us-east1-1.dev.druid.shopifykloud.com
 druid-druid-router-ingress-druid-mdm-us-central1-1.mdm.druid.shopifykloud.com
 druid-druid-router-ingress-druid-mdm-us-east1-1.mdm.druid.shopifykloud.com
+druid-test-tmp.shopify-data-presto-global.shopifykloud.com
 druid.k8s-exp.shopifykloud.com
+exp-caching-staging.shopify-data-presto-global.shopifykloud.com
 fast-monorail.shopify-data-presto-global.shopifykloud.com
 flower.canada.airflow.shopifykloud.com
 flower.dev.airflow.shopifykloud.com
@@ -248,11 +254,17 @@ metadata-a.shopify-data-presto-global.shopifykloud.com
 metadata-b.shopify-data-presto-global.shopifykloud.com
 metadata-staging.shopify-data-presto-global.shopifykloud.com
 mode-staging.shopify-data-presto-global.shopifykloud.com
+moh.flink.shopifykloud.com
+monorail-a.shopify-data-presto-global.shopifykloud.com
+monorail-b.shopify-data-presto-global.shopifykloud.com
 more-obvious-dns-test-metastore-main.shopifykloud.com
 mrhs-tunnel.playground.shopifykloud.com
 muto.presto.shopifykloud.com
+my-cluster-tmp.shopify-data-presto-global.shopifykloud.com
+notify-test-tmp.shopify-data-presto-global.shopifykloud.com
 oauth-tunnel-yarn.shopify-data-starscream-qa.shopifykloud.com
 oauth-tunnel-yarn.starscream-qa.yarn.shopifykloud.com
+one-day-test-tmp.shopify-data-presto-global.shopifykloud.com
 oozie-adhoc-oozie.yarn.shopifykloud.com
 oozie-dataproc.starscream-adhoc.yarn.shopifykloud.com
 oozie-dataproc.starscream.yarn.shopifykloud.com
@@ -306,6 +318,7 @@ presto-conductor-w7hfrc3y-data-presto-northamerica-northeast1-3.shopify-data-pre
 presto-configurator-1.presto.shopifykloud.com
 presto-configurator.presto.shopifykloud.com
 presto-control.presto-qa.shopifykloud.com
+presto-exp-load.shopify-data-presto-global.shopifykloud.com
 presto-exper-a.shopify-data-presto-global.shopifykloud.com
 presto-exper-b.shopify-data-presto-global.shopifykloud.com
 presto-for-datachi-coordinator.presto.shopifykloud.com
@@ -313,6 +326,8 @@ presto-for-datachi.presto.shopifykloud.com
 presto-for-hdfs-stats.presto.shopifykloud.com
 presto-gateway-apac-prod-7qmoteea-data-presto-asia-southeast1-1.shopify-data-presto-global.shopifykloud.com
 presto-gateway-apac.shopify-data-presto-global.shopifykloud.com
+presto-gateway-old.shopify-data-presto-canada.shopifykloud.com
+presto-gateway-old.shopify-data-presto-global.shopifykloud.com
 presto-gateway-production-rewrite-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
 presto-gateway-rewrite-data-presto-northamerica-northeast1-3.shopify-data-presto-canada.shopifykloud.com
 presto-gateway-testing-presto-gateway-data-exp-us-central1-1.k8s-exp.shopifykloud.com
@@ -329,9 +344,11 @@ presto-maestro-presto-maestro-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 presto-meastro-testing.k8s-exp.shopifykloud.com
 presto-meastro.k8s-exp.shopifykloud.com
 presto-mo.playground.shopifykloud.com
+presto-mode-staging.shopify-data-presto-global.shopifykloud.com
 presto-no-binlog.presto.shopifykloud.com
 presto-no-keepalive.presto.shopifykloud.com
 presto-no-position.presto.shopifykloud.com
+presto-oauth-test.shopify-data-presto-global.shopifykloud.com
 presto-patched-gcs.presto.shopifykloud.com
 presto-patched.presto.shopifykloud.com
 presto-production-adhoc-a-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
@@ -340,6 +357,8 @@ presto-production-adhoc-b-presto-data-presto-us-central1-2.shopify-data-presto-g
 presto-production-adhoc-b.shopify-data-presto-global.shopifykloud.com
 presto-production-exper-a.shopify-data-presto-global.shopifykloud.com
 presto-production-exper-b.shopify-data-presto-global.shopifykloud.com
+presto-production-monorail-a.shopify-data-presto-global.shopifykloud.com
+presto-production-monorail-b.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-a-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-a.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-b-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
@@ -357,6 +376,7 @@ presto-sam-test.shopify-data-presto-global.shopifykloud.com
 presto-scheduled-a.shopify-data-presto-global.shopifykloud.com
 presto-scheduled-b.shopify-data-presto-global.shopifykloud.com
 presto-seamster.shopify-data-presto-global.shopifykloud.com
+presto-staging-exp-load.shopify-data-presto-global.shopifykloud.com
 presto-starscream-a.shopify-data-presto-global.shopifykloud.com
 presto-starscream-b.shopify-data-presto-global.shopifykloud.com
 presto-starscream-qa-presto-starscream-qa-us-central1-2.shopify-data-starscream-qa.shopifykloud.com
@@ -412,6 +432,7 @@ rai-server.shopify-data-yap-experiment.shopifykloud.com
 rai-server.starscream-adhoc-canada.shopifykloud.com
 rai-server.starscream-adhoc.yarn.shopifykloud.com
 random-presto-deployment.presto.shopifykloud.com
+read-cdc.flink.shopifykloud.com
 refinery-azkaban-1-web.data-acq.shopifykloud.com
 refinery-azkaban-2-web.data-acq.shopifykloud.com
 refinery-azkaban-web.azkaban.shopifykloud.com
@@ -429,6 +450,7 @@ rm2.yarn-redirect.yarn.shopifykloud.com
 sam-hue-test.yarn-test.playground.yarn.shopifykloud.com
 saml-oauth.playground.shopifykloud.com
 saml-oauth.shopifykloud.com
+sample-wc.flink.shopifykloud.com
 scratch-auth-test-hive.shopifykloud.com
 scratch-for-datachi-hive.shopifykloud.com
 scratch-for-datachi.hive.shopifykloud.com
@@ -463,11 +485,14 @@ speedboat-azkaban-web.data-acq-canada.shopifykloud.com
 speedboat-azkaban-web.data-acq.shopifykloud.com
 speedboat-presto.data-acq.shopifykloud.com
 speedboat-yarn-oauth-proxy.data-acq.shopifykloud.com
+spytest-tmp.shopify-data-presto-global.shopifykloud.com
 staging-kafka-azkaban-web.data-acq-canada.shopifykloud.com
 staging-kafka-azkaban-web.data-acq.shopifykloud.com
 staging-refinery-azkaban-web.data-acq.shopifykloud.com
 staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 staging.notebooks.shopifykloud.com
+streaming-sales-model-production.flink.shopifykloud.com
+streaming-sales-model-staging.flink.shopifykloud.com
 submarine-production-web-longboat-us-central1-2.data-acq.shopifykloud.com
 submarine-staging-web-longboat-us-central1-2.data-acq.shopifykloud.com
 submarine-staging.data-acq.shopifykloud.com
@@ -476,6 +501,7 @@ temp-hive-1-metastore-main.shopifykloud.com
 template-test-2.presto.shopifykloud.com
 template-test.presto.shopifykloud.com
 test-azkaban-web.data-acq.shopifykloud.com
+test-cluster-tmp.shopify-data-presto-global.shopifykloud.com
 test-hive-zone.hive.shopifykloud.com
 test-kafka-logs-web.data-acq.shopifykloud.com
 test-metastore.data-acq.shopifykloud.com
@@ -498,11 +524,14 @@ test-presto.playground.shopifykloud.com
 test-saml-oauth.shopifykloud.com
 test-speedboat-azkaban-web.data-acq.shopifykloud.com
 test-speedboat-yarn.data-acq.shopifykloud.com
+test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 test-up-2-azkaban-web.data-acq.shopifykloud.com
 test-up-azkaban-web.data-acq.shopifykloud.com
 test-web.data-acq.shopifykloud.com
 test.datagrip-license-server.playground.shopifykloud.com
 ti-test.playground.shopifykloud.com
+trickle-v2-examples-invent-staging.flink.shopifykloud.com
+trickle-v2-examples-vendors-staging.flink.shopifykloud.com
 tunnel-cache-test-hive.shopifykloud.com
 vpnify-test.playground.yarn.shopifykloud.com
 vpnify-test.starscream-adhoc.yarn.shopifykloud.com
@@ -525,6 +554,7 @@ vpnify.starscream-qa.yarn.shopifykloud.com
 vpnify.starscream.yarn.shopifykloud.com
 vpnify.streamify-216112.shopifykloud.com
 vpnify2.playground.shopifykloud.com
+web.atlas.k8s-exp.shopifykloud.com
 web.canada.airflow.shopifykloud.com
 web.dev.airflow.shopifykloud.com
 web.dev.druid.shopifykloud.com
@@ -540,6 +570,7 @@ web.general.dev.druid.shopifykloud.com
 web.general.global.druid.shopifykloud.com
 web.general.us-east1.dev.druid.shopifykloud.com
 web.global.airflow.shopifykloud.com
+web.insights-sales.global.druid.shopifykloud.com
 web.mdm.druid.shopifykloud.com
 web.mdm.global.druid.shopifykloud.com
 web.org-sales-model.global.druid.shopifykloud.com

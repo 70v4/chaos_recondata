@@ -63,11 +63,17 @@ hub.vimeo.com
 i.cloud.vimeo.com
 image.email.vimeo.com
 images.vimeo.com
+investors.vimeo.com
 joe.starlord.vimeo.com
 join.vimeo.com
+kaiju-dev.cloud.vimeo.com
+kaiju-ml-dev.cloud.vimeo.com
+kaiju-ml.cloud.vimeo.com
+kaiju.cloud.vimeo.com
 labs.vimeo.com
 live-api-dev.cloud.vimeo.com
 live-api.cloud.vimeo.com
+live-dev-tls.cloud.vimeo.com
 live-highly-available.cloud.vimeo.com
 live-tls.cloud.vimeo.com
 lp.vimeo.com
@@ -112,6 +118,7 @@ secure-av.vimeo.com
 secure-stream.vimeo.com
 secure.vimeo.com
 sentry.cloud.vimeo.com
+share.vimeo.com
 skyfire-akamai-1.cloud.vimeo.com
 skyfire-akamai-2.cloud.vimeo.com
 skyfire-akamai-3.cloud.vimeo.com
@@ -146,6 +153,8 @@ tv.vimeo.com
 u.cloud.vimeo.com
 utmtrk.vimeo.com
 validator.cloud.vimeo.com
+videoapi-artax-dev.cloud.vimeo.com
+videoapi-artax.cloud.vimeo.com
 videoapi-cdn.vimeo.com
 videoapi.vimeo.com
 view.email.vimeo.com
@@ -153,7 +162,9 @@ viewmaster-highly-available.cloud.vimeo.com
 viewmaster.cloud.vimeo.com
 vikatan.vimeo.com
 www.api.vimeo.com
+www.investors.vimeo.com
 www.news.vimeo.com
 www.saml-signing.vimeo.com
 www.vimeo.com
 zixi-registrar.vimeo.com
+zoom-uploader.vimeo.com

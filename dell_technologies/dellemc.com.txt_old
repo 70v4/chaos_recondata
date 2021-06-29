@@ -126,6 +126,7 @@ ddpmktgwww.mobiledev.dellemc.com
 deftexternal-www.mobiledev.dellemc.com
 dellchannelsamer-api.mobiledev.dellemc.com
 dellsolutionsvrapi.mobiledev.dellemc.com
+deploy-service.aws.cloudonefs.dellemc.com
 dev-author-api.mobiledev.dellemc.com
 devblog-www.mobiledev.dellemc.com
 developer.dellemc.com
@@ -306,11 +307,14 @@ vws-analyticswww.mobiledev.dellemc.com
 vxrailch-demo.dellemc.com
 vxrailch-dev.dellemc.com
 vxrailch-staging.dellemc.com
+vxrailch.dellemc.com
 vxrailconfiguration-demo.dellemc.com
 vxrailconfiguration-dev.dellemc.com
 vxrailconfiguration-integration.dellemc.com
 vxrailconfiguration-pre-prod.dellemc.com
 vxrailconfiguration-staging.dellemc.com
+vxrailconfiguration-test.dellemc.com
+vxrailconfiguration.dellemc.com
 westeurope-api.mobiledev.dellemc.com
 www-18.mobiledev.dellemc.com
 www-access-wysebeijing.mobiledev.dellemc.com

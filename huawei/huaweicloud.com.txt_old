@@ -188,8 +188,10 @@ af-east-201-console-dev.huaweicloud.com
 af-south-1-console-static.huaweicloud.com
 af-south-1-console.huaweicloud.com
 af-south-1-static.huaweicloud.com
+af-west-202-console-dev-intl.huaweicloud.com
 af-west-202-console-dev.huaweicloud.com
 af3166b1ed084c10a819fe8e57a8af27.waf.huaweicloud.com
+ahdps.holosens.huaweicloud.com
 antivirus.aitken.archive.forum.huaweicloud.com
 ap-northeast-201-console-dev.huaweicloud.com
 ap-southeast-3-console-static.huaweicloud.com
@@ -266,6 +268,7 @@ cn-north-1.huaweicloud.com
 cn-north-219-console.jrzq.huaweicloud.com
 cn-north-219.jrzq.huaweicloud.com
 cn-north-260.petalpay.huaweicloud.com
+cn-north-4.huaweicloud.com
 cn-south-1.huaweicloud.com
 cn-south-2.huaweicloud.com
 cn-southwest-2-console.huaweicloud.com
@@ -299,6 +302,10 @@ dce2d33cae884ea2b44734234dc3726d.waf.huaweicloud.com
 dd1745e738e64f37b7a2d3e84f6b7d72.waf.huaweicloud.com
 dd79f8ff12bc4a61b58f65a958aaa67b.waf.huaweicloud.com
 dee147eb01f140a3bec10e574a8fdce8.waf.huaweicloud.com
+devcloud.cn-north-1.huaweicloud.com
+devcloud.cn-north-4.huaweicloud.com
+devcloud.cn-south-2.huaweicloud.com
+devcloud.cn-southwest-2.huaweicloud.com
 devcloud.huaweicloud.com
 devcloudsso.huaweicloud.com
 developer-intl.huaweicloud.com
@@ -358,6 +365,7 @@ hd.devcloud.huaweicloud.com
 hdc.huaweicloud.com
 hdcwebinars.huaweicloud.com
 hdmap.huaweicloud.com
+hdps.holosens.huaweicloud.com
 hichat.devcloud.huaweicloud.com
 hn.devcloud.huaweicloud.com
 ide-cn-northeast-1.devcloud.huaweicloud.com
@@ -375,6 +383,8 @@ intl.huaweicloud.com
 iotstage.huaweicloud.com
 ivm.huaweicloud.com
 jrzq.huaweicloud.com
+lab-desktop.huaweicloud.com
+lab.huaweicloud.com
 learning.huaweicloud.com
 localhost.cloudec.huaweicloud.com
 market.huaweicloud.com
@@ -418,6 +428,7 @@ portal-intl.huaweicloud.com
 portal-verify-intl.huaweicloud.com
 portal-verify.huaweicloud.com
 portal.huaweicloud.com
+redis-2c0a202e-d8f1-42e6-bc0b-9916ec603b75.dcs.huaweicloud.com
 reg.huaweicloud.com
 res-img1-intl.huaweicloud.com
 res-img1.huaweicloud.com
@@ -443,9 +454,11 @@ roma01.huaweicloud.com
 rsa.huaweicloud.com
 rtc.huaweicloud.com
 saas.huaweicloud.com
+school.huaweicloud.com
 sd-wan.huaweicloud.com
 sec-gray.huaweicloud.com
 service-sh.ivm.huaweicloud.com
+shdps.holosens.huaweicloud.com
 south-device.campustest.huaweicloud.com
 south-device.naas.huaweicloud.com
 static-intl.huaweicloud.com

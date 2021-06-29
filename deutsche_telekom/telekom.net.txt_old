@@ -19,11 +19,14 @@ ar-fieldadvisor.telekom.net
 autoconfig.huawei.telekom.net
 autodiscover.huawei.telekom.net
 balance.mwc.telekom.net
+bc-cloud.telekom.net
 bc9c0d11.mobile.pool.telekom.net
 bc9c12f4.mobile.pool.telekom.net
 bdi.telekom.net
 betatest-dev.ng.telekom.net
 betatest-prod.ng.telekom.net
+betatest-stg.ng.telekom.net
+betatest.telekom.net
 biz.mdm.telekom.net
 blog.a4.telekom.net
 bmw.emp.telekom.net
@@ -50,15 +53,20 @@ comm.liveberater.telekom.net
 comm.staging.liveberater.telekom.net
 concierge-drc.telekom.net
 conference-1-chat.ms.telekom.net
+config.dev.tduplex.ng.telekom.net
 confluence-developer.dtoneapp.telekom.net
 confluence.dtoneapp.telekom.net
 connect.mdm.telekom.net
 connectedhomeplatform.telekom.net
 contactcentersolutions.telekom.net
+core.dev.tduplex.ng.telekom.net
+cornholio-uat.ng.telekom.net
+cornholio.ng.telekom.net
 cpanel.cso-mail.telekom.net
 cpcalendars.cso-mail.telekom.net
 cpcontacts.cso-mail.telekom.net
 cps-dt.mdm.telekom.net
+cpws.pk2-dev.ng.telekom.net
 crowd.telekom.net
 cso-mail.telekom.net
 csweb.meter.telekom.net
@@ -71,6 +79,7 @@ de-lab-msr-tp-vcse-01.tplab.telekom.net
 de-lab-msr-tp-vcse-02.tplab.telekom.net
 de-lab-msr-tp-vcse-vip-01.tplab.telekom.net
 demo.emp.telekom.net
+dev.tduplex.ng.telekom.net
 dev.telefon-einrichten.telekom.net
 dev.vote.telekom.net
 device-info.telekom.net
@@ -86,6 +95,7 @@ dtoneapp.telekom.net
 dz16-gw-s0.telekom.net
 eam.telekom.net
 eamtest.telekom.net
+editor.dev.tduplex.ng.telekom.net
 elastic.staging.pmatrem.telekom.net
 emp.telekom.net
 explorer.dtgo.dlthub.telekom.net
@@ -101,6 +111,8 @@ flyer-registration.mwc.telekom.net
 flyer.mwc.telekom.net
 forum-betatest-dev.ng.telekom.net
 forum-betatest-prod.ng.telekom.net
+forum-betatest-stg.ng.telekom.net
+forum.betatest.telekom.net
 frontend.dtgo.dlthub.telekom.net
 frontend.dtna.dlthub.telekom.net
 frontend.pmatrem.telekom.net
@@ -122,6 +134,7 @@ grafana2.dtna.dlthub.telekom.net
 handyspende.telekom.net
 hcslab.telekom.net
 heatable-jacket-api.telekom.net
+hermes.ng.telekom.net
 hub.ar-fieldadvisor.telekom.net
 icpbxs01.msteamsvoice.telekom.net
 ihub.telekom.net
@@ -160,6 +173,10 @@ mail.sec.telekom.net
 mail.staging.pmatrem.telekom.net
 mail.telekom.net
 mail.wesp.telekom.net
+map-collector.pk2-dev.ng.telekom.net
+map-collector.pk2-prd.ng.telekom.net
+map-collector.psrod-prd.ng.telekom.net
+mapper-api-dev.ng.telekom.net
 mdm.telekom.net
 media.liveberater.telekom.net
 media.staging.liveberater.telekom.net
@@ -191,6 +208,7 @@ nfon.telekom.net
 ns1.hcslab.telekom.net
 ns2.hcslab.telekom.net
 opensource.telekom.net
+osp.telekom.net
 outbound-net-connector.telekom.net
 pass.mwc.telekom.net
 passcc-te1.telekom.net
@@ -223,6 +241,7 @@ rem-frontend.dev.pmatrem.telekom.net
 reporting.inflight.telekom.net
 roadster.telekom.net
 romcloud.telekom.net
+sdp.telekom.net
 sec.telekom.net
 sentry.mdm.telekom.net
 skills-dev.svhproducts.telekom.net
@@ -233,6 +252,8 @@ sla.telekom.net
 smarthome.telekom.net
 smxportal.telekom.net
 soc.telekom.net
+socialtv-dev.svhproducts.telekom.net
+socialtv-prod.svhproducts.telekom.net
 sre-monitoring-cache-test.ng.telekom.net
 sre-monitoring-dev.ng.telekom.net
 srvde1.pandaemonic.browsergames.telekom.net
@@ -244,6 +265,7 @@ staging.qctool.telekom.net
 statistik.outbound-net-connector.telekom.net
 stb.api.telekom.net
 stb.api.test.telekom.net
+stb.sdp.telekom.net
 stb.test.sdp.telekom.net
 stg-dialin.cclan.telekom.net
 stg-share.cclan.telekom.net
@@ -251,6 +273,7 @@ stp.api.test.telekom.net
 stream.liveberater.telekom.net
 stream.staging.liveberater.telekom.net
 sub.udm-demo.telefon-einrichten.telekom.net
+svhproducts.telekom.net
 sync.mdm.telekom.net
 systest1.sdp.telekom.net
 systest2.sdp.telekom.net
@@ -258,6 +281,9 @@ te1.pass.telekom.net
 test.rmc.ncl.ng.telekom.net
 test.webhook.telekom.net
 tippspiel.telekom.net
+titan-apm-ref.ng.telekom.net
+titan-apm-test01.ng.telekom.net
+titan-apm-test02.ng.telekom.net
 tma.telekom.net
 toolbox.telekom.net
 tplab.telekom.net
@@ -277,9 +303,11 @@ voice.telekom.net
 voiceui.telekom.net
 voip.plone.telekom.net
 vpn.cclan.telekom.net
+vpn.oc.telekom.net
 vpntolab.telekom.net
 vsemail.wesp.telekom.net
 vvreg.telekom.net
+vxml.dev.tduplex.ng.telekom.net
 webdisk.cso-mail.telekom.net
 webmail.cso-mail.telekom.net
 webstorage.dtgo.dlthub.telekom.net

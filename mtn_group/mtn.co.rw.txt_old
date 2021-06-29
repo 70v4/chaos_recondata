@@ -1,6 +1,7 @@
 autodiscover.mtn.co.rw
 automation.mtn.co.rw
 bulksms.mtn.co.rw
+bulksmsapi.mtn.co.rw
 bulksmsportal.mtn.co.rw
 bundlesonline.mtn.co.rw
 cloudivr.mtn.co.rw
@@ -44,6 +45,7 @@ rwtbiee01-ilo.mtn.co.rw.mtn.co.rw
 rwtcomp01-ilo.mtn.co.rw
 rwtestebmsvr-ilo.mtn.co.rw
 sandbox.momodeveloper.mtn.co.rw
+service.mtn.co.rw
 simreg.mtn.co.rw
 sip.mtn.co.rw
 sms.mtn.co.rw
@@ -54,6 +56,7 @@ vmhosthq03-ilo.mtn.co.rw
 vmhosthq08-ilo.mtn.co.rw
 webmail.mtn.co.rw
 wireless.mtn.co.rw
+www.bulksmsapi.mtn.co.rw
 www.bulksmsportal.mtn.co.rw
 www.mtn.co.rw
 www.top-up.mtn.co.rw

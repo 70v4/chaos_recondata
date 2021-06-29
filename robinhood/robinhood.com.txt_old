@@ -26,6 +26,7 @@ acp.support.robinhood.com
 admin.api.robinhood.com
 admin.nummus.robinhood.com
 admin.robinhood.com
+affiliates.robinhood.com
 afford.robinhood.com
 akamai-test-origin.api.robinhood.com
 akamai-test-origin.nummus.robinhood.com
@@ -293,6 +294,7 @@ emv18.support.robinhood.com
 en.api.robinhood.com
 en.nummus.robinhood.com
 en.robinhood.com
+esg.robinhood.com
 exchange.api.robinhood.com
 exchange.nummus.robinhood.com
 exchange.robinhood.com
@@ -310,6 +312,7 @@ forum.robinhood.com
 forums.api.robinhood.com
 forums.nummus.robinhood.com
 forums.robinhood.com
+fp.robinhood.com
 freestock.robinhood.com
 ftp.api.robinhood.com
 ftp.nummus.robinhood.com
@@ -434,6 +437,7 @@ internal-apps.robinhood.com
 interview.robinhood.com
 invest.robinhood.com
 investing.robinhood.com
+investors.robinhood.com
 invfid.robinhood.com
 invite.robinhood.com
 ios-distribute.robinhood.com
@@ -917,6 +921,7 @@ uk.api.robinhood.com
 uk.nummus.robinhood.com
 uk.robinhood.com
 ummus.robinhood.com
+underthehoodpod.robinhood.com
 unifi.it.robinhood.com
 unifi.robinhood.com
 unspooled.robinhood.com
