@@ -2561,6 +2561,7 @@ stash.dev.finra.org
 stash.finra.org
 stash.pa.finra.org
 stash.qa.finra.org
+static-devint.ews.dev.finra.org
 static.cdip-int.dev.finra.org
 static.cdip-int.qa.finra.org
 static.cdip-int2.qa.finra.org
@@ -2574,6 +2575,7 @@ static.contacts.finra.org
 static.contacts.qa.finra.org
 static.ctl-common-int.dev.finra.org
 static.ctl-common.dev.finra.org
+static.ews.dev.finra.org
 static.faset-int.qa.finra.org
 static.faset-int2.qa.finra.org
 static.faset.finra.org

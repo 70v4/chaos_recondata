@@ -561,6 +561,7 @@ nginxcanaryclientapi-prod.arlo.com
 nginxcanaryclientapi-staging.arlo.com
 nginxcanarydeviceapi-goldendev.arlo.com
 nginxcanarydeviceapi-goldenqa.arlo.com
+nginxcanarydeviceapi-prod.arlo.com
 nginxcanarydeviceapi-staging.arlo.com
 nimp.arlo.com
 notifications-dev.arlo.com

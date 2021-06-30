@@ -23,6 +23,8 @@ bankofarkansas.blendlabs.com
 bankofoklahoma.blendlabs.com
 bankoftexas.blendlabs.com
 beta.blendlabs.com
+beta.us-east-1.blendlabs.com
+beta.us-west-2.blendlabs.com
 blend-borrower-1.beta.blendlabs.com
 blend-borrower-2.beta.blendlabs.com
 blend-borrower-absolute.beta.blendlabs.com
@@ -324,6 +326,8 @@ pricing.prod.blendlabs.com
 primeres-default.beta.blendlabs.com
 primeres.blendlabs.com
 prod.blendlabs.com
+prod.us-east-1.blendlabs.com
+prod.us-west-2.blendlabs.com
 prod.vpn.blendlabs.com
 redstone.blendlabs.com
 regency-default.beta.blendlabs.com

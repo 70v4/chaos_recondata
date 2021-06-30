@@ -375,9 +375,12 @@ pr-1015.my-dev.prototype.service.ncsc.gov.uk
 pr-1018.my-dev.prototype.service.ncsc.gov.uk
 pr-1020.my-dev.prototype.service.ncsc.gov.uk
 pr-1022.my-dev.prototype.service.ncsc.gov.uk
+pr-1024.my-dev.prototype.service.ncsc.gov.uk
 pr-1026.my-dev.prototype.service.ncsc.gov.uk
 pr-1027.my-dev.prototype.service.ncsc.gov.uk
 pr-1032.my-dev.prototype.service.ncsc.gov.uk
+pr-1037.my-dev.prototype.service.ncsc.gov.uk
+pr-1038.my-dev.prototype.service.ncsc.gov.uk
 pr-370.my-dev.prototype.service.ncsc.gov.uk
 pr-384.my-dev.prototype.service.ncsc.gov.uk
 pr-390.my-dev.prototype.service.ncsc.gov.uk
@@ -657,6 +660,7 @@ taxii.threatintel.service.ncsc.gov.uk
 test.capfrontdoor.internal.ncsc.gov.uk
 test.dev.earlywarning.service.ncsc.gov.uk
 test.mailcheck-dr.devops.ncsc.gov.uk
+test.webcheck.service.ncsc.gov.uk
 test2.audit.service.ncsc.gov.uk
 testing.audit.service.ncsc.gov.uk
 tip-test.threatintel.service.ncsc.gov.uk

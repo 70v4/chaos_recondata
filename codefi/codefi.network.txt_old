@@ -49,6 +49,8 @@ addstatustest.palmdrop-dev.codefi.network
 admin-api.activate.codefi.network
 admin-endpoint-validation.palmdrop-dev.codefi.network
 admin-page.palmdrop-dev.codefi.network
+admin-qa-closed.palmdrop-dev.codefi.network
+admin-qa-open.palmdrop-dev.codefi.network
 admin.activate.codefi.network
 airswap-dev.codefi.network
 airswap-prod.codefi.network
@@ -161,6 +163,7 @@ api.defibridge-borrow-pl-001.codefi.network
 api.defibridge-borrow-pl-100.codefi.network
 api.defibridge-borrow-pl-1000.codefi.network
 api.defibridge-borrow-pl-1001.codefi.network
+api.defibridge-borrow-pl-1004-aave-data.codefi.network
 api.defibridge-borrow-pl-1007-renfil.codefi.network
 api.defibridge-borrow-pl-1008.codefi.network
 api.defibridge-borrow-pl-101.codefi.network
@@ -306,6 +309,7 @@ api.defibridge-convert-pl-001.codefi.network
 api.defibridge-convert-pl-100.codefi.network
 api.defibridge-convert-pl-1000.codefi.network
 api.defibridge-convert-pl-1001.codefi.network
+api.defibridge-convert-pl-1004-aave-data.codefi.network
 api.defibridge-convert-pl-1007-renfil.codefi.network
 api.defibridge-convert-pl-1008.codefi.network
 api.defibridge-convert-pl-101.codefi.network
@@ -451,6 +455,7 @@ api.defibridge-lend-pl-001.codefi.network
 api.defibridge-lend-pl-100.codefi.network
 api.defibridge-lend-pl-1000.codefi.network
 api.defibridge-lend-pl-1001.codefi.network
+api.defibridge-lend-pl-1004-aave-data.codefi.network
 api.defibridge-lend-pl-1007-renfil.codefi.network
 api.defibridge-lend-pl-1008.codefi.network
 api.defibridge-lend-pl-101.codefi.network
@@ -738,6 +743,7 @@ api.storage-pl-001.codefi.network
 api.storage-pl-100.codefi.network
 api.storage-pl-1000.codefi.network
 api.storage-pl-1001.codefi.network
+api.storage-pl-1004-aave-data.codefi.network
 api.storage-pl-1007-renfil.codefi.network
 api.storage-pl-1008.codefi.network
 api.storage-pl-101.codefi.network
@@ -906,6 +912,7 @@ app.staking.codefi.network
 assets-apac-ops.codefi.network
 assets-apac-staging.codefi.network
 assets-apac.codefi.network
+assets-assets-api-automate-holds-and-settle.dev.codefi.network
 assets-assets-api-bypass-issuer-approval.dev.codefi.network
 assets-assets-api-carbon-credits-new.dev.codefi.network
 assets-assets-api-carbon-demo-mr306-mr305.dev.codefi.network
@@ -1072,6 +1079,7 @@ defibridge-dev.codefi.network
 defibridge-pl-000.codefi.network
 defibridge-pl-1000.codefi.network
 defibridge-pl-1001.codefi.network
+defibridge-pl-1004-aave-data.codefi.network
 defibridge-pl-1007-renfil.codefi.network
 defibridge-pl-1008.codefi.network
 defibridge-pl-1013.codefi.network
@@ -1394,6 +1402,12 @@ palm-398.palmdrop-dev.codefi.network
 palm-404-static-timeline-closed.palmdrop-dev.codefi.network
 palm-404-static-timeline-open.palmdrop-dev.codefi.network
 palm-421-buy-options-endpoint.palmdrop-dev.codefi.network
+palm-423-bug-fixes-closed.palmdrop-dev.codefi.network
+palm-423-bug-fixes-open.palmdrop-dev.codefi.network
+palm-424-country-whitelist-closed.palmdrop-dev.codefi.network
+palm-424-country-whitelist-open.palmdrop-dev.codefi.network
+palm-431-admin-order-id-closed.palmdrop-dev.codefi.network
+palm-431-admin-order-id-open.palmdrop-dev.codefi.network
 palm-closed.palmdrop-dev.codefi.network
 palmdrop-152-addinge2e.palmdrop-dev.codefi.network
 palmdrop-245-wallete2e.palmdrop-dev.codefi.network
@@ -1577,6 +1591,7 @@ storage-dev.codefi.network
 storage-pl-000.codefi.network
 storage-pl-1000.codefi.network
 storage-pl-1001.codefi.network
+storage-pl-1004-aave-data.codefi.network
 storage-pl-1007-renfil.codefi.network
 storage-pl-1008.codefi.network
 storage-pl-1013.codefi.network
@@ -1828,6 +1843,7 @@ www.defibridge-pl-001.codefi.network
 www.defibridge-pl-100.codefi.network
 www.defibridge-pl-1000.codefi.network
 www.defibridge-pl-1001.codefi.network
+www.defibridge-pl-1004-aave-data.codefi.network
 www.defibridge-pl-1007-renfil.codefi.network
 www.defibridge-pl-1008.codefi.network
 www.defibridge-pl-101.codefi.network
@@ -2055,6 +2071,7 @@ www.storage-pl-001.codefi.network
 www.storage-pl-100.codefi.network
 www.storage-pl-1000.codefi.network
 www.storage-pl-1001.codefi.network
+www.storage-pl-1004-aave-data.codefi.network
 www.storage-pl-1007-renfil.codefi.network
 www.storage-pl-1008.codefi.network
 www.storage-pl-101.codefi.network

@@ -321,8 +321,10 @@ arc1-extranet-dev.zspi.telekom.de
 arc2-dev.zspi.telekom.de
 arc2-extranet-dev.zspi.telekom.de
 architects-cluster.dev.asf.telekom.de
+archiv-dkk-test.telekom.de
 archiv-dkk.telekom.de
 archiv-mcs.telekom.de
+archiv-sap4-test.telekom.de
 archiv-sap4.telekom.de
 archiv-sece-it.telekom.de
 archiv-test.onehr.telekom.de
@@ -1504,6 +1506,7 @@ dwp.telekom.de
 dynatrace-timon.telekom.de
 dynatrace-timon4.telekom.de
 dz-test.st.mavi.res.telekom.de
+dzubairova-test.st.mavi.res.telekom.de
 e-booklets.telekom.de
 e-mail-made-in-germany.telekom.de
 e20a-login.telekom.de
@@ -1892,6 +1895,7 @@ finex.telekom.de
 fiori-qas.telekom.de
 fioriwd-d.telekom.de
 fioriwd-t.telekom.de
+firefighter-ownvda.aws.telekom.de
 fisst-e.onesrm.telekom.de
 fisst-qas.onesrm.telekom.de
 fisst-t.onesrm.telekom.de
@@ -2461,6 +2465,7 @@ ipex-wbench.devops.telekom.de
 ipls-portal.telekom.de
 ipls-rama-test.telekom.de
 ipls-rot-stage.telekom.de
+ipls-rot-test.telekom.de
 ipls-rot.telekom.de
 ipls-velocity-ite.tct.telekom.de
 ipmesstool.telekom.de
@@ -6656,6 +6661,7 @@ www.mobileconnect.telekom.de
 www.mobilitysolutions.telekom.de
 www.monalisa.telekom.de
 www.mss.telekom.de
+www.myevacon.aws.telekom.de
 www.myevacon.telekom.de
 www.mysafemail.telekom.de
 www.myshs24.telekom.de

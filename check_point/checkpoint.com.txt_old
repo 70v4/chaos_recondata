@@ -7399,6 +7399,7 @@ internal.178114573828.dev.cgn.kube1.iaas.checkpoint.com
 internal.185710917084.dev.cgn.kube1.iaas.checkpoint.com
 internal.335257589588.dev.cgn.kube1.iaas.checkpoint.com
 internal.370030827932.dev.cgn.kube1.iaas.checkpoint.com
+internal.407399054279.dev.cgn.kube1.iaas.checkpoint.com
 internal.809814589784.dev.cgn.kube1.iaas.checkpoint.com
 internal.872003886219.dev.cgn.kube1.iaas.checkpoint.com
 internal.ap1.cgn.portal.checkpoint.com
@@ -7817,6 +7818,7 @@ virtual-italy.checkpoint.com
 virtual-latam.checkpoint.com
 virtual-poland.checkpoint.com
 virtual-russia.checkpoint.com
+virtual-securedatacenter-apac.checkpoint.com
 virtual-securedatacenter.checkpoint.com
 virtual-sko.checkpoint.com
 virtual-spain.checkpoint.com

@@ -97,6 +97,7 @@ ads.tencent.com
 aeras.tencent.com
 agency.tencent.com
 ago.tencent.com
+ahs.cloud.tencent.com
 ai-speech.cloud.tencent.com
 ai.cloud.tencent.com
 ai.h5.tencent.com
@@ -149,6 +150,7 @@ api-sunshinecloud.tencent.com
 api-t.o.cloud.tencent.com
 api-t.o.tencent.com
 api-tc-yixing.tencent.com
+api-weday.tencent.com
 api-yixing.tencent.com
 api.ai.tencent.com
 api.binaryai.tencent.com
@@ -1130,6 +1132,7 @@ sentry.pot.tencent.com
 serverless.cloud.tencent.com
 serverlesscs.cloud.tencent.com
 service.binaryai.tencent.com
+service.cloud.tencent.com
 service.ioa.tencent.com
 service.security.tencent.com
 service.tencent.com
@@ -1393,6 +1396,9 @@ test.www.ns1.juegos.antivirus.bo.webproxy.idc.tencent.com
 test.www.webserver.ppp16.antivirus.bo.webproxy.idc.tencent.com
 testbpo.tencent.com
 testdt.tencent.com
+testhk-api-weday.tencent.com
+testhk-mobile-weday.tencent.com
+testhk-weday.tencent.com
 testioa.tencent.com
 testlap.tencent.com
 testscp.tencent.com
@@ -1642,6 +1648,7 @@ wecreative.tencent.com
 weda.cloud.tencent.com
 wedata-studio-pre.cloud.tencent.com
 wedata-studio.cloud.tencent.com
+weday.tencent.com
 welcome.oa.group.tencent.com
 wemake.tencent.com
 wemall.cloud.tencent.com

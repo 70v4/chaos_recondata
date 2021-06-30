@@ -387,6 +387,8 @@ dev.atlassian.devcollab.gs.com
 dev.b2b.gsbank.site.gs.com
 dev.batam.gs.com
 dev.confluence.devcollab.gs.com
+dev.crs-service.iam.site.gs.com
+dev.crs-service.nimbus.gs.com
 dev.csm.ops.gs.com
 dev.jira.devcollab.gs.com
 dev.jira2.devcollab.gs.com
@@ -1039,6 +1041,7 @@ orbitdrive.web.gs.com
 origin-ccs.fin.ap2.oraclecloud.gs.com
 origin-qa.global-liquidity.gs.com
 origin-qa.gsam.gs.com
+origin-qa.tracking.gs.com
 origin-srp.txb.gs.com
 origin-srp.txbqa.gs.com
 origin.360-qa.gs.com
@@ -1121,6 +1124,7 @@ prod.wecom.gs.com
 prod1-360.gs.com
 projx.api.clearfactr.gs.com
 projx.app.clearfactr.gs.com
+provenir.dev.gs.com
 publishing-qa.gs.com
 publishing.gs.com
 pwm--dev2.my.salesforce.nimbus.gs.com

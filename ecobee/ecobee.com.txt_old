@@ -163,6 +163,7 @@ firmware.pl-prod.ecobee.com
 firmware.pl-stage.ecobee.com
 fw-upgrade.ts-dev.ecobee.com
 fw-upgrade.ts-prod.ecobee.com
+gdaapi-2.op-prod.ecobee.com
 gdaapi.op-prod.ecobee.com
 gitlab.ecobee.com
 grafana.a0-staging.ecobee.com

@@ -38,6 +38,7 @@ container-upload.laggar.gcw.crowdstrike.com
 container-upload.us-1.crowdstrike.com
 container-upload.us-2.crowdstrike.com
 container-upload.us-gov-west-1.crowdstrike.com
+content.guide.crowdstrike.com
 crowd.crowdstrike.com
 crowdconnect.crowdstrike.com
 crowdexchange.crowdstrike.com
@@ -53,6 +54,7 @@ cs-staging-services.crowdstrike.com
 cs-staging-www.crowdstrike.com
 csix.crowdstrike.com
 cswww.crowdstrike.com
+data.guide.crowdstrike.com
 delta.crowdstrike.com
 dev-complete.crowdstrike.com
 developer.crowdstrike.com
