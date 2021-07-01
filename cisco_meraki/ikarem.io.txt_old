@@ -1477,6 +1477,7 @@ georges.dev.network-auth.ikarem.io
 georges.meraki-go.ikarem.io
 gitlab-internal.int.ikarem.io
 gitlab-pages-test.ikarem.io
+gitlab-pages.ikarem.io
 gitlab.int.ikarem.io
 gjohnson.dev.ikarem.io
 gjohnson.dev.network-auth.ikarem.io
@@ -1753,6 +1754,9 @@ malini.meraki-go.ikarem.io
 manasak.dev.ikarem.io
 manasak.dev.network-auth.ikarem.io
 manasak.meraki-go.ikarem.io
+manish.dev.ikarem.io
+manish.dev.network-auth.ikarem.io
+manish.meraki-go.ikarem.io
 manishma.dev.ikarem.io
 manishma.dev.network-auth.ikarem.io
 manishma.meraki-go.ikarem.io
@@ -3327,6 +3331,7 @@ sso.likai.dev.ikarem.io
 sso.louische.dev.ikarem.io
 sso.malini.dev.ikarem.io
 sso.manasak.dev.ikarem.io
+sso.manish.dev.ikarem.io
 sso.manishma.dev.ikarem.io
 sso.mariahb.dev.ikarem.io
 sso.mario.dev.ikarem.io

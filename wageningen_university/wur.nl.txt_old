@@ -412,6 +412,7 @@ consumer-patchmanager-location.tst.dip.wur.nl
 consumer-planon-configurationitem.acc.dip.wur.nl
 consumer-planon-configurationitem.prd.dip.wur.nl
 consumer-planon-configurationitem.tst.dip.wur.nl
+consumer-planon-creditor.acc.dip.wur.nl
 consumer-planon-creditor.tst.dip.wur.nl
 consumer-planon-debtor.acc.dip.wur.nl
 consumer-planon-debtor.prd.dip.wur.nl
@@ -462,6 +463,7 @@ consumer-timeedit-wurperson.acc.dip.wur.nl
 consumer-timeedit-wurperson.prd.dip.wur.nl
 consumer-timeedit-wurperson.tst.dip.wur.nl
 consumer-uas-wurperson.tst.dip.wur.nl
+consumer-ubw-salesorder.tst.dip.wur.nl
 consumer-ubw-wurperson.acc.dip.wur.nl
 consumer-ubw-wurperson.prd.dip.wur.nl
 consumer-ubw-wurperson.tst.dip.wur.nl

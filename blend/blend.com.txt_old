@@ -6,6 +6,8 @@ api.blend.com
 associatedbankpricingmassl.pricing.k8s.beta.blend.com
 associatedbankpricingmassl.pricing.k8s.prod.blend.com
 beta.blend.com
+beta.us-east-1.blend.com
+beta.us-west-2.blend.com
 beyond.blend.com
 blendcomdev.p2.int.blend.com
 blendsitep2.p2.int.blend.com
@@ -73,11 +75,15 @@ k8s-mirror.preprod.blend.com
 k8s-mirror.prod.blend.com
 k8s-mirror.tools.blend.com
 k8s.beta.blend.com
+k8s.beta.us-east-1.blend.com
+k8s.beta.us-west-2.blend.com
 k8s.dr.blend.com
 k8s.int.blend.com
 k8s.pentest.blend.com
 k8s.preprod.blend.com
 k8s.prod.blend.com
+k8s.prod.us-east-1.blend.com
+k8s.prod.us-west-2.blend.com
 k8s.tools.blend.com
 k8s.tools.us-east-1.blend.com
 k8s.tools.us-west-2.blend.com
@@ -111,6 +117,8 @@ pricing.k8s.beta.blend.com
 pricing.k8s.preprod.blend.com
 pricing.k8s.prod.blend.com
 prod.blend.com
+prod.us-east-1.blend.com
+prod.us-west-2.blend.com
 prometheus.k8s.beta.blend.com
 prometheus.k8s.preprod.blend.com
 prometheus.k8s.prod.blend.com

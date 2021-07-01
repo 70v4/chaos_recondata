@@ -79,6 +79,8 @@ advertising.roku.com
 agile-dl.portal.roku.com
 agile.roku.com
 agualab.portal.roku.com
+airflow-dev-new.bdp.roku.com
+airflow.bdp.roku.com
 airflow.dev.cti.roku.com
 airflow.qa.cti.roku.com
 airflow.stg.cti.roku.com
@@ -351,6 +353,7 @@ dashboard.us-west-2.staging.unity.roku.com
 dashboard.us-west-2.unity.roku.com
 dashboards-dev.bdp.roku.com
 dashboards.bdp.roku.com
+data-processing-dev-emr-5-21.bdp.roku.com
 de-amundsen-elks-dev.bdp.roku.com
 de-amundsen-elks.bdp.roku.com
 deckard.dev.cti.roku.com
@@ -616,6 +619,9 @@ lat-services.api.data.roku.com
 law-staging.portal.roku.com
 law.portal.roku.com
 ldap.roku.com
+lego-airflow-dev.bdp.roku.com
+lego-airflow-prod.bdp.roku.com
+lego-airflow.bdp.roku.com
 lego-api.bdp.roku.com
 lemurintdev.trust.roku.com
 lemurnginx.trust.roku.com

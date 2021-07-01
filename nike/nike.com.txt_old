@@ -108,9 +108,7 @@
 0c0a67aa-02cc-46a4-90c0-7fde256dc9dd.nike.com
 0c0bc046-e04c-432c-8652-557b31533885.nike.com
 0c19e7e0-eb52-460d-844e-94836fbd8358.nike.com
-0c1a8510-709b-4173-a91c-b4acf338f4ab.nike.com
 0c290627-5f5f-4400-81df-784d60140b33.nike.com
-0c32352a-3d96-4957-8068-e989d34f781e.nike.com
 0c4f2ff4-d796-438c-8859-89f76e38c3f6.nike.com
 0c539d4f-f6fe-48e4-9167-18bb16c929a2.nike.com
 0c75eb96-35ee-4020-b1a0-5b5f17f01a44.nike.com
@@ -164,6 +162,7 @@
 132603b6-68bd-4fd2-8c18-947238822662.nike.com
 1348b7dc-1d41-45e3-a82b-f2db5e532520.nike.com
 1365b16c-dcb6-472a-8827-e5920fecc698.nike.com
+13781b2c-6705-4fcf-b8d2-765027f8a369.nike.com
 137e1ede-26a7-4837-b6d7-eca39994affa.nike.com
 1387fcd4-8dd2-4c52-a221-476f06debbfa.nike.com
 1392b608-0f51-442c-8d6b-9d884496d550.nike.com
@@ -340,6 +339,7 @@
 25af7bb8-23ee-4a38-b9b9-8a832142c456.nike.com
 25d6dec6-7c14-495a-8375-ab163ac4d8a3.nike.com
 25d8ea90-ec37-4beb-8f50-7f058c05f90d.nike.com
+25fccfa1-4dcd-444f-8d6d-bb4305d65466.nike.com
 260ebe7a-14a8-4b5d-9a0e-0bd4ff3607c5.nike.com
 2649603d-8ca9-4735-a3ab-7338a1e632b1.nike.com
 2713abdb-cb7e-4d45-a70f-3c059d2926a7.nike.com
@@ -739,13 +739,11 @@
 524f791e-07f7-4c50-af26-ec13af403858.nike.com
 52860360-5d0c-4ce6-a6ad-79292709934f.nike.com
 52875567-f371-454c-8862-38c88ce13a58.nike.com
-528a48f4-1bf6-43c4-9b7e-7a789cce42eb.nike.com
 52cf631d-f11e-4272-9c26-5d22e30a93ae.nike.com
 53009a03-f98e-4b16-bbd9-4bfb552eb2fd.nike.com
 531ab42e-95cf-4552-94a6-e4a4cf1faf39.nike.com
 531ea1ff-aa09-4fb3-91ed-253c1a241451.nike.com
 5328dbab-1884-4c0a-8564-5093a856f008.nike.com
-5333b137-1978-4769-b6d5-a5b347e03407.nike.com
 53cc3925-d6f0-4d02-84bf-d53e91dd9035.nike.com
 53d4c52f-a93e-418e-843d-d5ad9ef61650.nike.com
 53fc7cbb-edd2-49ad-b595-74681045ce3b.nike.com
@@ -763,6 +761,7 @@
 54ba853b-9927-4413-afad-24971abc5288.nike.com
 54bf45a3-b011-45fe-a559-a77933fd8358.nike.com
 550da2d7-ff85-420a-aa21-8b34e3fd19a9.nike.com
+552b2a92-c4a0-4469-ac14-dee130998c37.nike.com
 552d8092-4d50-46cb-b57d-f10b0fd9c42b.nike.com
 557500cc-a677-4305-a5f1-7b2a4f4318dd.nike.com
 557b23d6-1195-403c-8e67-5ff581459492.nike.com
@@ -864,6 +863,7 @@
 61a965f2-6866-483f-846a-de0c82a2b47f.nike.com
 61b1aef6-bfa5-4881-b5c8-b0f42f75d339.nike.com
 61bf4720-f513-4dac-8871-7fc20bf95203.nike.com
+61f624f3-e43b-4038-9a3c-7d29c3f7947e.nike.com
 623e5efa-c9f0-403c-83a1-fa8913b75d99.nike.com
 625d7974-ac7f-46db-a24b-0cfb84d1c130.nike.com
 62804f35-2b61-4060-920b-b562fe44c5bf.nike.com
@@ -873,7 +873,6 @@
 635613f6-dda2-443e-a552-60b6bf39c3e4.nike.com
 63821b9d-fc83-4308-9633-44b65540343f.nike.com
 6387d12a-354b-4a80-9d6d-c7a46a683f4b.nike.com
-639bbf16-1d24-4557-9101-ec1afa111f26.nike.com
 63a35b4f-b5c2-4500-b2eb-efed139b53c4.nike.com
 63cb97c5-318e-4c4c-967a-ea2e05927c6d.nike.com
 63cc99ac-b4eb-45e2-b530-bc613da54778.nike.com
@@ -1141,6 +1140,7 @@
 80495363-b9c3-4f93-8b5a-8de13623b205.nike.com
 807c49db-e8dd-424d-9689-38757469bc43.nike.com
 80c40679-4af5-4b31-82d0-58afc12cd5a4.nike.com
+80cf4db6-631c-4132-9e4e-ab9d03bd069d.nike.com
 80d9fe41-f6b2-48f5-9094-a1b57922187d.nike.com
 80dc3ac3-0e04-4517-986c-0e2a0c68aae1.nike.com
 80e078f2-106c-44b6-937a-41c2cabd3df2.nike.com
@@ -1250,7 +1250,6 @@
 8c8edfea-90dd-486f-8d82-ebdcb419c2a6.nike.com
 8cb9fe0a-8683-4e56-a7be-cb634c0d790f.nike.com
 8cc56b0d-3d4e-430b-b405-ddd4120a4a45.nike.com
-8cf0394d-88c0-4b27-be8c-67c8795fe77e.nike.com
 8d135fe0-e3eb-4720-b82e-57b1dc6d09c0.nike.com
 8d30f493-1f7a-4153-a43d-2911a6881acf.nike.com
 8d4fd182-763c-480e-9ea7-6fec045b6c1d.nike.com
@@ -1363,7 +1362,6 @@
 98becaea-1460-4e37-be97-13f21e86adc9.nike.com
 98c382a7-d513-4faa-9509-ca7134a6d184.nike.com
 98d762a2-f68a-4fe7-a612-f94662445cd8.nike.com
-98e1836a-f500-4dc2-83c5-e1affd8be092.nike.com
 98ebd04e-3717-4daf-a58c-bec70a8f3d08.nike.com
 9905a9ae-5543-4824-aa07-689bf2923977.nike.com
 991430f1-daed-42f0-95a8-5d3bdcf632b0.nike.com
@@ -1377,7 +1375,6 @@
 99a2580c-6fc7-49d9-917f-ba38f723a4c3.nike.com
 99a3cefa-9f96-4d03-89f4-253ce203a667.nike.com
 99a3cfbd-f341-4396-98bf-a4724006ad67.nike.com
-99abc0e5-c4f7-4686-9f6b-3c00129cb664.nike.com
 99de90f2-0243-4095-a812-dc9dad1617f4.nike.com
 99dea1a6-ad7c-477f-93f9-128e98a3afaf.nike.com
 99eff78f-ec7c-4638-96a3-20717dbf17b2.nike.com
@@ -2035,6 +2032,7 @@ b5edc6e7-50be-4bf5-9a7a-21fe48093180.nike.com
 b61ccc1a-6871-4ac9-bdf4-711da6d800d0.nike.com
 b620a5ef-4840-4fad-89dc-e295b48a93e5.nike.com
 b64d2e12-dc51-4129-843f-e83f9c87b4ec.nike.com
+b66ae3e5-3026-44a7-856e-89e85966825e.nike.com
 b6bf1844-cb31-4840-933c-3f1b0ffbe204.nike.com
 b6d343e6-16ba-48cc-98d5-de0693533ff0.nike.com
 b6d4ff99-88ce-4dba-947a-c7540c51f529.nike.com
@@ -2215,7 +2213,6 @@ c4d215a3-b2d0-4c0a-a1aa-ee811225cb99.nike.com
 c4d3b57a-8dfe-4bd9-bf0a-398b837eb385.nike.com
 c5212319-6892-4555-9701-546daf68a19d.nike.com
 c5496061-dda6-474b-91d2-3886444de3fa.nike.com
-c57668f9-7824-4e17-9028-39dbf1d1eec5.nike.com
 c57df084-e1f1-4b24-9147-88f6befdb9f8.nike.com
 c583a499-08c0-4aec-be10-0b6eee1a96a0.nike.com
 c583c837-c0c8-4f97-a3b5-69378c132d5e.nike.com
@@ -2588,7 +2585,6 @@ cl-test-micro-1.0.0-confluent-6.1.1-06a26d41.mstachow2.w2.nmk-test.platforms.nik
 cl-test-micro-1.0.0-confluent-6.1.1-06fba3a4.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-0797a09f.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-079e4cb2.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-micro-1.0.0-confluent-6.1.1-07dd0182.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-0807616e.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-080cef64.e1.nmk-prod.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-0810a199.mstachow2.w2.nmk-test.platforms.nike.com
@@ -2634,12 +2630,12 @@ cl-test-micro-1.0.0-confluent-6.1.1-14860010.prs.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-14e9276e.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-15078291.preprod.nw1.cn.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-151f20f0.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-micro-1.0.0-confluent-6.1.1-154f0bc0.w2.nmk-prod.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-15bd06db.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-15ea8285.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-1652cb8c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-169963ee.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-170da715.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-micro-1.0.0-confluent-6.1.1-174109ff.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-175f032f.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-17f78c36.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-1826fa34.mstachow2.w2.nmk-test.platforms.nike.com
@@ -2929,6 +2925,7 @@ cl-test-micro-1.0.0-confluent-6.1.1-7326982d.mstachow2.w2.nmk-test.platforms.nik
 cl-test-micro-1.0.0-confluent-6.1.1-73765f2c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-740f1f05.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-7459e737.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-micro-1.0.0-confluent-6.1.1-74ba4599.staging.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-74dd5487.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-74e2e180.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-75a79914.euw1.nmk-prod.platforms.nike.com
@@ -2936,7 +2933,6 @@ cl-test-micro-1.0.0-confluent-6.1.1-75e91e9d.mstachow2.w2.nmk-test.platforms.nik
 cl-test-micro-1.0.0-confluent-6.1.1-760bdf9e.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-7679a0a8.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-7741129b.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-micro-1.0.0-confluent-6.1.1-77628f2a.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-779f27b1.prs.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-7873a80e.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-7904bdcf.mstachow2.w2.nmk-test.platforms.nike.com
@@ -3167,7 +3163,6 @@ cl-test-micro-1.0.0-confluent-6.1.1-c3847fd6.mstachow2.w2.nmk-test.platforms.nik
 cl-test-micro-1.0.0-confluent-6.1.1-c3d52702.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-c489d5af.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-c4b390c5.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-micro-1.0.0-confluent-6.1.1-c5312647.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-c5939e8c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-c5dcef4d.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-micro-1.0.0-confluent-6.1.1-c62401ed.mstachow2.w2.nmk-test.platforms.nike.com
@@ -3673,7 +3668,6 @@ cl-test-standard-1.0.0-confluent-6.1.1-226fba4b.mstachow2.w2.nmk-test.platforms.
 cl-test-standard-1.0.0-confluent-6.1.1-22f78627.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-23868abe.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-238b4a43.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-standard-1.0.0-confluent-6.1.1-23ba8369.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-250fc69a.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-254a3c6c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-257c2d2e.euw1.nmk-prod.platforms.nike.com
@@ -3772,6 +3766,7 @@ cl-test-standard-1.0.0-confluent-6.1.1-4278896d.mstachow2.w2.nmk-test.platforms.
 cl-test-standard-1.0.0-confluent-6.1.1-43085ec1.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-43f4be8d.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-442ea819.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-standard-1.0.0-confluent-6.1.1-44dffc85.preprod.nw1.cn.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-45118f2c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-46074979.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-460991ee.mstachow2.w2.nmk-test.platforms.nike.com
@@ -3897,6 +3892,7 @@ cl-test-standard-1.0.0-confluent-6.1.1-6eb66981.preprod.nw1.cn.nmk-test.platform
 cl-test-standard-1.0.0-confluent-6.1.1-6fbcc4ae.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-6ff30f24.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-7017645d.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-standard-1.0.0-confluent-6.1.1-703e2d57.w2.nmk-prod.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-70f9ac3a.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-70fb7c8d.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-70ff12bf.mstachow2.w2.nmk-test.platforms.nike.com
@@ -3996,6 +3992,7 @@ cl-test-standard-1.0.0-confluent-6.1.1-8d012144.mstachow2.w2.nmk-test.platforms.
 cl-test-standard-1.0.0-confluent-6.1.1-8d61199f.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-8e6d22b0.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-8e8c4214.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-standard-1.0.0-confluent-6.1.1-8ea0f725.prs.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-8f0e1adb.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-8f245a45.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-8f3cdcc5.mstachow2.w2.nmk-test.platforms.nike.com
@@ -4032,6 +4029,7 @@ cl-test-standard-1.0.0-confluent-6.1.1-99d95ec5.preprod.nw1.cn.nmk-test.platform
 cl-test-standard-1.0.0-confluent-6.1.1-9ac1954c.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-9b067c3f.euw1.nmk-prod.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-9b84e3ab.mstachow2.w2.nmk-test.platforms.nike.com
+cl-test-standard-1.0.0-confluent-6.1.1-9b882582.staging.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-9be88b12.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-9c2ebfc4.staging.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-9cc76059.mstachow2.w2.nmk-test.platforms.nike.com
@@ -4188,7 +4186,6 @@ cl-test-standard-1.0.0-confluent-6.1.1-ce3e15a1.mstachow2.w2.nmk-test.platforms.
 cl-test-standard-1.0.0-confluent-6.1.1-ce54e147.prs.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-ce69fb8b.w2.nmk-prod.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-cf0f6044.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-standard-1.0.0-confluent-6.1.1-cf5dddfc.e1.nmk-prod.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-cf7424c7.prs.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-cf834fc5.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-cf8e0287.mstachow2.w2.nmk-test.platforms.nike.com
@@ -4332,7 +4329,6 @@ cl-test-standard-1.0.0-confluent-6.1.1-f8055c71.euw1.nmk-prod.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f8c15f6e.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f8e41cdc.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f8f9063c.mstachow2.w2.nmk-test.platforms.nike.com
-cl-test-standard-1.0.0-confluent-6.1.1-f90a2c4d.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f969264d.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f9864325.mstachow2.w2.nmk-test.platforms.nike.com
 cl-test-standard-1.0.0-confluent-6.1.1-f9950c80.mstachow2.w2.nmk-test.platforms.nike.com
@@ -4628,7 +4624,6 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-01a105bb.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-01e94d57.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-02121f63.euw1.nmk-prod.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-022df890.mstachow2.w2.nmk-test.platforms.nike.com
-controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-02a5e96a.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-02e8487e.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-02fa06de.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-0336453b.mstachow2.w2.nmk-test.platforms.nike.com
@@ -4695,9 +4690,9 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-14cdd53a.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-14d61586.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-14e05395.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-14fff3ab.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-16725578.prs.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-16add647.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-16aed01d.prs.w2.nmk-test.platforms.nike.com
-controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-17067e5f.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-174109ff.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-17990e7c.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-183b83dd.e1.nmk-prod.platforms.nike.com
@@ -4791,7 +4786,6 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-3217feb4.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-3239cfd0.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-334b3488.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-33aefb64.mstachow2.w2.nmk-test.platforms.nike.com
-controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-33c4ba13.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-344f02a8.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-3470b23a.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-349c5670.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5001,7 +4995,6 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7ce8202e.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7de91525.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7e5ac017.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7ec51323.preprod.nw1.cn.nmk-test.platforms.nike.com
-controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7eca9b98.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7eceae8f.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7f1a1788.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-7fc8c08c.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5156,6 +5149,7 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ab5d6db0.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-abcc1f0c.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-abd5cf2b.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ac32a396.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ac32c8be.prs.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ac42291a.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ad234e40.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ad53e4fb.prs.w2.nmk-test.platforms.nike.com
@@ -5284,6 +5278,7 @@ controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dc63ee03.mstachow2.w2.nmk-test
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dcd53024.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dd267b36.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dd2df377.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dd676b74.staging.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dd973e5c.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-dde64520.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-micro-1.0.0-confluent-6.1.1-ddf9237d.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5745,7 +5740,6 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-2fe3d357.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3087314f.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-30db81aa.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-31bc77fe.mstachow2.w2.nmk-test.platforms.nike.com
-controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-31e26537.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-332f6eb1.e1.nmk-prod.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-338fbdd0.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-365fde33.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5764,6 +5758,7 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-39429b7b.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-39e34479.prs.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-39f6af5b.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3a7fdd00.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3a9b0195.w2.nmk-prod.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3b4ea3c1.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3b89ab98.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-3c43d412.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5823,6 +5818,7 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-51398996.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-51535965.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-51563edc.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-515a9bf4.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-51c0a4ca.prs.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-51c35a01.w2.nmk-prod.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-523502e4.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-52391de9.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5863,6 +5859,7 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5c7a76a5.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5cbabccf.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5d049fa7.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5ddcaa3e.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5dfe39ea.preprod.nw1.cn.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5dff0d84.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5f067966.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-5f366d5d.mstachow2.w2.nmk-test.platforms.nike.com
@@ -5995,7 +5992,6 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8beba726.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8ca45847.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8cee4d11.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8dba4c46.mstachow2.w2.nmk-test.platforms.nike.com
-controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8e3d2062.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8e5509e4.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8e66ab16.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-8e7a4420.w2.nmk-prod.platforms.nike.com
@@ -6143,6 +6139,7 @@ controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-ba466a1d.mstachow2.w2.nmk-t
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-ba5b79c4.staging.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-baad3f07.cn.nmk-prod.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-baec1c04.mstachow2.w2.nmk-test.platforms.nike.com
+controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-bb060cd7.prs.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-bb6b051c.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-bbb2c07a.mstachow2.w2.nmk-test.platforms.nike.com
 controlcenter.cl-test-standard-1.0.0-confluent-6.1.1-bbca4a5f.mstachow2.w2.nmk-test.platforms.nike.com
@@ -6678,7 +6675,6 @@ daasusep1.nike.com
 dataloader-api-dev.pes-preprod.nike.com
 dataserver.cn.test.adapt.nike.com
 db003ef6-5522-4c40-be7b-fd2adb0c3422.nike.com
-db281529-1603-458d-b7ec-bf6778372f68.nike.com
 db35c8f8-678c-4ca4-bb9d-f269b18e354f.nike.com
 db7b6ce5-6725-4b5c-b867-6b3ea50ca8d9.nike.com
 db98404e-d4df-412f-b322-62a7ca74eb4d.nike.com
@@ -9037,7 +9033,6 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0a8ab7b4.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0aa94f71.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0ac82167.cn.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0acb428e.preprod.nw1.cn.nmk-test.platforms.nike.com
-schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0af2af68.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0b3ac664.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0ccbf4db.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-0d38b0c6.staging.w2.nmk-test.platforms.nike.com
@@ -9065,7 +9060,6 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-1342c5a3.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-136d560f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-141ff7b6.euw1.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-142f1fb9.mstachow2.w2.nmk-test.platforms.nike.com
-schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-1447a76c.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-14739cdc.w2.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-14cdd53a.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-14d8f8a2.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9076,7 +9070,6 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-160b6c5f.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-162476d2.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-168bcc30.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-16eca09f.mstachow2.w2.nmk-test.platforms.nike.com
-schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-17067e5f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-175f032f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-17990e7c.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-17f78c36.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9105,7 +9098,6 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-1fd704f5.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-2056a974.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-20c1f565.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-21047a26.mstachow2.w2.nmk-test.platforms.nike.com
-schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-2114e60f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-21a23584.preprod.nw1.cn.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-22038752.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-229332b0.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9377,6 +9369,7 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7a77b0e4.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7a94110a.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7ae9aa3f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7b1d4b85.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7c20c1b6.mredla.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7c49fd2c.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7c549f36.staging.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-7d0466f5.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9433,8 +9426,11 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8bb8eb73.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8bd8fc36.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8c043e9c.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8c816b7e.euw1.nmk-prod.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8cb2872c.preprod.nw1.cn.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8cdf4b65.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8e1931d3.cn.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8ecc41a7.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8efaab07.prs.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8f823bb3.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8f933be6.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-8fb0e76f.w2.nmk-prod.platforms.nike.com
@@ -9547,6 +9543,7 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b4323653.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b4490cd3.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b5a1e7fa.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b5acd8ad.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b6687965.prs.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b6b6013a.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b6badcd4.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-b72c18ff.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9573,7 +9570,6 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c00497f5.e1.nmk-prod.platform
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c0809b8f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c1327cb4.e1.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c13ee0a7.mstachow2.w2.nmk-test.platforms.nike.com
-schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c17de1e3.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c19293f7.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c19de7e6.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-c1c32bbf.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9647,6 +9643,7 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-db459d98.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-db84f3d0.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-dd2df377.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-dd4ad483.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-dd676b74.staging.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-dd973e5c.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-ddd9a6a5.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-de21b728.mstachow2.w2.nmk-test.platforms.nike.com
@@ -9718,6 +9715,7 @@ schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f0d339e9.mstachow2.w2.nmk-tes
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f0eb0abf.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f0f39ab3.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f14c0715.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f1aeb084.euw1.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f1d6a62a.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f2fd14e2.preprod.nw1.cn.nmk-test.platforms.nike.com
 schemaregistry.cl-test-micro-1.0.0-confluent-6.1.1-f3f200d8.mstachow2.w2.nmk-test.platforms.nike.com
@@ -10044,6 +10042,7 @@ schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1c468b0a.mstachow2.w2.nmk-
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1cb5f969.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1d2bd517.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1e315a73.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1e3aca4e.preprod.nw1.cn.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1e7ae380.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1e840268.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-1ec60808.mstachow2.w2.nmk-test.platforms.nike.com
@@ -10309,6 +10308,7 @@ schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-6ce3751d.mstachow2.w2.nmk-
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-6d6aa08f.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-6f04de5e.prs.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-70302426.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-703e2d57.w2.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-704a7890.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-70ff12bf.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-71ac4cd0.mstachow2.w2.nmk-test.platforms.nike.com
@@ -10433,6 +10433,7 @@ schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-99dc8e09.mstachow2.w2.nmk-
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9a236948.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9b2d1ea5.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9b84e3ab.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9b882582.staging.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9c48e008.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9cf85acb.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-9d0295cc.preprod.nw1.cn.nmk-test.platforms.nike.com
@@ -10464,6 +10465,7 @@ schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a5249891.mstachow2.w2.nmk-
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a5924ed3.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a5b12030.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a5d75d01.mstachow2.w2.nmk-test.platforms.nike.com
+schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a5f14b6e.cn.nmk-prod.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a6141d6b.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a63b7e47.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-a6564bba.mstachow2.w2.nmk-test.platforms.nike.com
@@ -10485,8 +10487,8 @@ schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-ab252177.mstachow2.w2.nmk-
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-ab35354a.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-ab96a127.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-abd8c72c.mstachow2.w2.nmk-test.platforms.nike.com
-schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-ade8b9d1.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-adfaf700.cn.nmk-prod.platforms.nike.com
+schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-ae35fb39.mredla.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-aeb1ce51.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-aebfab62.mstachow2.w2.nmk-test.platforms.nike.com
 schemaregistry.cl-test-standard-1.0.0-confluent-6.1.1-aeda0aee.prs.w2.nmk-test.platforms.nike.com
@@ -10927,7 +10929,6 @@ secureaccess.nike.com
 securevdi-us.nike.com
 securid-dev.nike.com
 securid-prod.nike.com
-serving.dev.cnnw1.cn.test.adapt.nike.com
 serving.ure.cnn1.cn.adapt.nike.com
 serving.ure.e1.ngap.nike.com
 serving.ure.e1.test.dynamicanalytics.platforms.nike.com
@@ -11484,7 +11485,6 @@ www.consumercode.nike.com
 www.eapp.nike.com
 www.emea.nike.com
 www.internal.origin-sustainability-stg.pes-preprod.nike.com
-www.mtz.nike.com
 www.northamerica.nike.com
 www.secureaccess.nike.com
 www.securevdi.nike.com

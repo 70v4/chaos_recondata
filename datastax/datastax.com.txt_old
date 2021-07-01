@@ -424,6 +424,7 @@ pvt-pulsar-azure-westus2-staging.staging.streaming.datastax.com
 pvt-pulsar-azure-westus2.streaming.datastax.com
 pvt-pulsar-gcp-useast4-staging.staging.streaming.datastax.com
 pvt-pulsar-gcp-useast4.streaming.datastax.com
+qa.datastax.com
 qa.vector.datastax.com
 registry.cloud-tools.datastax.com
 registry.dmc-prod-us-east-1.cloud-tools.datastax.com

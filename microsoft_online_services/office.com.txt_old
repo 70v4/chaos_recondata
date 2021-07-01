@@ -175,6 +175,8 @@ cdpingestion.manage.office.com
 cek.rps.lifecycle.office.com
 centraladminsigningcertkey.office.com
 certauth.addinslicensing.store.office.com
+cfr-1es-buildagent.gcp.office.com
+cfr-1es-buildagent.reports.office.com
 changelifecycle.office.com
 checkout.office.com
 cie.transform.office.com
@@ -315,6 +317,7 @@ diagnostics.office.com
 diagnosticssdf.office.com
 discover.office.com
 dlis.forms.office.com
+dlis.peoplepredictions.outlook.office.com
 dlp.outlook.office.com
 dls-ppe-app.office.com
 dm3-direct-ip.office.com

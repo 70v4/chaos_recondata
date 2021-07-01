@@ -2432,6 +2432,7 @@ sendmail.finra.org
 sendmail.pa.finra.org
 sendmail.qa.finra.org
 services-dynarep.ddwa.finra.org
+services-dynarep.ddwa.qa.finra.org
 services-int.rampdo.qa.finra.org
 services.rampdo.finra.org
 services.rampdo.qa.finra.org

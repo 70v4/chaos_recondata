@@ -846,6 +846,8 @@ caas-arkea-mtf.mastercard.com
 caas-arkea.mastercard.com
 caas-assebpank-mtf.mastercard.com
 caas-assebpank.mastercard.com
+caas-austriaca-ob-bajo-mtf.mastercard.com
+caas-austriaca-ob-bajo.mastercard.com
 caas-axisbank-mtf.mastercard.com
 caas-axisbank.mastercard.com
 caas-azeri-obo-rabita-mtf.mastercard.com
@@ -1065,6 +1067,8 @@ caas-paypal-mtf.mastercard.com
 caas-paypal.mastercard.com
 caas-postfinanceag-mtf.mastercard.com
 caas-postfinanceag.mastercard.com
+caas-privatbank-mtf.mastercard.com
+caas-privatbank.mastercard.com
 caas-quicko-mtf.mastercard.com
 caas-quicko.mastercard.com
 caas-rabitabankojsc-mtf.mastercard.com
@@ -3598,6 +3602,7 @@ static.developer.mastercard.com
 static.stage.developer.mastercard.com
 statusdb.mastercard.com
 stg-comparte.mastercard.com
+stg-perf-mmc-gw-sf.mastercard.com
 stgadmin.aid.communitypass.mastercard.com
 stgadmin.aidpass.mastercard.com
 stgadmin.communitypass.mastercard.com

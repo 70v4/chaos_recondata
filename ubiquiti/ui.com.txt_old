@@ -486,6 +486,7 @@ talk.svc.ui.com
 tooling-builders.dev.svc.ui.com
 tooling-builders.dev.ui.com
 trace-validation.dev.svc.ui.com
+trace-validation.svc.ui.com
 trace.dev.svc.ui.com
 trace.stg.svc.ui.com
 trace.svc.ui.com

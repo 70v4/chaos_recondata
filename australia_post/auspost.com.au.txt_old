@@ -701,6 +701,7 @@ st-label-service.cooi-prod-01.internal.auspost.com.au
 st-remote.auspost.com.au
 st-remotedev.auspost.com.au
 st-remotetest.auspost.com.au
+st-reply-opt-out-fargate.cooi-dev-01.internal.auspost.com.au
 st-reply-opt-out-pdev.cooi-dev-01.internal.auspost.com.au
 st-reply-opt-out-ptest.cooi-test-01.internal.auspost.com.au
 st-reply-opt-out.cooi-prod-01.internal.auspost.com.au

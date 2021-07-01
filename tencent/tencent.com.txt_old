@@ -72,6 +72,8 @@ abcagj10-yto2x9vy004a9.online.9.antivirus.bo.webproxy.idc.tencent.com
 access-youmall-cd.cloud.tencent.com
 access.ioa.tencent.com
 access.tpns.tencent.com
+access1.tpns.sh-fsi.tencent.com
+access2.tpns.sh-fsi.tencent.com
 accessasia.ioa.tencent.com
 accesscap.ioa.tencent.com
 accesseu.ioa.tencent.com
@@ -267,6 +269,7 @@ cc.o.tencent.com
 ccb.tpns.hk.tencent.com
 ccb.tpns.pre.tencent.com
 ccb.tpns.sgp.tencent.com
+ccb.tpns.sh-fsi.tencent.com
 ccb.tpns.sh.tencent.com
 ccb.tpns.tencent.com
 ccb.tpns.test.tencent.com
@@ -332,6 +335,7 @@ create.tencent.com
 creativecloud.tencent.com
 cs35ki4oz.antivirus.photos.webproxy.idc.tencent.com
 csigculture.tencent.com
+csigpad.tencent.com
 csigssd.tencent.com
 ct.vpn.oa.tencent.com
 ctss.tencent.com
@@ -564,6 +568,7 @@ gtrust.tencent.com
 guid.tpns.hk.tencent.com
 guid.tpns.pre.tencent.com
 guid.tpns.sgp.tencent.com
+guid.tpns.sh-fsi.tencent.com
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
 guid.tpns.test.tencent.com
@@ -742,6 +747,7 @@ localhost.ptlogin2.tencent.com
 log.tpns.hk.tencent.com
 log.tpns.pre.tencent.com
 log.tpns.sgp.tencent.com
+log.tpns.sh-fsi.tencent.com
 log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log.tpns.test.tencent.com
@@ -1094,6 +1100,7 @@ rmsoa.tencent.com
 rpcenter.hr.tencent.com
 rpcenter.tencent.com
 rs-apaas.tencent.com
+rtc.tencent.com
 rtx.tencent.com
 rtx1app.oa.tencent.com
 ruyi.tencent.com
@@ -1238,6 +1245,7 @@ stat.api.tpns.tencent.com
 stat.tpns.hk.tencent.com
 stat.tpns.pre.tencent.com
 stat.tpns.sgp.tencent.com
+stat.tpns.sh-fsi.tencent.com
 stat.tpns.sh.tencent.com
 stat.tpns.tencent.com
 stat.tpns.test.tencent.com
@@ -1446,6 +1454,7 @@ tpns.gz.tencent.com
 tpns.hk.tencent.com
 tpns.pre.tencent.com
 tpns.sgp.tencent.com
+tpns.sh-fsi.tencent.com
 tpns.sh.tencent.com
 tpns.tencent.com
 tpns.test.tencent.com

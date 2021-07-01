@@ -3122,6 +3122,8 @@ migdlsp-wbench-reg.devops.telekom.de
 migdlsp-wbench.devops.telekom.de
 migrate-api.dev.devops.telekom.de
 migrate.dev.devops.telekom.de
+migrate.devops.telekom.de
+migrate.test.devops.telekom.de
 migrationstool-ctu2.telekom.de
 migrationstool-vbt.telekom.de
 migrationstoolbng2a.telekom.de
@@ -3289,6 +3291,7 @@ mydms.telekom.de
 myepic-wbench-reg.devops.telekom.de
 myepic-wbench.devops.telekom.de
 myevacon-dev.aws.telekom.de
+myevacon.aws.telekom.de
 myevacon.telekom.de
 myfew.telekom.de
 myit-cast1.telekom.de
@@ -3950,6 +3953,8 @@ orca-ipc-qas.telekom.de
 orca-ipc-tst.telekom.de
 orca-ipc.telekom.de
 orchestrator.cert.telekom.de
+oreo-preprod.telekom.de
+oreo-prod.telekom.de
 orgit.telekom.de
 orgit4.telekom.de
 orkadrehung.telekom.de
@@ -4301,6 +4306,7 @@ priv.digihub-102439.gigadev.telekom.de
 priv.digihub-104456.gigadev.telekom.de
 priv.digihub-106606.gigadev.telekom.de
 priv.digihub-107123.gigadev.telekom.de
+priv.digihub-108849-vpa.gigadev.telekom.de
 priv.digihub-92975.gigadev.telekom.de
 priv.digihub104444.gigadev.telekom.de
 priv.eksvault.gigadev.telekom.de
@@ -4465,6 +4471,7 @@ pub.digihub-102439.gigadev.telekom.de
 pub.digihub-104456.gigadev.telekom.de
 pub.digihub-106606.gigadev.telekom.de
 pub.digihub-107123.gigadev.telekom.de
+pub.digihub-108849-vpa.gigadev.telekom.de
 pub.digihub-92975.gigadev.telekom.de
 pub.digihub104444.gigadev.telekom.de
 pub.eksvault.gigadev.telekom.de

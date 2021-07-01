@@ -924,6 +924,7 @@ api.test35.stage.paypal.com
 api.test36.stage.paypal.com
 api.test37.stage.paypal.com
 api.test38.stage.paypal.com
+api.test39.stage.paypal.com
 api.test98.stage.paypal.com
 api.test99.stage.paypal.com
 api.testing.perceptipi.stage2ms048.stage.paypal.com
@@ -2398,6 +2399,7 @@ splunksearch.qa.paypal.com
 splunksearchlvs11.qa.paypal.com
 splunksrchdeploygp.paypal.com
 sppds-1.gcp.qa.paypal.com
+sppds-2.gcp.qa.paypal.com
 sr-a-slc.paypal.com
 sr-b-slc.paypal.com
 sr-phx.paypal.com
@@ -3464,6 +3466,7 @@ www.test35.stage.paypal.com
 www.test36.stage.paypal.com
 www.test37.stage.paypal.com
 www.test38.stage.paypal.com
+www.test39.stage.paypal.com
 www.test98.stage.paypal.com
 www.test99.stage.paypal.com
 www.testdrupal6.experstest22.stage.paypal.com

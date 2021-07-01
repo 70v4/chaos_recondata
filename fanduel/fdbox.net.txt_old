@@ -52,6 +52,7 @@ polaris.internal.perftest.k8s.perftest.fdbox.net
 polaris.internal.qa.k8s.perftest.fdbox.net
 prod.uk.fdbox.net
 re-api-prod.fdbox.net
+re-api-staging.perftest.fdbox.net
 redpoint.ad.fdbox.net
 redpoint.ad.use1.perftest.fdbox.net
 redpoint.use1.dev.us.fdbox.net

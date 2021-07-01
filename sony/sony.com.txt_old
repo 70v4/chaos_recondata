@@ -531,6 +531,8 @@ awsusql0030.aws.spe.sony.com
 awsusql0033.aws.spe.sony.com
 awsusql0034.aws.spe.sony.com
 awsusql0036.aws.spe.sony.com
+awsusql0037.aws.spe.sony.com
+awsusql0038.aws.spe.sony.com
 ayuda.sel.sony.com
 azure.spe.sony.com
 b2b-tdn.sony.com
@@ -9108,7 +9110,10 @@ tview.spe.sony.com
 tx.sel-email.sel.sony.com
 tx.sony-network.sel.sony.com
 txn-email.account.sony.com
+tyoa-cd01.infra.sie.sony.com
+tyoa-cp01.infra.sie.sony.com
 tyoa-obj.infra.sie.sony.com
+tyoa-rancher-mgmt01.infra.sie.sony.com
 tyoa-rancher01.infra.sie.sony.com
 tyoa-rancher02.infra.sie.sony.com
 tyoa-rancher03.infra.sie.sony.com
