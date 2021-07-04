@@ -11,11 +11,14 @@ acc2-nl-at-minezk-tvs-etd-saml-client-sign.agentschaptelecom.nl
 appl.agentschaptelecom.nl
 application.agentschaptelecom.nl
 autodiscover.agentschaptelecom.nl
+bon-kra-appl-01.bes.agentschaptelecom.nl
+bon-kra-rds-01.bes.agentschaptelecom.nl
 citrix-argus.agentschaptelecom.nl
 dialin.agentschaptelecom.nl
 english.agentschaptelecom.nl
 feeds.agentschaptelecom.nl
 feeds.english.agentschaptelecom.nl
+fortinet.bes.agentschaptelecom.nl
 ftp.agentschaptelecom.nl
 identificatie-acc.agentschaptelecom.nl
 identificatie-tst.agentschaptelecom.nl
@@ -46,6 +49,7 @@ nl-at-minezk-tvs-etd-saml-client-sign.agentschaptelecom.nl
 opendata.agentschaptelecom.nl
 opendata.english.agentschaptelecom.nl
 pre-live.agentschaptelecom.nl
+rdgw.bes.agentschaptelecom.nl
 sip.agentschaptelecom.nl
 test.agentschaptelecom.nl
 tst-login.agentschaptelecom.nl

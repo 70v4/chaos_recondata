@@ -210,6 +210,7 @@ stage1.registry.airmap.com
 stage1.telemetry.airmap.com
 stage1.traffic.airmap.com
 stage1.upp.uss.airmap.com
+stage1.utm.airmap.com
 stageanac.api.airmap.com
 stageanac.app.airmap.com
 stageanac.auth.airmap.com
@@ -254,6 +255,7 @@ test.uassp-app.airmap.com
 test.uassp.airmap.com
 test.upp.uss.airmap.com
 test.uss.airmap.com
+test.utm.airmap.com
 test.www.uss.airmap.com
 testanac.api.airmap.com
 testanac.app.airmap.com
@@ -264,6 +266,7 @@ tyk.airmap.com
 uassp.airmap.com
 upp.uss.airmap.com
 uss.airmap.com
+utm.airmap.com
 vault.ops.airmap.com
 www.airmap.com
 www.anac-registry.app.airmap.com

@@ -37,6 +37,8 @@ static.rr.seek.com
 status.seek.com
 test.sg-dev.seek.com
 v1.api-sg.rr.seek.com
+waf-upstream.ap-southeast-1.development.external.seek.com
+waf-upstream.ap-southeast-2.development.external.seek.com
 waf-upstream.ap-southeast-2.sandbox.external.seek.com
 wafv2-testing-origin.test.sg-dev.seek.com
 www.cloudflare.test.sg-dev.seek.com

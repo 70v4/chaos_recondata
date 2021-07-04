@@ -81,6 +81,7 @@ gnar-cmills-spark.grammarly.io
 gnar-cmills.grammarly.io
 gnar-fridge-compact-spark.grammarly.io
 gnar-fridge-index-spark.grammarly.io
+gnar-pipeline-compact-split-spark.grammarly.io
 gnar-pipeline-events-enrich-spark.grammarly.io
 gnar-pipeline-feedbacks-spark.grammarly.io
 gnar-pipeline-idxcombineplus-spark.grammarly.io
@@ -115,6 +116,8 @@ gnar-zeppelin-bguerra-spark.grammarly.io
 gnar-zeppelin-bguerra.grammarly.io
 gnar-zeppelin-bliverence-spark.grammarly.io
 gnar-zeppelin-bliverence.grammarly.io
+gnar-zeppelin-cmills-spark.grammarly.io
+gnar-zeppelin-cmills.grammarly.io
 gnar-zeppelin-engineers-spark.grammarly.io
 gnar-zeppelin-engineers.grammarly.io
 gnar-zeppelin-extra-spark.grammarly.io

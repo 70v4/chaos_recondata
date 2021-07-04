@@ -186,6 +186,7 @@ extensions.gunify-qa7.vonage.com
 extensions.gunify-staging.vonage.com
 extensions.gunify.vonage.com
 f5static.vonage.com
+failover.logs.vonage.com
 feedback.vonage.com
 font.resources.vonage.com
 fonts.resources.vonage.com
@@ -242,6 +243,8 @@ lyncdiscoverinternal.vonage.com
 mail1209.send.vonage.com
 mailer.ai.vonage.com
 maillist.vonage.com
+may-login.auth-sandbox.vonage.com
+may.auth-sandbox.vonage.com
 me.vonage.com
 med13.vonage.com
 med14.vonage.com

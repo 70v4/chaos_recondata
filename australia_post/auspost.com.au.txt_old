@@ -31,6 +31,7 @@ apex.auspost.com.au
 apexdev.apps.auspost.com.au
 api-ds.pdep.postplus-dev-01.auspost.com.au
 api-ist.npe.auspost.com.au
+api-pdev.pny.auspost.com.au
 api-ptest.pny.auspost.com.au
 api-sit.npe.auspost.com.au
 api-stest.npe.auspost.com.au
@@ -613,6 +614,7 @@ sdd.ptest.npe.auspost.com.au
 sdd.stest.npe.auspost.com.au
 sdev-crimtrac.npe.workforcechecks.auspost.com.au
 sdev-login.npe.workforcechecks.auspost.com.au
+sds-poc.postplus-dev-01.auspost.com.au
 sds.auspost.com.au
 sds.ptest.npe.auspost.com.au
 sds.stest.npe.auspost.com.au
@@ -685,6 +687,7 @@ sso.auspost.com.au
 st-aae-event-service-pdev.cooi-dev-01.internal.auspost.com.au
 st-aae-event-service-ptest.cooi-test-01.internal.auspost.com.au
 st-aae-event-service-stest.cooi-test-01.internal.auspost.com.au
+st-aae-event-service.cooi-prod-01.internal.auspost.com.au
 st-apple-edi-214-api-pdev.cooi-dev-01.internal.auspost.com.au
 st-apple-edi-214-api-ptest.cooi-test-01.internal.auspost.com.au
 st-apple-edi-214-api-stest.cooi-test-01.internal.auspost.com.au

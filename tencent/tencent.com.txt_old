@@ -525,6 +525,7 @@ ftp.webserver.u.antivirus.bo.webproxy.idc.tencent.com
 ftp.www.ns1.dragon.antivirus.bo.webproxy.idc.tencent.com
 ftp.www.ssh.juegos.antivirus.bo.webproxy.idc.tencent.com
 ftp.www.zm.antivirus.bo.webproxy.idc.tencent.com
+fxd.tencent.com
 fxwhf4alg5jei6.mail.netapp.antivirus.bo.webproxy.idc.tencent.com
 g05cw8k.ssh.ftp.ns1.test.webserver.ssh.webserver.testphp.antivirus.bo.webproxy.idc.tencent.com
 g0ukk-wc2e9ukb2ezzg9x8.webserver.online.ftp.brown.antivirus.bo.webproxy.idc.tencent.com
@@ -1314,6 +1315,7 @@ tcpconn6.tencent.com
 tcpmconn1.tencent.com
 tcptm.tencent.com
 tcptm2.tencent.com
+td.tencent.com
 tdasblic.cloud.tencent.com
 tdw.tencent.com
 tea-lab.tencent.com
@@ -1347,6 +1349,7 @@ test-mdm.tencent.com
 test-mobile-weday.tencent.com
 test-saas-sms.tencent.com
 test-saas-smsp.tencent.com
+test-saasflow.cloud.tencent.com
 test-scp.tencent.com
 test-smp.tencent.com
 test-sms-website.tencent.com

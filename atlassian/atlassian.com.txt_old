@@ -159,6 +159,7 @@ id.atlassian.com
 id.stg.internal.atlassian.com
 identity-bamboo.internal.atlassian.com
 idnow-iqservice.office-stg.atlassian.com
+idnow-iqservice.office.atlassian.com
 imp-pub-ntt.prod.inf.atlassian.com
 instenv.internal.atlassian.com
 internal.atlassian.com
@@ -415,6 +416,7 @@ www.atlassian.com
 www.aug.atlassian.com
 www.directory.atlassian.com
 www.get.atlassian.com
+www.idnow-iqservice.office.atlassian.com
 www.partnerdirectory.atlassian.com
 www.perf.internal.atlassian.com
 www.studio.plugins.atlassian.com

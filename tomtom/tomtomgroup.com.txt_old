@@ -195,6 +195,8 @@ orchestratordev.tomtomgroup.com
 orchestratorprod.tomtomgroup.com
 osm-dev-ext.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 osm-dev-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
+osm-dev13-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
+osm-dev2-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 osm-perf-ext.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 osm-perf-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 osm-prod-ext.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
@@ -246,6 +248,7 @@ registry.adtooling.tomtomgroup.com
 registry.sre-lab.tomtomgroup.com
 relay-ams.tomtomgroup.com
 relay-gnt.tomtomgroup.com
+reports-dev.sec.ad.tomtomgroup.com
 reports.sec.ad.tomtomgroup.com
 rooms4u.tomtomgroup.com
 rundeck.tomtomgroup.com

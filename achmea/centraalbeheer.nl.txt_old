@@ -31,6 +31,7 @@ acc-www1.centraalbeheer.nl
 acc.appcontent.centraalbeheer.nl
 acc.gezondheidsverklaring.centraalbeheer.nl
 acc.link.centraalbeheer.nl
+acc.login.centraalbeheer.nl
 acc10-cm-www.centraalbeheer.nl
 acc10-www.centraalbeheer.nl
 acc11-cm-www.centraalbeheer.nl
@@ -224,6 +225,7 @@ tst-login-select.centraalbeheer.nl
 tst-login.centraalbeheer.nl
 tst-mob-api.centraalbeheer.nl
 tst-www.centraalbeheer.nl
+tst.login.centraalbeheer.nl
 tst10-cm-www.centraalbeheer.nl
 tst10-www.centraalbeheer.nl
 tst11-cm-www.centraalbeheer.nl

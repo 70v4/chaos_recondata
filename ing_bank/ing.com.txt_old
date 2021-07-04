@@ -111,6 +111,8 @@ api.accp.mobile.mybank.ing.com
 api.accp.mobileaccess.ing.com
 api.accp.myaccount.ing.com
 api.accp.mybank.ing.com
+api.accp.nrc.esaeat.ing.com
+api.accp.tax.esaeat.ing.com
 api.accp2.mobile.ing.com
 api.developer.ing.com
 api.eu.globalping.ing.com
@@ -122,7 +124,9 @@ api.mobile.mybank.ing.com
 api.myaccount.ing.com
 api.myaccount.sandbox.ing.com
 api.mybank.ing.com
+api.nrc.esaeat.ing.com
 api.sandbox.ing.com
+api.tax.esaeat.ing.com
 api.teamflow.ing.com
 api.test.mobile.ing.com
 api.test.myaccount.ing.com
@@ -949,6 +953,8 @@ www.api.accp.mobile.ing.com
 www.api.accp.mobile.mybank.ing.com
 www.api.accp.mobileaccess.ing.com
 www.api.accp.mybank.ing.com
+www.api.accp.nrc.esaeat.ing.com
+www.api.accp.tax.esaeat.ing.com
 www.api.accp2.mobile.ing.com
 www.api.developer.ing.com
 www.api.eu.globalping.ing.com
@@ -957,7 +963,9 @@ www.api.mobile.ing.com
 www.api.mobile.mybank.ing.com
 www.api.myaccount.sandbox.ing.com
 www.api.mybank.ing.com
+www.api.nrc.esaeat.ing.com
 www.api.sandbox.ing.com
+www.api.tax.esaeat.ing.com
 www.api.test.mobile.ing.com
 www.appuc.ing.com
 www.arciconstru.ing.com

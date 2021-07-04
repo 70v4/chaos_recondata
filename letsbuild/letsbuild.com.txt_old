@@ -6,6 +6,7 @@ add-users.letsbuild.com
 adding-helper-sets.letsbuild.com
 alpha.letsbuild.com
 api.app.letsbuild.com
+api.demo.letsbuild.com
 api.integrations.letsbuild.com
 app.letsbuild.com
 aproplan.letsbuild.com
@@ -82,6 +83,7 @@ master.letsbuild.com
 mobile.letsbuild.com
 my-work-web.letsbuild.com
 myaccount.app.letsbuild.com
+myaccount.demo.letsbuild.com
 new-rabbit.letsbuild.com
 niny.letsbuild.com
 no-role.letsbuild.com

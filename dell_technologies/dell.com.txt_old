@@ -10813,7 +10813,6 @@ gofo2.us.dell.com
 gofo3-vpn.us.dell.com
 gofo4-vpn.us.dell.com
 gofo5-vpn.us.dell.com
-gofo6.us.dell.com
 google.cloudstore.dell.com
 gop.dell.com
 gosd-pc1.us.dell.com
@@ -10833,7 +10832,6 @@ gosscommnonprod.us.dell.com
 gossrepo.ins.dell.com
 gossrepo.sit.us.dell.com
 gossrepo.us.dell.com
-gotst1-prxy.us.dell.com
 gp376l1.server.oob.devops.dell.com
 gps-aps-rr2.us.dell.com
 gps-aps-te1-rr2.us.dell.com
@@ -10851,7 +10849,6 @@ gps-dev-eps-te1.us.dell.com
 gps-dev-eps-te2.us.dell.com
 gps-dev-eps-te3.us.dell.com
 gps-dev-eps-te4.us.dell.com
-gps-eps-rr2.us.dell.com
 gps-eps-te1-rr2.us.dell.com
 gps-eps-te3-rr2.us.dell.com
 gps-sit-aps-eps.us.dell.com
@@ -11107,6 +11104,8 @@ hrzpw3cuag04.aus.amer.dell.com
 hrzpw3cuag06.aus.amer.dell.com
 hrzpw3cuag07.aus.amer.dell.com
 hrzpw3cuag08.aus.amer.dell.com
+hrzpwluag02.kul.apac.dell.com
+hrzpwluag04.kul.apac.dell.com
 hrzpwuuag02.aus.amer.dell.com
 hrzpwuuag03.aus.amer.dell.com
 hrzpwuuag04.aus.amer.dell.com
@@ -16159,7 +16158,6 @@ singapore-sdc-corpfwm.us.dell.com
 sinpremapp1o01.sg.dell.com
 sinpremapp1o02.sg.dell.com
 sinpremdoc1o01.sg.dell.com
-sinpremicu1o01.sg.dell.com
 sinpremicu1o02.sg.dell.com
 sinpremmet1o01.sg.dell.com
 sinpremtool1o01.sg.dell.com
@@ -16170,7 +16168,6 @@ sinrsw04.sg.dell.com
 sinsdcswvpn01-dmz.dell.com
 sinsdcswvpndev01-dmz.dell.com
 sint2b.us.dell.com
-sintworadw1o01.sg.dell.com
 sintworadw1o04.sg.dell.com
 sinx7adc101.apac.dell.com
 sinx7adc102.apac.dell.com
@@ -17529,8 +17526,11 @@ training1-s3b.us.dell.com
 traininglab.dcca.dell.com
 transaction-processor-prod.dfs.dell.com
 trappist.bray.ie.dell.com
+trdnlshpfadm01.amer.dell.com
 trdnlshpfadm01.us.dell.com
 trdnlshpfapp01.us.dell.com
+trdnlshpfapp02.amer.dell.com
+trdnlshpfapp03.amer.dell.com
 trdnlshpfweb01.us.dell.com
 trdplcmpdadm01.amer.dell.com
 trdplcmpdapp01.amer.dell.com

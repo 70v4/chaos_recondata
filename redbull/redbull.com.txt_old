@@ -130,9 +130,12 @@ au.redbull.com
 auth.redbull.com
 auth.uk.redbull.com
 auth0.redbull.com
+authenticator-d.redbull.com
+authenticator-q.redbull.com
 authenticator.auth-d.redbull.com
 authenticator.auth-q.redbull.com
 authenticator.auth.redbull.com
+authenticator.redbull.com
 authoring-dev.rbtwo.redbull.com
 authoring-dev.redbull.com
 authoring-stage.redbull.com
@@ -1707,9 +1710,12 @@ www.atszgmhise1-p.infra.redbull.com
 www.au-vpn01.redbull.com
 www.au.redbull.com
 www.auth.redbull.com
+www.authenticator-d.redbull.com
+www.authenticator-q.redbull.com
 www.authenticator.auth-d.redbull.com
 www.authenticator.auth-q.redbull.com
 www.authenticator.auth.redbull.com
+www.authenticator.redbull.com
 www.automate.app.redbull.com
 www.basement.redbull.com
 www.beta.redtech.redbull.com

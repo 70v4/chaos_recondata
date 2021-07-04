@@ -177,6 +177,7 @@ casarray.fireeye.com
 casarray.glb.fireeye.com
 cbcm.fireeye.com
 ccs-aggregator.k8s-etp-dev01.cloud.apps.fireeye.com
+cdk-constructs.docs.endpoint.fireeye.com
 cgen3.fireeye.com
 chat.fireeye.com
 chef-dev.selabs.fireeye.com
@@ -380,6 +381,7 @@ etp-stage-simple-api-app.k8s-etp-qa01.cloud.apps.fireeye.com
 etp.ap.fireeye.com
 etp.eu.fireeye.com
 etp.us.fireeye.com
+etpd-certstreamserver.k8s-etp-dev01.cloud.apps.fireeye.com
 eu-central-1.cloudvisory-dev.cloud.aws.apps.fireeye.com
 eu-central-1.cloudvisory.apps.fireeye.com
 eu-north-1.cloudvisory-dev.cloud.aws.apps.fireeye.com
@@ -449,6 +451,7 @@ fenetqa1.eng.fireeye.com
 fereputation-stage.fireeye.com
 fereputation.cso.fireeye.com
 fereputation.fireeye.com
+fesops.docs.endpoint.fireeye.com
 festage.fireeye.com
 fesyslog1.fireeye.com
 fevideo.fireeye.com
@@ -2183,6 +2186,7 @@ t.fireeye.com
 tap-var-dev.i.apps.fireeye.com
 tapvar.apps.fireeye.com
 tapvardev.apps.fireeye.com
+tasking.docs.endpoint.fireeye.com
 teamcity.sre.apps.fireeye.com
 telemetry.ap.feconnect.fireeye.com
 telemetry.copss01.concord.apps.fireeye.com

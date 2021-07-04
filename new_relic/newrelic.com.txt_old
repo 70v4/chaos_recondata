@@ -356,6 +356,7 @@ infrastructurewww.service.newrelic.com
 infrastructurstaging.service.newrelic.com
 infrastructurtest.service.newrelic.com
 ingest-integration.newrelic.com
+ingest-test-api.eu.newrelic.com
 ingest-test.newrelic.com
 insights-api.newrelic.com
 insights-collector.newrelic.com

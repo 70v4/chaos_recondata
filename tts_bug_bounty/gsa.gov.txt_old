@@ -294,6 +294,7 @@ cabotp.gsa.gov
 cae.gsa.gov
 caf-api-dev.fss19-dev.fcs.gsa.gov
 caf-api-mgmt.fss19-mgmt.fcs.gsa.gov
+caf-api-test.fss19-test.fcs.gsa.gov
 calc.gsa.gov
 callcenter.fas.gsa.gov
 callcenter.fss.gsa.gov
@@ -67148,6 +67149,7 @@ preview.gsa.gov
 pricespaid.fas.gsa.gov
 pricing-api-dev.fss19-dev.fcs.gsa.gov
 pricing-api-mgmt.fss19-mgmt.fcs.gsa.gov
+pricing-api-test.fss19-test.fcs.gsa.gov
 prod-iae.bsp.gsa.gov
 prod.acr.mcaas.fcs.gsa.gov
 prod.dxcore.dx.mcaas.fcs.gsa.gov

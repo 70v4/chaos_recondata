@@ -534,6 +534,8 @@ login.sys.pcf-t01-we.rabobank.nl
 login.sys.pcf-t02-we.rabobank.nl
 lqagate0.rabobank.nl
 lqpgate0.rabobank.nl
+lsrv0362.linux.rabobank.nl
+lsrv0363.linux.rabobank.nl
 lsrv4267-vip.rabobank.nl
 lsrv4267-vipnew.rabobank.nl
 lsrv4270-vip.rabobank.nl
@@ -798,6 +800,10 @@ prod.dll.vzp.rabobank.nl
 prod.rf.rabobank.nl
 prog-ota.rabobank.nl
 projectsites.rabobank.nl
+proxy-agent-apm.rabobank.nl
+proxy-agent-ketenmonitoring.rabobank.nl
+proxy-pa-agent-apm.rabobank.nl
+proxy-pa-agent-ketenmonitoring.rabobank.nl
 psftp.mwintegration.rabobank.nl
 pub.mail.rabobank.nl
 qubus-uat3.uhk.rabobank.nl

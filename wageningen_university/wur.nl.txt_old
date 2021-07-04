@@ -354,6 +354,7 @@ consumer-guestaccounttool-student.acc.dip.wur.nl
 consumer-healthchecker-healthcheck.acc.dip.wur.nl
 consumer-horafinita-course.tst.dip.wur.nl
 consumer-horafinita-organisation.acc.dip.wur.nl
+consumer-horafinita-organisation.prd.dip.wur.nl
 consumer-horafinita-organisation.tst.dip.wur.nl
 consumer-horafinita-wurperson.acc.dip.wur.nl
 consumer-horafinita-wurperson.prd.dip.wur.nl
@@ -809,6 +810,7 @@ ipm.containers.wur.nl
 ipm.wenr.wur.nl
 ipmclient-test.containers.wur.nl
 ipmclient.containers.wur.nl
+ipmi.anunna.wur.nl
 ipmi.hpcag.wur.nl
 ipsofacto.wur.nl
 ipt.psg.wur.nl
@@ -1180,6 +1182,7 @@ preview-app.containers.wur.nl
 primet.wur.nl
 primo.library.wur.nl
 prod.blackboard.wur.nl
+program.wur.nl
 project.kameleon.wur.nl
 projectacc.kameleon.wur.nl
 projectasg.wur.nl

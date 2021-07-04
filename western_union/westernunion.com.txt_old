@@ -36,6 +36,7 @@ api-prod.dgbk.wuib.eu.westernunion.com
 api-prod.fourthline.partner.eu.cloud.westernunion.com
 api-prod.saltedge.partner.eu.cloud.westernunion.com
 api-test.business.westernunion.com
+api-uat.trackpayment.wubs.westernunion.com
 api.business.westernunion.com
 api.cmt.stp.us.dev.westernunion.com
 api.cmt.stp.us.prod.westernunion.com
@@ -48,6 +49,7 @@ api.payment-tracking.qa.westernunion.com
 api.payment-tracking.uat.westernunion.com
 api.qa.globalpay.westernunion.com
 api.sandbox.westernunion.com
+api.trackpayment.wubs.westernunion.com
 api.uat.globalpay.westernunion.com
 api.westernunion.com
 api.wupay-uat.westernunion.com
@@ -913,6 +915,12 @@ vdi-itio.westernunion.com
 vdieuc-il.westernunion.com
 vdieuc-va.westernunion.com
 vdieuc.westernunion.com
+vendor.payment-demo.business.westernunion.com
+vendor.payment-perf.business.westernunion.com
+vendor.payment-qa.business.westernunion.com
+vendor.payment-qa2.business.westernunion.com
+vendor.payment-uat.business.westernunion.com
+vendor.payment.business.westernunion.com
 video.westernunion.com
 view.e.westernunion.com
 view.transactions.westernunion.com

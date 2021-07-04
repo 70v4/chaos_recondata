@@ -41,6 +41,7 @@
 2021-04-13.adsmanager.roku.com
 2021-05-11.circles.roku.com
 2021-05-17.circle.roku.com
+2021-06-30.link.roku.com
 _dmarc.roku.com
 a.mx.email1.roku.com
 a.mx.emailsn.roku.com
@@ -885,6 +886,7 @@ pubdashboards.data.roku.com
 pubdashboards.web.roku.com
 pubkeys1.tis.cti.roku.com
 pubkeys2.tis.cti.roku.com
+qa.bdp.roku.com
 qa.cs.roku.com
 qa.partner.roku.com
 qa.portal.roku.com
@@ -937,6 +939,7 @@ rokufact-api.cti.roku.com
 rokufact-api.dev.cti.roku.com
 rokufact-api.qa.cti.roku.com
 rokufact-api.stg.cti.roku.com
+rokumesh-auto-ldemailly-test1.us-west-2.dev.msc.roku.com
 rokumesh-auto-sboga-test.us-west-2.dev.msc.roku.com
 rokumesh-auto-smorampudi-copy.us-west-2.dev.msc.roku.com
 rokumesh-auto-smorampudi-copy2.us-west-2.dev.msc.roku.com

@@ -82,6 +82,7 @@ bzoek.vrt.be
 campagne.vrt.be
 car-api-stag.vrt.be
 car-api-test.vrt.be
+car-api.vrt.be
 cds.stubru-dev.vrt.be
 cds.stubru-stag.vrt.be
 chef.lab.vrt.be
@@ -280,6 +281,7 @@ manager-origin.cloudcall.vrt.be
 manager-prod-origin.cloudcall.vrt.be
 manager-prod.cloudcall.vrt.be
 manager-stag-origin.cloudcall.vrt.be
+manager-stag.cloudcall.vrt.be
 manager.cloudcall.vrt.be
 marconi.lab.vrt.be
 marketing.vrt.be

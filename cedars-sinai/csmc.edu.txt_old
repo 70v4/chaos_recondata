@@ -175,6 +175,7 @@ cirt-ftp.csmc.edu
 clientmgt.csmc.edu
 clinapps.csmc.edu
 clinicaltimeline.csmc.edu
+clinicaltimelinedev.csmc.edu
 clinicaltrials-test.csmc.edu
 clinicaltrials.csmc.edu
 cma.csmc.edu
@@ -428,6 +429,8 @@ esdwlyncfe01.csmc.edu
 esdwonbcas01.csmc.edu
 esdwonbcas02.csmc.edu
 esdwotedc02.csmc.edu
+esdwradpoc01.csmc.edu
+esdwradpoc02.csmc.edu
 esdwtopazams01.csmc.edu
 esdwvr104.csmc.edu
 esdwvr105.csmc.edu
@@ -941,6 +944,7 @@ raa.csmc.edu
 rcr.csmc.edu
 rdr.csmc.edu
 rdrint.csmc.edu
+redcap-dev.csmc.edu
 redcap-test.csmc.edu
 redcap.csmc.edu
 redcapdev.csmc.edu
@@ -1048,6 +1052,7 @@ vdiconnect.csmc.edu
 videolinka310.csmc.edu
 vidm.csmc.edu
 vidyo.csmc.edu
+vldap.csmc.edu
 voalte.csmc.edu
 voalte3.csmc.edu
 voalte3.voaltesandbox.csmc.edu

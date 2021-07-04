@@ -1347,6 +1347,7 @@ dahsingbank.gateway.mastercard.com
 dal.pki.gateway.mastercard.com
 danieltest.mastercard.com
 dapi.gateway.mastercard.com
+dapi.mastercard.com
 dashboard.stage.mptse.mastercard.com
 dashboard2.stage.mptse.mastercard.com
 data.mastercard.com
@@ -2816,6 +2817,7 @@ raxstage.zen.mastercard.com
 rba.mastercard.com
 rcnportal.mptse.mastercard.com
 rd.mastercard.com
+redemption.mastercard.com
 refdata.3ds2.mastercard.com
 remote.apps.gslb.mastercard.com
 remote.apps.mastercard.com
@@ -3430,6 +3432,7 @@ stage.public-il.pinpoint.net.au.mastercard.com
 stage.public.pinpoint.net.au.mastercard.com
 stage.qkrguide.mastercard.com
 stage.quicklaunch.mastercard.com
+stage.redemption.mastercard.com
 stage.refdata.3ds2.mastercard.com
 stage.repl.lightbox.send.mastercard.com
 stage.resumesdirec.linux.mcincontrol-proxy.mastercard.com
@@ -3820,6 +3823,7 @@ traveloffers.mastercard.com
 travelprepaid.mastercard.com
 travelwithus-dev.mastercard.com
 travelwithus.mastercard.com
+trc-be-prod.mastercard.com
 truaxis.internal.mastercard.com
 truaxis.mastercard.com
 truaxis2.mastercard.com

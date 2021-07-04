@@ -95,6 +95,7 @@ cf.int.signin.service.ncsc.gov.uk
 cf.keycloak.int.signin.service.ncsc.gov.uk
 cf.keycloak.signin-int.notprod.devops.ncsc.gov.uk
 cf.keycloak.signin-stage.notprod.devops.ncsc.gov.uk
+cf.keycloak.signin-test.notprod.devops.ncsc.gov.uk
 cf.keycloak.stage.signin.service.ncsc.gov.uk
 cf.keycloak.www.signin.service.ncsc.gov.uk
 cf.origin.signin-int.notprod.devops.ncsc.gov.uk
@@ -194,6 +195,7 @@ elb.int.signin.service.ncsc.gov.uk
 elb.keycloak.int.signin.service.ncsc.gov.uk
 elb.keycloak.signin-int.notprod.devops.ncsc.gov.uk
 elb.keycloak.signin-stage.notprod.devops.ncsc.gov.uk
+elb.keycloak.signin-test.notprod.devops.ncsc.gov.uk
 elb.keycloak.stage.signin.service.ncsc.gov.uk
 elb.keycloak.www.signin.service.ncsc.gov.uk
 elb.signin-int.notprod.devops.ncsc.gov.uk
@@ -208,6 +210,7 @@ es.logcollection.service.ncsc.gov.uk
 exerciseinabox.service.ncsc.gov.uk
 external.ncsc.gov.uk
 fd-auth.threatintel.service.ncsc.gov.uk
+flappyfindings.webcheck.service.ncsc.gov.uk
 gateway1.dev.mailcheck.service.ncsc.gov.uk
 gateway1.idev.mailcheck.service.ncsc.gov.uk
 gateway1.mailcheck.service.ncsc.gov.uk
@@ -280,6 +283,7 @@ keycloak.int.signin.service.ncsc.gov.uk
 keycloak.prod.i.new.signin.service.ncsc.gov.uk
 keycloak.signin-int.notprod.devops.ncsc.gov.uk
 keycloak.signin-stage.notprod.devops.ncsc.gov.uk
+keycloak.signin-test.notprod.devops.ncsc.gov.uk
 keycloak.stage.i.signin.notprod.devops.ncsc.gov.uk
 keycloak.stage.signin.service.ncsc.gov.uk
 keycloak.www.signin.service.ncsc.gov.uk

@@ -102,6 +102,7 @@ dev.agent.ui.cards.marcus.com
 dev.agentdirect.infra.marcus.com
 dev.alation.infra.marcus.com
 dev.api.infra.marcus.com
+dev.billpay.consumercloud.marcus.com
 dev.cards.marcus.com
 dev.consumer.cards.marcus.com
 dev.hidden-secondary-01.mongodb.infra.marcus.com

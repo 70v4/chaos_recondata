@@ -691,6 +691,7 @@ frankfurt.us1.twilio.com
 gateway-backup.corp.twilio.com
 gateway-las.corp.twilio.com
 gateway-mdw.corp.twilio.com
+gateway-test-file.corp.twilio.com
 gateway-test.corp.twilio.com
 gateway.corp.twilio.com
 gateway1-bg1.corp.twilio.com
@@ -1186,6 +1187,7 @@ voice-insights6.stage-us1.eak.twilio.com
 voice-insights6.us1.eak.twilio.com
 voice-js.ashburn.dev.twilio.com
 voice-js.roaming.dev.twilio.com
+voice-js.umatilla.dev.twilio.com
 voice.dev-us1.eak.twilio.com
 voice.stage-us1.eak.twilio.com
 voice.us1.eak.twilio.com

@@ -1284,6 +1284,7 @@ dev-itscrm.bentley.com
 dev-itserp.bentley.com
 dev-itwin.bentley.com
 dev-itwindemo.bentley.com
+dev-itwinplatform-eus.bentley.com
 dev-itwinviewer.bentley.com
 dev-launchdarkly-staging.bentley.com
 dev-launchdarkly.bentley.com
@@ -2176,6 +2177,8 @@ qa-connect-entitlementinternalutil-staging.bentley.com
 qa-connect-entitlementinternalutil.bentley.com
 qa-connect-entitlementmanagement-staging.bentley.com
 qa-connect-entitlementmanagement.bentley.com
+qa-connect-eonfeaturetrackingwebapi-staging.bentley.com
+qa-connect-eonfeaturetrackingwebapi.bentley.com
 qa-connect-evaluationentitlementservice-eus-staging.bentley.com
 qa-connect-evaluationentitlementservice-eus.bentley.com
 qa-connect-evaluationentitlementservice-sea-staging.bentley.com
@@ -2267,6 +2270,8 @@ qa-connect-imodeljscompatibility.bentley.com
 qa-connect-imodeljsdevorchestrator.bentley.com
 qa-connect-imodeljsgrafana-eus.bentley.com
 qa-connect-imodeljsgrafana-uks.bentley.com
+qa-connect-imodeljsgrafanatemp-eus.bentley.com
+qa-connect-imodeljsgrafanatemp-uks.bentley.com
 qa-connect-imodeljsgraphqldashboard-staging.bentley.com
 qa-connect-imodeljsgraphqldashboard.bentley.com
 qa-connect-imodeljskubedash-eus.bentley.com
@@ -2274,6 +2279,8 @@ qa-connect-imodeljskubedash-uks.bentley.com
 qa-connect-imodeljsrouter-eus.bentley.com
 qa-connect-imodeljsrouter-uks.bentley.com
 qa-connect-imodeljsrouter.bentley.com
+qa-connect-imodeljsroutertemp-eus.bentley.com
+qa-connect-imodeljsroutertemp-uks.bentley.com
 qa-connect-imodeljssf-eus.bentley.com
 qa-connect-imodeljssf-uks.bentley.com
 qa-connect-imodeljssf.bentley.com
@@ -2670,6 +2677,7 @@ qa-pwdm-uks-staging.bentley.com
 qa-pwdm-uks.bentley.com
 qa-pwdm.bentley.com
 qa-pwdrive-delegation.bentley.com
+qa-pwdrive-revcache.bentley.com
 qa-pwdrivesettings.bentley.com
 qa-pwhost-gw-vl18.bentley.com
 qa-pwrconversionorchestrator.bentley.com

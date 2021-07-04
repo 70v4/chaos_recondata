@@ -32,6 +32,7 @@ active.ews-dev.fip.dev.finra.org
 active.ews-devint.fip.dev.finra.org
 active.ews-public-dev.fip.dev.finra.org
 active.ews-public-devint.fip.dev.finra.org
+active.ews-public-qaint.fip.qa.dr.finra.org
 active.ews-public-qaint.fip.qa.finra.org
 active.ews-public-stress.fip.qa.finra.org
 active.ews-public.fip.finra.org
@@ -1987,9 +1988,11 @@ participants.qa.finra.org
 passive.ews-dev.fip.dev.finra.org
 passive.ews-public-dev.fip.dev.finra.org
 passive.ews-public-devint.fip.dev.finra.org
+passive.ews-public-qaint.fip.qa.dr.finra.org
 passive.ews-public-qaint.fip.qa.finra.org
 passive.ews-public-stress.fip.qa.finra.org
 passive.ews-public.fip.finra.org
+passive.ews-qaint.fip.qa.dr.finra.org
 passive.ews-qaint.fip.qa.finra.org
 passive.ews-stress.fip.qa.finra.org
 passive.ews.fip.finra.org
@@ -2433,6 +2436,7 @@ sendmail.pa.finra.org
 sendmail.qa.finra.org
 services-dynarep.ddwa.finra.org
 services-dynarep.ddwa.qa.finra.org
+services-int-dynarep.ddwa.qa.finra.org
 services-int.rampdo.qa.finra.org
 services.rampdo.finra.org
 services.rampdo.qa.finra.org

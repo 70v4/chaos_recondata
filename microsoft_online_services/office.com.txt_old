@@ -326,6 +326,7 @@ dma811.resnet.ust.office.com
 dms.diagnostics.office.com
 dns.office.com
 dod.geneva.aesir.office.com
+dod.geneva.keyvault.fastraven.substrate.office.com
 dod.rest.peoplepredictions.outlook.office.com
 doesntexist.diagnostics.office.com
 dogfood.al.azureml.office.com
@@ -390,6 +391,7 @@ edog.office.com
 edog.osi.office.com
 eduanalyticssigningcertkey.office.com
 eduservicessigningcertkey.office.com
+efdcsigningcertkey.office.com
 ejp.config.office.com
 ejp.consumer.suite.office.com
 ejp.office.com
@@ -880,6 +882,7 @@ officeicesigningcertkey.office.com
 officelicensingsigningcertkey.office.com
 officemaxsvcssigningcertkey.office.com
 officemru.outlook.office.com
+officeomexsigningcertkey.office.com
 officerdxsvcssigningcertkey.office.com
 officeswaysigningcertkey.office.com
 offline.suite.office.com
@@ -984,6 +987,7 @@ ppeencrypt.loki.office.com
 pr0-direct-ip.office.com
 preview-insider.office.com
 preview.insider.office.com
+previewbundle.wac.dod.office.com
 previews.office.com
 privacy.outlook.office.com
 prod-boxazureapicert.office.com

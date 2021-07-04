@@ -885,6 +885,7 @@ traefik.infra.caffeine.tv
 traefik.staging.caffeine.tv
 vault.infra.caffeine.tv
 vault.staging.caffeine.tv
+video-cf.development.caffeine.tv
 wiki.caffeine.tv
 www.caffeine.tv
 www.staging.caffeine.tv

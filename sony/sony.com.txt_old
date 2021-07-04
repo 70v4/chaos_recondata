@@ -4871,6 +4871,8 @@ ita.spe.sony.com
 itafw-db.fw-bc.sony.com
 itafw.fw-bc.sony.com
 itapps.spe.sony.com
+itdo-teleport-nonprod.sie.sony.com
+itdo-teleport-prod.sie.sony.com
 itoc.sie.sony.com
 itps-extsan.spe.sony.com
 itps-intsan.spe.sony.com
@@ -8955,6 +8957,7 @@ taas-stg.spe.sony.com
 taas-stress.spe.sony.com
 taas.spe.sony.com
 taascognos-qa.spe.sony.com
+taascognos.spe.sony.com
 taascognosdev.spe.sony.com
 tabextgw-qa.spe.sony.com
 tabextgw.spe.sony.com
@@ -9226,6 +9229,12 @@ usashghcwanrt01.am.sony.com
 usashghcwanrt02.am.sony.com
 usashlieweb01v.am.sony.com
 usashlieweb02v.am.sony.com
+usashscahx01.am.sony.com
+usashscahxd01.am.sony.com
+usashselhx01.am.sony.com
+usashselhxd01.am.sony.com
+usashsmehx01.am.sony.com
+usashsmehxd01.am.sony.com
 usashsqllie01v.am.sony.com
 usashsqllie02v.am.sony.com
 usbmapgp10.fw-bc.sony.com
@@ -9484,6 +9493,10 @@ uslaxedc-inet-ro01.spe.sony.com
 uslaxedc-ras01.spe.sony.com
 uslaxedc-xpc01.spe.sony.com
 uslaxns01-snip.spe.sony.com
+uslaxspe-ccm11.spe.sony.com
+uslaxspe-ccm12.spe.sony.com
+uslaxspe-ccm13.spe.sony.com
+uslaxspe-ccm14.spe.sony.com
 uslaxzadc01.dmz.spe.sony.com
 uslveadc01.am.sony.com
 uslveadc02.am.sony.com
@@ -9604,6 +9617,7 @@ uspl723.spe.sony.com
 uspl739.spe.sony.com
 uspl755.spe.sony.com
 uspl770.spe.sony.com
+uspl861.spe.sony.com
 uspl865.spe.sony.com
 uspl866.spe.sony.com
 uspl926.spe.sony.com

@@ -80,6 +80,8 @@ adat6.telekom.de
 adb.telekom.de
 adbrfu.telekom.de
 adfs-labs.telekom.de
+adm-dts-psp.telekom.de
+adm-reporting.telekom.de
 admin-konferenzen-poc.telekom.de
 admin-konferenzen-test.telekom.de
 admin-konferenzen.telekom.de
@@ -202,6 +204,8 @@ aoe.b2b.telekom.de
 apbs.telekom.de
 api-business-portal-smart-connect.telekom.de
 api-ip2.ddc.telekom.de
+api-oreo-preprod.telekom.de
+api-oreo-prod.telekom.de
 api.apollo-x.aws.telekom.de
 api.apollo-x.dev.aws.telekom.de
 api.apollo-x.staging.aws.telekom.de
@@ -402,6 +406,8 @@ ausbildung.telekom.de
 ausweich-rebell-ironman.telekom.de
 ausweise.telekom.de
 auth-gppng2-01a.inf.oasis.telekom.de
+auth-oreo-preprod.telekom.de
+auth-oreo-prod.telekom.de
 auth-pfau.telekom.de
 auth.cs.telekom.de
 auth.demowb.devops.telekom.de
@@ -791,6 +797,7 @@ cacti-ngssm.telekom.de
 cacti-ru-ngssm.telekom.de
 cacti-rv-ngssm.telekom.de
 cai-test.telekom.de
+calculus.telekom.de
 callmanager-app-test.telekom.de
 callmanager-app.telekom.de
 callmanager-test.telekom.de
@@ -843,6 +850,7 @@ cdn-pocdlsi.telekom.de
 cdnvt.sgp.telekom.de
 cdsw.odl-ref.telekom.de
 cdsw.odl.telekom.de
+cee.telekom.de
 ceis.telekom.de
 ceiser-api-tst.telekom.de
 ceiser-api.telekom.de
@@ -883,6 +891,7 @@ chat3.center.telekom.de
 check.telekom.de
 check24-dsl-test.b2b.telekom.de
 check24-dsl.b2b.telekom.de
+checkout2order.dev.mah.telekom.de
 chf-prod.telekom.de
 chf-qa.telekom.de
 chf-qa2.telekom.de
@@ -965,6 +974,8 @@ cmsystem.aws.telekom.de
 cmut-tmf-dev-wbench-reg.devops.telekom.de
 cmut-tmf-dev-wbench.devops.telekom.de
 cobra-aax.telekom.de
+cockpit-oreo-preprod.telekom.de
+cockpit-oreo-prod.telekom.de
 code-factory.dev.asf.telekom.de
 code-factory.prod.asf.telekom.de
 code-factory.uat.asf.telekom.de
@@ -2384,6 +2395,7 @@ imaweb-tshop-qas.telekom.de
 imaweb-tshop.telekom.de
 immmr-asa.laboratories.telekom.de
 ims-monitoring.telekom.de
+imsa-dev.telekom.de
 imsa-test.telekom.de
 imsa-wbench-reg.devops.telekom.de
 imsa-wbench.devops.telekom.de
@@ -2418,6 +2430,8 @@ institut.telekom.de
 int.gdi-etau.telekom.de
 int.icld.telekom.de
 int.oasis.telekom.de
+integration-oreo-preprod.telekom.de
+integration-oreo-prod.telekom.de
 integration-tests.uat.asf.telekom.de
 integrationlabdb-interim.laboratories.telekom.de
 integrity-fmed.telekom.de
@@ -2487,12 +2501,16 @@ ips-weso-ref.telekom.de
 ips-weso-ta.telekom.de
 ips-weso.telekom.de
 ironic-api.das-schiff.telekom.de
+ironic-api.schiff.telekom.de
 ironic-boot.das-schiff.telekom.de
+ironic-boot.schiff.telekom.de
 ironic-images-sa2-ba.mgmt.sa2.ba.das-schiff.telekom.de
 ironic-images.das-schiff.telekom.de
 ironic-inspector.das-schiff.telekom.de
+ironic-inspector.schiff.telekom.de
 ironic-sa2-ba.mgmt.sa2.ba.das-schiff.telekom.de
 ironic.das-schiff.telekom.de
+ironic.schiff.telekom.de
 is.aws.test.devops.telekom.de
 is.dev.asf.telekom.de
 ise.aws.test.devops.telekom.de
@@ -2674,6 +2692,7 @@ kiweb.telekom.de
 kks-cit2.telekom.de
 kks-cit4.telekom.de
 kks-dev.telekom.de
+klb-test.telekom.de
 klitschko.telekom.de
 kls-wbench-reg.devops.telekom.de
 kls-wbench.devops.telekom.de
@@ -3489,6 +3508,10 @@ nsxalb-han2-01b.inf.pp-oasis.telekom.de
 nsxalb-han2-01c.inf.pp-oasis.telekom.de
 nsxm-gppng2-01.inf.oasis.telekom.de
 nsxr-gppng2-01.inf.oasis.telekom.de
+nsxt-ffm1-01.inf.dcpf.telekom.de
+nsxt-ffm1-01a.inf.dcpf.telekom.de
+nsxt-ffm1-01b.inf.dcpf.telekom.de
+nsxt-ffm1-01c.inf.dcpf.telekom.de
 nsxt-gppng2-01.inf.oasis.telekom.de
 nsxt-gppng2-01a.inf.oasis.telekom.de
 nsxt-gppng2-01b.inf.oasis.telekom.de
@@ -4303,6 +4326,8 @@ priv.cl07.gigadev.telekom.de
 priv.cl08.gigadev.telekom.de
 priv.csaba-private-access-121.gigadev.telekom.de
 priv.digihub-102439.gigadev.telekom.de
+priv.digihub-103789-starboard.gigadev.telekom.de
+priv.digihub-103789-ui.gigadev.telekom.de
 priv.digihub-104456.gigadev.telekom.de
 priv.digihub-106606.gigadev.telekom.de
 priv.digihub-107123.gigadev.telekom.de
@@ -4468,6 +4493,8 @@ pub.cl07.gigadev.telekom.de
 pub.cl08.gigadev.telekom.de
 pub.csaba-private-access-121.gigadev.telekom.de
 pub.digihub-102439.gigadev.telekom.de
+pub.digihub-103789-starboard.gigadev.telekom.de
+pub.digihub-103789-ui.gigadev.telekom.de
 pub.digihub-104456.gigadev.telekom.de
 pub.digihub-106606.gigadev.telekom.de
 pub.digihub-107123.gigadev.telekom.de
@@ -4951,6 +4978,7 @@ savet-wirk-test.telekom.de
 savet-wirk-wp.telekom.de
 sb2-bw-bits.one-reporting.telekom.de
 sbv-zc.telekom.de
+sc.telekom.de
 scanplus.b2b.telekom.de
 scanservice1.cert.telekom.de
 scc-pqit-dev.telekom.de
@@ -5177,6 +5205,8 @@ slim-ionex-app.zspi.telekom.de
 slim-lisa-app-test.zspi.telekom.de
 slim-test.zspi.telekom.de
 slim.zspi.telekom.de
+sm-avaya1-etau-cc.telekom.de
+sm-avaya2-etau-cc.telekom.de
 sm-dev-gax.aws.telekom.de
 sm-dev-gcxi.aws.telekom.de
 sm-dev-itc.aws.telekom.de
@@ -5358,6 +5388,7 @@ sso-qas.onesrm.telekom.de
 sso-tua-cc.telekom.de
 sso.onesrm.telekom.de
 sst1-rc2002.telekom.de
+st.mavi.res.telekom.de
 st.mshop.res.telekom.de
 st1.bear-test.telekom.de
 st2.bear-test.telekom.de
@@ -5486,6 +5517,7 @@ t132524.telekom.de
 t15-136.dedicated.ct132524.telekom.de
 t4t.telekom.de
 t4xdsl.telekom.de
+ta-analytics-video.telekom.de
 ta-besucheranmeldung.telekom.de
 ta-ecdn-video-mobil.telekom.de
 ta-logs-mshop.telekom.de
@@ -5829,8 +5861,11 @@ tma.telekom.de
 tmagic-ta3-etau-amk.telekom.de
 tmcz-mmstest.telekom.de
 tmd-mmstest.telekom.de
+tmdc-bn-ref-objectstore.telekom.de
 tmdc-bx-prod-objectstore.telekom.de
 tmdc-fx-prod-objectstore.telekom.de
+tmdc-nx-ref-objectstore.telekom.de
+tmdc-ref-objectstore.telekom.de
 tmnl-mmstest.telekom.de
 tmon.telekom.de
 tmp01.telekom.de
@@ -6134,6 +6169,7 @@ vcloudtest.telekom.de
 vcs.b2b.telekom.de
 vcsam-gppng2-01.inf.oasis.telekom.de
 vcsam-gppng2-01.oasis.telekom.de
+vcsar-ffm1-02.inf.dcpf.telekom.de
 vcsar-gppng2-01.inf.oasis.telekom.de
 vcsar-gppng2-01.oasis.telekom.de
 vcsar-gppng2-02.inf.oasis.telekom.de
@@ -6241,6 +6277,7 @@ voicemail.laboratories.telekom.de
 voicemail.telekom.de
 voicemailbox-test.ext.oasis.telekom.de
 voicemailskill.telekom.de
+voip-statistik.cndtag.oasis.telekom.de
 vpn.telekom.de
 vpn1.design.telekom.de
 vprekla.telekom.de
@@ -6260,6 +6297,10 @@ vrops-gppng2-01a.inf.oasis.telekom.de
 vrops-gppng2-01b.inf.oasis.telekom.de
 vrops-gppng2-01c.inf.oasis.telekom.de
 vrops-gppng2-01d.inf.oasis.telekom.de
+vrot-gppng2-01.inf.oasis.telekom.de
+vrot-gppng2-01a.inf.oasis.telekom.de
+vrot-gppng2-01b.inf.oasis.telekom.de
+vrot-gppng2-01c.inf.oasis.telekom.de
 vsd-redaktion-test.telekom.de
 vsd-redaktion.telekom.de
 vse.telekom.de
